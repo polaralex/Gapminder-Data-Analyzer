@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--suppress CheckTagEmptyBody -->
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.web.WebView?>
+<VBox fx:controller="Controller.MainCoordinator" xmlns:fx="http://javafx.com/fxml" alignment="center">
+
+     <HBox spacing="10" prefHeight="100" prefWidth="Infinity" alignment="CENTER">
+
+         <padding>
+             <Insets top="10" left="10" bottom="10" right="10"/>
+         </padding>
+
+         <Label text="Chart Type"></Label>
+         <Button text="Trendline" onAction="#showTrendlineChart"/>
+         <Button text="Bar Chart" onAction="#showBarChart"/>
+         <Button text="Scatter Plot" onAction="#showScatterPlot"/>
+
+    </HBox>
+
+    <HBox spacing="10" prefHeight="400" prefWidth="Infinity" alignment="CENTER">
+
+        <padding>
+            <Insets left="10" bottom="10" right="10"/>
+        </padding>
+
+        <VBox spacing="10" alignment="CENTER" prefHeight="Infinity">
+
+            <padding>
+                <Insets left="10" bottom="10" right="10"/>
+            </padding>
+
+            <Label text="Metrics"/>
+
+            <VBox fx:id="dropdownVbox" spacing="5">
+                <children>
+
+                </children>
+            </VBox>
+
+            <HBox fx:id="metricsButtonsPanel" spacing="10" alignment="CENTER">
+                <Button text="Add" onAction="#addMetricsSelector"></Button>
+                <Button text="Remove" onAction="#removeMetricsSelector"></Button>
+            </HBox>
+
+        </VBox>
+
+        <VBox prefHeight="Infinity" alignment="CENTER">
+
+            <Label text="Countries" alignment="CENTER"/>
+
+            <VBox fx:id="dropdownCountriesVbox" spacing="10" alignment="CENTER" visible="false"/>
+
+            <VBox fx:id="checklistVbox">
+                <children>
+
+                </children>
+            </VBox>
+        </VBox>
+
+        <VBox alignment="CENTER" spacing="10">
+            <VBox alignment="CENTER">
+                <Label text="Date Range"></Label>
+                <TextField fx:id="minDateRange" promptText="From (Year)"></TextField>
+                <TextField fx:id="maxDateRange" promptText="Until (Year)"></TextField>
+            </VBox>
+
+            <VBox alignment="CENTER">
+                <Label text="Group By"></Label>
+                <Slider fx:id="groupBySlider" min="1" max="10" value="1" showTickLabels="true" showTickMarks="true" snapToTicks="true" majorTickUnit="1" blockIncrement="1" minorTickCount="0"></Slider>
+            </VBox>
+        </VBox>
+
+        <VBox alignment="CENTER">
+            <Button minWidth="100" text="Run Query" onAction="#runQueryFromSelection"/>
+        </VBox>
+
+    </HBox>
+
+    <WebView fx:id="webview" prefWidth="700"/>
+</VBox>

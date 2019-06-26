@@ -1,0 +1,46 @@
+<!-- Code from d3-graph-gallery.com -->
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<head>
+<!-- Load c3.css -->
+<link href="c3.min.css" rel="stylesheet">
+
+<!-- Load d3.js and c3.js -->
+<script src="d3.v5.js"></script>
+<script src="c3.min.js"></script>
+
+</head>
+
+<body>
+    <h3>Bar Chart</h3>
+    <div id="chart"></div>
+</body>
+
+<script>
+
+var chart = c3.generate({
+    data: {
+        x: 'x',
+        columns: [
+            
+        ],
+        type: 'bar'
+    },
+    bar: {
+        width: {
+            ratio: 0.5 // this makes bar width 50% of length between ticks
+        }
+        // or
+        //width: 100 // this makes bar width 100px
+    },
+    axis : {
+        x : {
+            type : 'timeseries',
+            tick: {
+                format: '%Y'
+            }
+        }
+    }
+});
+</script>

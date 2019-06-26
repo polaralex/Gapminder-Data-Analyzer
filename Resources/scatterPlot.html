@@ -1,0 +1,49 @@
+<!-- Code from d3-graph-gallery.com -->
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<head>
+<!-- Load c3.css -->
+<link href="c3.min.css" rel="stylesheet">
+
+<!-- Load d3.js and c3.js -->
+<script src="d3.v5.js"></script>
+<script src="c3.min.js"></script>
+
+</head>
+
+<body>
+    <h3>Scatter Plot</h3>
+    <div id="chart"></div>
+</body>
+
+<script>
+
+var chart = c3.generate({
+    data: {
+        xs: {
+            metric2: 'metric1',
+        },
+        columns: [
+            ["metric1", ],
+            ["metric2", ],
+        ],
+        type: 'scatter'
+    },
+    axis: {
+        x: {
+            label: 'Metric 1 Name',
+            tick: {
+                fit: false
+            }
+        },
+        y: {
+            label: 'Metric 2 Name'
+        }
+    },
+    legend: {
+        show: false
+    }
+});
+
+</script>

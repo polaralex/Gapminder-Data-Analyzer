@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<canvas width="960" height="500"></canvas>
+<head>
+<script type="text/javascript" src="d3.v5.js"></script>
+<style>
+
+#body {
+    align-content: center;
+}
+
+        svg rect {
+            fill: orange;
+        }
+
+        svg text {
+             fill:white;
+            font: 10px sans-serif;
+            text-anchor: end;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="chart"></div>
+    <chart></chart>
+</body>
+
+<script>
+        function showTestGraph(data) {
+
+            var width = 300,
+            scaleFactor = 10,
+            barHeight = 20;
+
+            var chart = document.getElementsByTagName("chart");
+            if (chart[0] != null) {
+                    chart[0].innerHTML = "";
+            }
+
+            var graph = d3
+                    .select("chart")
+                    .append("svg")
+                    .attr("width", width)
+                    .attr("height", barHeight * data.length);
+    
+            var bar = graph.selectAll("g")
+                      .data(data)
+                      .enter()
+                      .append("g")
+                      .attr("transform", function(d, i) {
+                            return "translate(0," + i * barHeight + ")";
+                      });
+    
+        bar.append("rect")
+           .attr("width", function(d) {
+                    return d * scaleFactor;
+           })
+           .attr("height", barHeight - 1);
+    
+        bar.append("text")
+           .attr("x", function(d) { return (d*scaleFactor); })
+           .attr("y", barHeight / 2)
+           .attr("dy", ".35em")
+           .text(function(d) { return d; });
+        }
+    
+    </script>
+
+<body>
+        
+</body>
+    

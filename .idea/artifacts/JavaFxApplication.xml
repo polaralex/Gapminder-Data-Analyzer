@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="JavaFxApplication">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaFxApplication</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="Main" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="Test" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="JavaFxApplication.jar">
+        <element id="module-output" name="JavaFxApplication" />
+        <element id="library" level="project" name="controlsfx-8.40.15" />
+        <element id="library" level="project" name="mysql-connector-java-8.0.16" />
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,10789 @@
+country,Year,Value
+Afghanistan,1960,
+Afghanistan,1961,
+Afghanistan,1962,
+Afghanistan,1963,
+Afghanistan,1964,
+Afghanistan,1965,
+Afghanistan,1966,
+Afghanistan,1967,
+Afghanistan,1968,
+Afghanistan,1969,
+Afghanistan,1970,
+Afghanistan,1971,
+Afghanistan,1972,
+Afghanistan,1973,
+Afghanistan,1974,
+Afghanistan,1975,
+Afghanistan,1976,
+Afghanistan,1977,
+Afghanistan,1978,
+Afghanistan,1979,
+Afghanistan,1980,
+Afghanistan,1981,
+Afghanistan,1982,
+Afghanistan,1983,
+Afghanistan,1984,
+Afghanistan,1985,
+Afghanistan,1986,
+Afghanistan,1987,
+Afghanistan,1988,
+Afghanistan,1989,
+Afghanistan,1990,
+Afghanistan,1991,
+Afghanistan,1992,
+Afghanistan,1993,
+Afghanistan,1994,
+Afghanistan,1995,
+Afghanistan,1996,
+Afghanistan,1997,
+Afghanistan,1998,
+Afghanistan,1999,
+Afghanistan,2000,
+Afghanistan,2001,
+Afghanistan,2002,364
+Afghanistan,2003,376
+Afghanistan,2004,365
+Afghanistan,2005,390
+Afghanistan,2006,400
+Afghanistan,2007,442
+Afghanistan,2008,447
+Afghanistan,2009,527
+Afghanistan,2010,555
+Afghanistan,2011,576
+Afghanistan,2012,640
+Afghanistan,2013,643
+Afghanistan,2014,636
+Afghanistan,2015,626
+Afghanistan,2016,625
+Afghanistan,2017,
+Albania,1960,
+Albania,1961,
+Albania,1962,
+Albania,1963,
+Albania,1964,
+Albania,1965,
+Albania,1966,
+Albania,1967,
+Albania,1968,
+Albania,1969,
+Albania,1970,
+Albania,1971,
+Albania,1972,
+Albania,1973,
+Albania,1974,
+Albania,1975,
+Albania,1976,
+Albania,1977,
+Albania,1978,
+Albania,1979,
+Albania,1980,
+Albania,1981,
+Albania,1982,
+Albania,1983,
+Albania,1984,
+Albania,1985,
+Albania,1986,
+Albania,1987,
+Albania,1988,
+Albania,1989,
+Albania,1990,
+Albania,1991,
+Albania,1992,
+Albania,1993,
+Albania,1994,
+Albania,1995,
+Albania,1996,1970
+Albania,1997,1770
+Albania,1998,1950
+Albania,1999,2220
+Albania,2000,2390
+Albania,2001,2610
+Albania,2002,2710
+Albania,2003,2890
+Albania,2004,3060
+Albania,2005,3240
+Albania,2006,3460
+Albania,2007,3690
+Albania,2008,3790
+Albania,2009,3870
+Albania,2010,4050
+Albania,2011,4210
+Albania,2012,4240
+Albania,2013,4390
+Albania,2014,4440
+Albania,2015,4570
+Albania,2016,4740
+Albania,2017,4900
+Algeria,1960,2850
+Algeria,1961,2470
+Algeria,1962,1770
+Algeria,1963,2180
+Algeria,1964,2200
+Algeria,1965,2230
+Algeria,1966,2040
+Algeria,1967,2200
+Algeria,1968,2390
+Algeria,1969,2550
+Algeria,1970,2640
+Algeria,1971,2310
+Algeria,1972,2870
+Algeria,1973,2890
+Algeria,1974,3020
+Algeria,1975,3070
+Algeria,1976,3210
+Algeria,1977,3280
+Algeria,1978,3470
+Algeria,1979,3560
+Algeria,1980,3490
+Algeria,1981,3480
+Algeria,1982,3590
+Algeria,1983,3690
+Algeria,1984,3770
+Algeria,1985,3790
+Algeria,1986,3730
+Algeria,1987,3610
+Algeria,1988,3430
+Algeria,1989,3490
+Algeria,1990,3430
+Algeria,1991,3250
+Algeria,1992,3250
+Algeria,1993,3150
+Algeria,1994,3040
+Algeria,1995,3060
+Algeria,1996,3110
+Algeria,1997,3130
+Algeria,1998,3260
+Algeria,1999,3300
+Algeria,2000,3330
+Algeria,2001,3480
+Algeria,2002,3590
+Algeria,2003,3810
+Algeria,2004,3890
+Algeria,2005,3990
+Algeria,2006,4040
+Algeria,2007,4270
+Algeria,2008,4350
+Algeria,2009,4340
+Algeria,2010,4450
+Algeria,2011,4440
+Algeria,2012,4450
+Algeria,2013,4470
+Algeria,2014,4550
+Algeria,2015,4610
+Algeria,2016,4780
+Algeria,2017,
+Angola,1960,
+Angola,1961,
+Angola,1962,
+Angola,1963,
+Angola,1964,
+Angola,1965,
+Angola,1966,
+Angola,1967,
+Angola,1968,
+Angola,1969,
+Angola,1970,
+Angola,1971,
+Angola,1972,
+Angola,1973,
+Angola,1974,
+Angola,1975,
+Angola,1976,
+Angola,1977,
+Angola,1978,
+Angola,1979,
+Angola,1980,
+Angola,1981,
+Angola,1982,
+Angola,1983,
+Angola,1984,
+Angola,1985,
+Angola,1986,
+Angola,1987,
+Angola,1988,
+Angola,1989,
+Angola,1990,
+Angola,1991,
+Angola,1992,
+Angola,1993,
+Angola,1994,
+Angola,1995,
+Angola,1996,
+Angola,1997,
+Angola,1998,
+Angola,1999,
+Angola,2000,1440
+Angola,2001,1570
+Angola,2002,1810
+Angola,2003,1830
+Angola,2004,1910
+Angola,2005,2060
+Angola,2006,2290
+Angola,2007,2860
+Angola,2008,2790
+Angola,2009,3390
+Angola,2010,3190
+Angola,2011,3150
+Angola,2012,3170
+Angola,2013,3410
+Angola,2014,3570
+Angola,2015,3670
+Angola,2016,3500
+Angola,2017,3400
+Antigua and Barbuda,1960,
+Antigua and Barbuda,1961,
+Antigua and Barbuda,1962,
+Antigua and Barbuda,1963,
+Antigua and Barbuda,1964,
+Antigua and Barbuda,1965,
+Antigua and Barbuda,1966,
+Antigua and Barbuda,1967,
+Antigua and Barbuda,1968,
+Antigua and Barbuda,1969,
+Antigua and Barbuda,1970,
+Antigua and Barbuda,1971,
+Antigua and Barbuda,1972,
+Antigua and Barbuda,1973,
+Antigua and Barbuda,1974,
+Antigua and Barbuda,1975,
+Antigua and Barbuda,1976,
+Antigua and Barbuda,1977,
+Antigua and Barbuda,1978,
+Antigua and Barbuda,1979,
+Antigua and Barbuda,1980,
+Antigua and Barbuda,1981,
+Antigua and Barbuda,1982,
+Antigua and Barbuda,1983,
+Antigua and Barbuda,1984,
+Antigua and Barbuda,1985,
+Antigua and Barbuda,1986,
+Antigua and Barbuda,1987,
+Antigua and Barbuda,1988,
+Antigua and Barbuda,1989,
+Antigua and Barbuda,1990,
+Antigua and Barbuda,1991,
+Antigua and Barbuda,1992,
+Antigua and Barbuda,1993,
+Antigua and Barbuda,1994,
+Antigua and Barbuda,1995,
+Antigua and Barbuda,1996,
+Antigua and Barbuda,1997,
+Antigua and Barbuda,1998,
+Antigua and Barbuda,1999,
+Antigua and Barbuda,2000,
+Antigua and Barbuda,2001,
+Antigua and Barbuda,2002,
+Antigua and Barbuda,2003,
+Antigua and Barbuda,2004,
+Antigua and Barbuda,2005,
+Antigua and Barbuda,2006,
+Antigua and Barbuda,2007,
+Antigua and Barbuda,2008,
+Antigua and Barbuda,2009,
+Antigua and Barbuda,2010,11800
+Antigua and Barbuda,2011,
+Antigua and Barbuda,2012,
+Antigua and Barbuda,2013,
+Antigua and Barbuda,2014,
+Antigua and Barbuda,2015,
+Antigua and Barbuda,2016,
+Antigua and Barbuda,2017,
+Argentina,1960,5750
+Argentina,1961,5980
+Argentina,1962,5820
+Argentina,1963,5430
+Argentina,1964,5900
+Argentina,1965,6420
+Argentina,1966,6370
+Argentina,1967,6260
+Argentina,1968,6350
+Argentina,1969,6920
+Argentina,1970,6810
+Argentina,1971,7420
+Argentina,1972,7230
+Argentina,1973,7440
+Argentina,1974,7720
+Argentina,1975,7670
+Argentina,1976,7300
+Argentina,1977,7630
+Argentina,1978,7190
+Argentina,1979,7790
+Argentina,1980,7990
+Argentina,1981,7320
+Argentina,1982,6590
+Argentina,1983,6760
+Argentina,1984,6840
+Argentina,1985,6210
+Argentina,1986,6660
+Argentina,1987,6750
+Argentina,1988,6490
+Argentina,1989,5670
+Argentina,1990,5690
+Argentina,1991,6410
+Argentina,1992,7160
+Argentina,1993,7530
+Argentina,1994,7850
+Argentina,1995,7510
+Argentina,1996,7810
+Argentina,1997,8330
+Argentina,1998,8530
+Argentina,1999,8140
+Argentina,2000,7980
+Argentina,2001,7530
+Argentina,2002,6320
+Argentina,2003,6890
+Argentina,2004,7470
+Argentina,2005,8210
+Argentina,2006,8820
+Argentina,2007,9580
+Argentina,2008,9880
+Argentina,2009,9140
+Argentina,2010,9930
+Argentina,2011,10500
+Argentina,2012,10300
+Argentina,2013,10500
+Argentina,2014,10100
+Argentina,2015,10100
+Argentina,2016,9800
+Argentina,2017,10100
+Armenia,1960,
+Armenia,1961,
+Armenia,1962,
+Armenia,1963,
+Armenia,1964,
+Armenia,1965,
+Armenia,1966,
+Armenia,1967,
+Armenia,1968,
+Armenia,1969,
+Armenia,1970,
+Armenia,1971,
+Armenia,1972,
+Armenia,1973,
+Armenia,1974,
+Armenia,1975,
+Armenia,1976,
+Armenia,1977,
+Armenia,1978,
+Armenia,1979,
+Armenia,1980,
+Armenia,1981,
+Armenia,1982,
+Armenia,1983,
+Armenia,1984,
+Armenia,1985,
+Armenia,1986,
+Armenia,1987,
+Armenia,1988,
+Armenia,1989,
+Armenia,1990,1690
+Armenia,1991,1600
+Armenia,1992,756
+Armenia,1993,808
+Armenia,1994,955
+Armenia,1995,1040
+Armenia,1996,1150
+Armenia,1997,1240
+Armenia,1998,1310
+Armenia,1999,1360
+Armenia,2000,1440
+Armenia,2001,1600
+Armenia,2002,1830
+Armenia,2003,2090
+Armenia,2004,2310
+Armenia,2005,2680
+Armenia,2006,3080
+Armenia,2007,3560
+Armenia,2008,3850
+Armenia,2009,3260
+Armenia,2010,3380
+Armenia,2011,3490
+Armenia,2012,3750
+Armenia,2013,3930
+Armenia,2014,4000
+Armenia,2015,4090
+Armenia,2016,4010
+Armenia,2017,4390
+Australia,1960,19400
+Australia,1961,19500
+Australia,1962,19300
+Australia,1963,20000
+Australia,1964,21100
+Australia,1965,22000
+Australia,1966,21900
+Australia,1967,22900
+Australia,1968,23600
+Australia,1969,24600
+Australia,1970,25900
+Australia,1971,26100
+Australia,1972,26700
+Australia,1973,27100
+Australia,1974,27500
+Australia,1975,27600
+Australia,1976,28000
+Australia,1977,28500
+Australia,1978,28300
+Australia,1979,29100
+Australia,1980,29700
+Australia,1981,30400
+Australia,1982,30400
+Australia,1983,29700
+Australia,1984,30600
+Australia,1985,31700
+Australia,1986,32300
+Australia,1987,32600
+Australia,1988,33900
+Australia,1989,34300
+Australia,1990,34700
+Australia,1991,34000
+Australia,1992,33800
+Australia,1993,35200
+Australia,1994,36400
+Australia,1995,36900
+Australia,1996,37800
+Australia,1997,38900
+Australia,1998,40400
+Australia,1999,42000
+Australia,2000,43200
+Australia,2001,43500
+Australia,2002,44700
+Australia,2003,45400
+Australia,2004,46600
+Australia,2005,47100
+Australia,2006,47600
+Australia,2007,48700
+Australia,2008,49700
+Australia,2009,49900
+Australia,2010,49900
+Australia,2011,50300
+Australia,2012,51900
+Australia,2013,52700
+Australia,2014,53100
+Australia,2015,53900
+Australia,2016,54600
+Australia,2017,54500
+Austria,1960,
+Austria,1961,
+Austria,1962,
+Austria,1963,
+Austria,1964,
+Austria,1965,
+Austria,1966,
+Austria,1967,
+Austria,1968,
+Austria,1969,
+Austria,1970,19500
+Austria,1971,20400
+Austria,1972,21500
+Austria,1973,22500
+Austria,1974,23400
+Austria,1975,23300
+Austria,1976,24400
+Austria,1977,25600
+Austria,1978,25600
+Austria,1979,27000
+Austria,1980,27600
+Austria,1981,27500
+Austria,1982,28000
+Austria,1983,28900
+Austria,1984,29000
+Austria,1985,29700
+Austria,1986,30200
+Austria,1987,30600
+Austria,1988,31700
+Austria,1989,32900
+Austria,1990,34200
+Austria,1991,34800
+Austria,1992,35100
+Austria,1993,35000
+Austria,1994,35600
+Austria,1995,36400
+Austria,1996,37300
+Austria,1997,37900
+Austria,1998,39200
+Austria,1999,40100
+Austria,2000,41600
+Austria,2001,41800
+Austria,2002,42600
+Austria,2003,42900
+Austria,2004,43900
+Austria,2005,44500
+Austria,2006,46100
+Austria,2007,47500
+Austria,2008,48500
+Austria,2009,46100
+Austria,2010,47300
+Austria,2011,48200
+Austria,2012,48200
+Austria,2013,48000
+Austria,2014,48000
+Austria,2015,47600
+Austria,2016,48100
+Austria,2017,
+Azerbaijan,1960,
+Azerbaijan,1961,
+Azerbaijan,1962,
+Azerbaijan,1963,
+Azerbaijan,1964,
+Azerbaijan,1965,
+Azerbaijan,1966,
+Azerbaijan,1967,
+Azerbaijan,1968,
+Azerbaijan,1969,
+Azerbaijan,1970,
+Azerbaijan,1971,
+Azerbaijan,1972,
+Azerbaijan,1973,
+Azerbaijan,1974,
+Azerbaijan,1975,
+Azerbaijan,1976,
+Azerbaijan,1977,
+Azerbaijan,1978,
+Azerbaijan,1979,
+Azerbaijan,1980,
+Azerbaijan,1981,
+Azerbaijan,1982,
+Azerbaijan,1983,
+Azerbaijan,1984,
+Azerbaijan,1985,
+Azerbaijan,1986,
+Azerbaijan,1987,
+Azerbaijan,1988,
+Azerbaijan,1989,
+Azerbaijan,1990,
+Azerbaijan,1991,
+Azerbaijan,1992,
+Azerbaijan,1993,1770
+Azerbaijan,1994,1400
+Azerbaijan,1995,1220
+Azerbaijan,1996,1210
+Azerbaijan,1997,1280
+Azerbaijan,1998,1400
+Azerbaijan,1999,1480
+Azerbaijan,2000,1550
+Azerbaijan,2001,1690
+Azerbaijan,2002,1850
+Azerbaijan,2003,2040
+Azerbaijan,2004,2170
+Azerbaijan,2005,2500
+Azerbaijan,2006,3220
+Azerbaijan,2007,3780
+Azerbaijan,2008,4460
+Azerbaijan,2009,5180
+Azerbaijan,2010,5490
+Azerbaijan,2011,5290
+Azerbaijan,2012,5440
+Azerbaijan,2013,
+Azerbaijan,2014,
+Azerbaijan,2015,
+Azerbaijan,2016,
+Azerbaijan,2017,
+Bahamas,1960,
+Bahamas,1961,
+Bahamas,1962,
+Bahamas,1963,
+Bahamas,1964,
+Bahamas,1965,
+Bahamas,1966,
+Bahamas,1967,
+Bahamas,1968,
+Bahamas,1969,
+Bahamas,1970,
+Bahamas,1971,
+Bahamas,1972,
+Bahamas,1973,
+Bahamas,1974,
+Bahamas,1975,
+Bahamas,1976,
+Bahamas,1977,
+Bahamas,1978,
+Bahamas,1979,
+Bahamas,1980,
+Bahamas,1981,
+Bahamas,1982,
+Bahamas,1983,
+Bahamas,1984,
+Bahamas,1985,
+Bahamas,1986,
+Bahamas,1987,
+Bahamas,1988,
+Bahamas,1989,29500
+Bahamas,1990,28200
+Bahamas,1991,26500
+Bahamas,1992,25700
+Bahamas,1993,24900
+Bahamas,1994,25300
+Bahamas,1995,30000
+Bahamas,1996,33100
+Bahamas,1997,20800
+Bahamas,1998,22000
+Bahamas,1999,22800
+Bahamas,2000,23200
+Bahamas,2001,23800
+Bahamas,2002,23400
+Bahamas,2003,22800
+Bahamas,2004,23000
+Bahamas,2005,22800
+Bahamas,2006,23200
+Bahamas,2007,22800
+Bahamas,2008,22500
+Bahamas,2009,21300
+Bahamas,2010,21300
+Bahamas,2011,21200
+Bahamas,2012,27800
+Bahamas,2013,27300
+Bahamas,2014,26600
+Bahamas,2015,26600
+Bahamas,2016,25700
+Bahamas,2017,
+Bahrain,1960,
+Bahrain,1961,
+Bahrain,1962,
+Bahrain,1963,
+Bahrain,1964,
+Bahrain,1965,
+Bahrain,1966,
+Bahrain,1967,
+Bahrain,1968,
+Bahrain,1969,
+Bahrain,1970,
+Bahrain,1971,
+Bahrain,1972,
+Bahrain,1973,
+Bahrain,1974,
+Bahrain,1975,
+Bahrain,1976,
+Bahrain,1977,
+Bahrain,1978,
+Bahrain,1979,
+Bahrain,1980,
+Bahrain,1981,
+Bahrain,1982,
+Bahrain,1983,
+Bahrain,1984,
+Bahrain,1985,
+Bahrain,1986,
+Bahrain,1987,
+Bahrain,1988,
+Bahrain,1989,
+Bahrain,1990,
+Bahrain,1991,
+Bahrain,1992,
+Bahrain,1993,
+Bahrain,1994,
+Bahrain,1995,
+Bahrain,1996,
+Bahrain,1997,
+Bahrain,1998,
+Bahrain,1999,
+Bahrain,2000,
+Bahrain,2001,
+Bahrain,2002,
+Bahrain,2003,
+Bahrain,2004,
+Bahrain,2005,
+Bahrain,2006,21400
+Bahrain,2007,21600
+Bahrain,2008,20800
+Bahrain,2009,18800
+Bahrain,2010,18800
+Bahrain,2011,17900
+Bahrain,2012,18300
+Bahrain,2013,19000
+Bahrain,2014,18500
+Bahrain,2015,21300
+Bahrain,2016,
+Bahrain,2017,
+Bangladesh,1960,
+Bangladesh,1961,
+Bangladesh,1962,
+Bangladesh,1963,
+Bangladesh,1964,
+Bangladesh,1965,
+Bangladesh,1966,
+Bangladesh,1967,
+Bangladesh,1968,
+Bangladesh,1969,
+Bangladesh,1970,
+Bangladesh,1971,
+Bangladesh,1972,
+Bangladesh,1973,
+Bangladesh,1974,
+Bangladesh,1975,
+Bangladesh,1976,
+Bangladesh,1977,
+Bangladesh,1978,
+Bangladesh,1979,
+Bangladesh,1980,
+Bangladesh,1981,374
+Bangladesh,1982,372
+Bangladesh,1983,381
+Bangladesh,1984,388
+Bangladesh,1985,386
+Bangladesh,1986,393
+Bangladesh,1987,398
+Bangladesh,1988,397
+Bangladesh,1989,398
+Bangladesh,1990,409
+Bangladesh,1991,414
+Bangladesh,1992,427
+Bangladesh,1993,439
+Bangladesh,1994,448
+Bangladesh,1995,461
+Bangladesh,1996,469
+Bangladesh,1997,481
+Bangladesh,1998,495
+Bangladesh,1999,509
+Bangladesh,2000,526
+Bangladesh,2001,542
+Bangladesh,2002,557
+Bangladesh,2003,573
+Bangladesh,2004,596
+Bangladesh,2005,626
+Bangladesh,2006,667
+Bangladesh,2007,710
+Bangladesh,2008,752
+Bangladesh,2009,783
+Bangladesh,2010,819
+Bangladesh,2011,860
+Bangladesh,2012,910
+Bangladesh,2013,949
+Bangladesh,2014,983
+Bangladesh,2015,1030
+Bangladesh,2016,1090
+Bangladesh,2017,1140
+Barbados,1960,
+Barbados,1961,
+Barbados,1962,
+Barbados,1963,
+Barbados,1964,
+Barbados,1965,
+Barbados,1966,
+Barbados,1967,
+Barbados,1968,
+Barbados,1969,
+Barbados,1970,
+Barbados,1971,
+Barbados,1972,
+Barbados,1973,
+Barbados,1974,
+Barbados,1975,
+Barbados,1976,
+Barbados,1977,
+Barbados,1978,
+Barbados,1979,
+Barbados,1980,
+Barbados,1981,
+Barbados,1982,
+Barbados,1983,
+Barbados,1984,
+Barbados,1985,
+Barbados,1986,
+Barbados,1987,
+Barbados,1988,
+Barbados,1989,
+Barbados,1990,
+Barbados,1991,
+Barbados,1992,
+Barbados,1993,
+Barbados,1994,
+Barbados,1995,
+Barbados,1996,
+Barbados,1997,
+Barbados,1998,
+Barbados,1999,
+Barbados,2000,
+Barbados,2001,
+Barbados,2002,
+Barbados,2003,
+Barbados,2004,
+Barbados,2005,
+Barbados,2006,
+Barbados,2007,
+Barbados,2008,
+Barbados,2009,
+Barbados,2010,15600
+Barbados,2011,
+Barbados,2012,
+Barbados,2013,
+Barbados,2014,
+Barbados,2015,
+Barbados,2016,
+Barbados,2017,
+Belarus,1960,
+Belarus,1961,
+Belarus,1962,
+Belarus,1963,
+Belarus,1964,
+Belarus,1965,
+Belarus,1966,
+Belarus,1967,
+Belarus,1968,
+Belarus,1969,
+Belarus,1970,
+Belarus,1971,
+Belarus,1972,
+Belarus,1973,
+Belarus,1974,
+Belarus,1975,
+Belarus,1976,
+Belarus,1977,
+Belarus,1978,
+Belarus,1979,
+Belarus,1980,
+Belarus,1981,
+Belarus,1982,
+Belarus,1983,
+Belarus,1984,
+Belarus,1985,
+Belarus,1986,
+Belarus,1987,
+Belarus,1988,
+Belarus,1989,
+Belarus,1990,3120
+Belarus,1991,3080
+Belarus,1992,2780
+Belarus,1993,2560
+Belarus,1994,2260
+Belarus,1995,2030
+Belarus,1996,2100
+Belarus,1997,2340
+Belarus,1998,2540
+Belarus,1999,2650
+Belarus,2000,2810
+Belarus,2001,2960
+Belarus,2002,3140
+Belarus,2003,3390
+Belarus,2004,3810
+Belarus,2005,4200
+Belarus,2006,4620
+Belarus,2007,5000
+Belarus,2008,5500
+Belarus,2009,5450
+Belarus,2010,5910
+Belarus,2011,6220
+Belarus,2012,6310
+Belarus,2013,6240
+Belarus,2014,6390
+Belarus,2015,6010
+Belarus,2016,5830
+Belarus,2017,6040
+Belgium,1960,
+Belgium,1961,
+Belgium,1962,
+Belgium,1963,
+Belgium,1964,
+Belgium,1965,
+Belgium,1966,
+Belgium,1967,
+Belgium,1968,
+Belgium,1969,
+Belgium,1970,20300
+Belgium,1971,21100
+Belgium,1972,22100
+Belgium,1973,23400
+Belgium,1974,24400
+Belgium,1975,23800
+Belgium,1976,25100
+Belgium,1977,25200
+Belgium,1978,25900
+Belgium,1979,26400
+Belgium,1980,27400
+Belgium,1981,27400
+Belgium,1982,27500
+Belgium,1983,27500
+Belgium,1984,28300
+Belgium,1985,28800
+Belgium,1986,29300
+Belgium,1987,30100
+Belgium,1988,31400
+Belgium,1989,32300
+Belgium,1990,33200
+Belgium,1991,33900
+Belgium,1992,34200
+Belgium,1993,34100
+Belgium,1994,35300
+Belgium,1995,36000
+Belgium,1996,36600
+Belgium,1997,37900
+Belgium,1998,38500
+Belgium,1999,39800
+Belgium,2000,41200
+Belgium,2001,41100
+Belgium,2002,41600
+Belgium,2003,41800
+Belgium,2004,42900
+Belgium,2005,43500
+Belgium,2006,44400
+Belgium,2007,45600
+Belgium,2008,46000
+Belgium,2009,43600
+Belgium,2010,45800
+Belgium,2011,45000
+Belgium,2012,45400
+Belgium,2013,44900
+Belgium,2014,44900
+Belgium,2015,45100
+Belgium,2016,
+Belgium,2017,
+Belize,1960,
+Belize,1961,
+Belize,1962,
+Belize,1963,
+Belize,1964,
+Belize,1965,
+Belize,1966,
+Belize,1967,
+Belize,1968,
+Belize,1969,
+Belize,1970,
+Belize,1971,
+Belize,1972,
+Belize,1973,
+Belize,1974,
+Belize,1975,
+Belize,1976,
+Belize,1977,
+Belize,1978,
+Belize,1979,
+Belize,1980,
+Belize,1981,2210
+Belize,1982,2100
+Belize,1983,1990
+Belize,1984,1890
+Belize,1985,1900
+Belize,1986,2020
+Belize,1987,2140
+Belize,1988,2280
+Belize,1989,2520
+Belize,1990,2730
+Belize,1991,2960
+Belize,1992,3250
+Belize,1993,3390
+Belize,1994,3290
+Belize,1995,3250
+Belize,1996,3180
+Belize,1997,3200
+Belize,1998,3150
+Belize,1999,3280
+Belize,2000,3550
+Belize,2001,3570
+Belize,2002,3660
+Belize,2003,3840
+Belize,2004,3840
+Belize,2005,3870
+Belize,2006,3950
+Belize,2007,3800
+Belize,2008,3850
+Belize,2009,3940
+Belize,2010,3850
+Belize,2011,4020
+Belize,2012,4040
+Belize,2013,3990
+Belize,2014,4020
+Belize,2015,4200
+Belize,2016,4060
+Belize,2017,3930
+Benin,1960,519
+Benin,1961,528
+Benin,1962,502
+Benin,1963,518
+Benin,1964,543
+Benin,1965,562
+Benin,1966,572
+Benin,1967,567
+Benin,1968,575
+Benin,1969,577
+Benin,1970,576
+Benin,1971,554
+Benin,1972,580
+Benin,1973,591
+Benin,1974,600
+Benin,1975,553
+Benin,1976,545
+Benin,1977,558
+Benin,1978,551
+Benin,1979,572
+Benin,1980,592
+Benin,1981,633
+Benin,1982,628
+Benin,1983,579
+Benin,1984,597
+Benin,1985,630
+Benin,1986,626
+Benin,1987,600
+Benin,1988,603
+Benin,1989,562
+Benin,1990,596
+Benin,1991,604
+Benin,1992,587
+Benin,1993,612
+Benin,1994,601
+Benin,1995,617
+Benin,1996,625
+Benin,1997,645
+Benin,1998,657
+Benin,1999,673
+Benin,2000,691
+Benin,2001,706
+Benin,2002,714
+Benin,2003,716
+Benin,2004,726
+Benin,2005,721
+Benin,2006,726
+Benin,2007,746
+Benin,2008,766
+Benin,2009,760
+Benin,2010,752
+Benin,2011,757
+Benin,2012,767
+Benin,2013,800
+Benin,2014,828
+Benin,2015,825
+Benin,2016,838
+Benin,2017,859
+Bhutan,1960,
+Bhutan,1961,
+Bhutan,1962,
+Bhutan,1963,
+Bhutan,1964,
+Bhutan,1965,
+Bhutan,1966,
+Bhutan,1967,
+Bhutan,1968,
+Bhutan,1969,
+Bhutan,1970,
+Bhutan,1971,
+Bhutan,1972,
+Bhutan,1973,
+Bhutan,1974,
+Bhutan,1975,
+Bhutan,1976,
+Bhutan,1977,
+Bhutan,1978,
+Bhutan,1979,
+Bhutan,1980,
+Bhutan,1981,
+Bhutan,1982,
+Bhutan,1983,
+Bhutan,1984,
+Bhutan,1985,
+Bhutan,1986,
+Bhutan,1987,
+Bhutan,1988,
+Bhutan,1989,
+Bhutan,1990,
+Bhutan,1991,
+Bhutan,1992,
+Bhutan,1993,
+Bhutan,1994,
+Bhutan,1995,
+Bhutan,1996,
+Bhutan,1997,
+Bhutan,1998,
+Bhutan,1999,
+Bhutan,2000,1200
+Bhutan,2001,1260
+Bhutan,2002,1340
+Bhutan,2003,1390
+Bhutan,2004,1440
+Bhutan,2005,1510
+Bhutan,2006,1600
+Bhutan,2007,1820
+Bhutan,2008,1850
+Bhutan,2009,1910
+Bhutan,2010,2060
+Bhutan,2011,2170
+Bhutan,2012,2200
+Bhutan,2013,2240
+Bhutan,2014,2330
+Bhutan,2015,2400
+Bhutan,2016,2570
+Bhutan,2017,2740
+Bolivia,1960,
+Bolivia,1961,
+Bolivia,1962,
+Bolivia,1963,
+Bolivia,1964,
+Bolivia,1965,
+Bolivia,1966,
+Bolivia,1967,
+Bolivia,1968,
+Bolivia,1969,
+Bolivia,1970,
+Bolivia,1971,
+Bolivia,1972,
+Bolivia,1973,
+Bolivia,1974,
+Bolivia,1975,
+Bolivia,1976,
+Bolivia,1977,
+Bolivia,1978,
+Bolivia,1979,
+Bolivia,1980,
+Bolivia,1981,
+Bolivia,1982,
+Bolivia,1983,
+Bolivia,1984,
+Bolivia,1985,
+Bolivia,1986,
+Bolivia,1987,
+Bolivia,1988,1230
+Bolivia,1989,1260
+Bolivia,1990,1290
+Bolivia,1991,1340
+Bolivia,1992,1360
+Bolivia,1993,1380
+Bolivia,1994,1430
+Bolivia,1995,1460
+Bolivia,1996,1510
+Bolivia,1997,1550
+Bolivia,1998,1610
+Bolivia,1999,1580
+Bolivia,2000,1580
+Bolivia,2001,1580
+Bolivia,2002,1590
+Bolivia,2003,1580
+Bolivia,2004,1610
+Bolivia,2005,1660
+Bolivia,2006,1710
+Bolivia,2007,1760
+Bolivia,2008,1840
+Bolivia,2009,1860
+Bolivia,2010,1890
+Bolivia,2011,1950
+Bolivia,2012,1990
+Bolivia,2013,2090
+Bolivia,2014,2200
+Bolivia,2015,2320
+Bolivia,2016,2420
+Bolivia,2017,2460
+Bosnia and Herzegovina,1960,
+Bosnia and Herzegovina,1961,
+Bosnia and Herzegovina,1962,
+Bosnia and Herzegovina,1963,
+Bosnia and Herzegovina,1964,
+Bosnia and Herzegovina,1965,
+Bosnia and Herzegovina,1966,
+Bosnia and Herzegovina,1967,
+Bosnia and Herzegovina,1968,
+Bosnia and Herzegovina,1969,
+Bosnia and Herzegovina,1970,
+Bosnia and Herzegovina,1971,
+Bosnia and Herzegovina,1972,
+Bosnia and Herzegovina,1973,
+Bosnia and Herzegovina,1974,
+Bosnia and Herzegovina,1975,
+Bosnia and Herzegovina,1976,
+Bosnia and Herzegovina,1977,
+Bosnia and Herzegovina,1978,
+Bosnia and Herzegovina,1979,
+Bosnia and Herzegovina,1980,
+Bosnia and Herzegovina,1981,
+Bosnia and Herzegovina,1982,
+Bosnia and Herzegovina,1983,
+Bosnia and Herzegovina,1984,
+Bosnia and Herzegovina,1985,
+Bosnia and Herzegovina,1986,
+Bosnia and Herzegovina,1987,
+Bosnia and Herzegovina,1988,
+Bosnia and Herzegovina,1989,
+Bosnia and Herzegovina,1990,
+Bosnia and Herzegovina,1991,
+Bosnia and Herzegovina,1992,
+Bosnia and Herzegovina,1993,
+Bosnia and Herzegovina,1994,
+Bosnia and Herzegovina,1995,
+Bosnia and Herzegovina,1996,
+Bosnia and Herzegovina,1997,
+Bosnia and Herzegovina,1998,
+Bosnia and Herzegovina,1999,
+Bosnia and Herzegovina,2000,
+Bosnia and Herzegovina,2001,
+Bosnia and Herzegovina,2002,
+Bosnia and Herzegovina,2003,
+Bosnia and Herzegovina,2004,
+Bosnia and Herzegovina,2005,
+Bosnia and Herzegovina,2006,4280
+Bosnia and Herzegovina,2007,4540
+Bosnia and Herzegovina,2008,4840
+Bosnia and Herzegovina,2009,4720
+Bosnia and Herzegovina,2010,4690
+Bosnia and Herzegovina,2011,4740
+Bosnia and Herzegovina,2012,4750
+Bosnia and Herzegovina,2013,4950
+Bosnia and Herzegovina,2014,5030
+Bosnia and Herzegovina,2015,5220
+Bosnia and Herzegovina,2016,5390
+Bosnia and Herzegovina,2017,5560
+Botswana,1960,
+Botswana,1961,
+Botswana,1962,
+Botswana,1963,
+Botswana,1964,
+Botswana,1965,
+Botswana,1966,
+Botswana,1967,
+Botswana,1968,
+Botswana,1969,
+Botswana,1970,
+Botswana,1971,
+Botswana,1972,
+Botswana,1973,
+Botswana,1974,
+Botswana,1975,1290
+Botswana,1976,1370
+Botswana,1977,1480
+Botswana,1978,1620
+Botswana,1979,1750
+Botswana,1980,1810
+Botswana,1981,2040
+Botswana,1982,2200
+Botswana,1983,2300
+Botswana,1984,2300
+Botswana,1985,2370
+Botswana,1986,2490
+Botswana,1987,2600
+Botswana,1988,3170
+Botswana,1989,3400
+Botswana,1990,3750
+Botswana,1991,4090
+Botswana,1992,4130
+Botswana,1993,4260
+Botswana,1994,3860
+Botswana,1995,4210
+Botswana,1996,4160
+Botswana,1997,4510
+Botswana,1998,4690
+Botswana,1999,4710
+Botswana,2000,4650
+Botswana,2001,4770
+Botswana,2002,4500
+Botswana,2003,4820
+Botswana,2004,4810
+Botswana,2005,5050
+Botswana,2006,5430
+Botswana,2007,5850
+Botswana,2008,6140
+Botswana,2009,5810
+Botswana,2010,6070
+Botswana,2011,6550
+Botswana,2012,6790
+Botswana,2013,7220
+Botswana,2014,7400
+Botswana,2015,7180
+Botswana,2016,7350
+Botswana,2017,
+Brazil,1960,
+Brazil,1961,
+Brazil,1962,
+Brazil,1963,
+Brazil,1964,
+Brazil,1965,
+Brazil,1966,
+Brazil,1967,
+Brazil,1968,
+Brazil,1969,
+Brazil,1970,
+Brazil,1971,
+Brazil,1972,
+Brazil,1973,
+Brazil,1974,
+Brazil,1975,
+Brazil,1976,
+Brazil,1977,
+Brazil,1978,
+Brazil,1979,
+Brazil,1980,
+Brazil,1981,
+Brazil,1982,
+Brazil,1983,
+Brazil,1984,
+Brazil,1985,
+Brazil,1986,
+Brazil,1987,
+Brazil,1988,
+Brazil,1989,
+Brazil,1990,
+Brazil,1991,
+Brazil,1992,
+Brazil,1993,
+Brazil,1994,
+Brazil,1995,
+Brazil,1996,
+Brazil,1997,
+Brazil,1998,
+Brazil,1999,
+Brazil,2000,
+Brazil,2001,
+Brazil,2002,
+Brazil,2003,
+Brazil,2004,
+Brazil,2005,
+Brazil,2006,
+Brazil,2007,
+Brazil,2008,
+Brazil,2009,
+Brazil,2010,10900
+Brazil,2011,
+Brazil,2012,
+Brazil,2013,
+Brazil,2014,
+Brazil,2015,
+Brazil,2016,
+Brazil,2017,
+Brunei,1960,
+Brunei,1961,
+Brunei,1962,
+Brunei,1963,
+Brunei,1964,
+Brunei,1965,
+Brunei,1966,
+Brunei,1967,
+Brunei,1968,
+Brunei,1969,
+Brunei,1970,
+Brunei,1971,
+Brunei,1972,
+Brunei,1973,
+Brunei,1974,
+Brunei,1975,
+Brunei,1976,
+Brunei,1977,
+Brunei,1978,
+Brunei,1979,
+Brunei,1980,
+Brunei,1981,
+Brunei,1982,
+Brunei,1983,
+Brunei,1984,
+Brunei,1985,
+Brunei,1986,
+Brunei,1987,
+Brunei,1988,
+Brunei,1989,
+Brunei,1990,37100
+Brunei,1991,37200
+Brunei,1992,37800
+Brunei,1993,36900
+Brunei,1994,37000
+Brunei,1995,37700
+Brunei,1996,37800
+Brunei,1997,36400
+Brunei,1998,35400
+Brunei,1999,35700
+Brunei,2000,35900
+Brunei,2001,36200
+Brunei,2002,36800
+Brunei,2003,37200
+Brunei,2004,36800
+Brunei,2005,36300
+Brunei,2006,37400
+Brunei,2007,37200
+Brunei,2008,36000
+Brunei,2009,35000
+Brunei,2010,35000
+Brunei,2011,34900
+Brunei,2012,34900
+Brunei,2013,34200
+Brunei,2014,33300
+Brunei,2015,34200
+Brunei,2016,33500
+Brunei,2017,33300
+Bulgaria,1960,
+Bulgaria,1961,
+Bulgaria,1962,
+Bulgaria,1963,
+Bulgaria,1964,
+Bulgaria,1965,
+Bulgaria,1966,
+Bulgaria,1967,
+Bulgaria,1968,
+Bulgaria,1969,
+Bulgaria,1970,
+Bulgaria,1971,
+Bulgaria,1972,
+Bulgaria,1973,
+Bulgaria,1974,
+Bulgaria,1975,
+Bulgaria,1976,
+Bulgaria,1977,
+Bulgaria,1978,
+Bulgaria,1979,
+Bulgaria,1980,3180
+Bulgaria,1981,3340
+Bulgaria,1982,3410
+Bulgaria,1983,3530
+Bulgaria,1984,3650
+Bulgaria,1985,3740
+Bulgaria,1986,3890
+Bulgaria,1987,4100
+Bulgaria,1988,4520
+Bulgaria,1989,4380
+Bulgaria,1990,3810
+Bulgaria,1991,3460
+Bulgaria,1992,3550
+Bulgaria,1993,3530
+Bulgaria,1994,3600
+Bulgaria,1995,3670
+Bulgaria,1996,3690
+Bulgaria,1997,3710
+Bulgaria,1998,3900
+Bulgaria,1999,3700
+Bulgaria,2000,3870
+Bulgaria,2001,4190
+Bulgaria,2002,4620
+Bulgaria,2003,4880
+Bulgaria,2004,5210
+Bulgaria,2005,5580
+Bulgaria,2006,5850
+Bulgaria,2007,6020
+Bulgaria,2008,6630
+Bulgaria,2009,6580
+Bulgaria,2010,6700
+Bulgaria,2011,6790
+Bulgaria,2012,6970
+Bulgaria,2013,7000
+Bulgaria,2014,7240
+Bulgaria,2015,7460
+Bulgaria,2016,7950
+Bulgaria,2017,8390
+Burkina Faso,1960,
+Burkina Faso,1961,
+Burkina Faso,1962,
+Burkina Faso,1963,
+Burkina Faso,1964,
+Burkina Faso,1965,256
+Burkina Faso,1966,254
+Burkina Faso,1967,272
+Burkina Faso,1968,276
+Burkina Faso,1969,277
+Burkina Faso,1970,274
+Burkina Faso,1971,272
+Burkina Faso,1972,274
+Burkina Faso,1973,270
+Burkina Faso,1974,287
+Burkina Faso,1975,286
+Burkina Faso,1976,306
+Burkina Faso,1977,298
+Burkina Faso,1978,310
+Burkina Faso,1979,315
+Burkina Faso,1980,312
+Burkina Faso,1981,316
+Burkina Faso,1982,338
+Burkina Faso,1983,330
+Burkina Faso,1984,317
+Burkina Faso,1985,336
+Burkina Faso,1986,353
+Burkina Faso,1987,343
+Burkina Faso,1988,353
+Burkina Faso,1989,351
+Burkina Faso,1990,341
+Burkina Faso,1991,362
+Burkina Faso,1992,353
+Burkina Faso,1993,354
+Burkina Faso,1994,349
+Burkina Faso,1995,360
+Burkina Faso,1996,392
+Burkina Faso,1997,403
+Burkina Faso,1998,421
+Burkina Faso,1999,439
+Burkina Faso,2000,431
+Burkina Faso,2001,447
+Burkina Faso,2002,455
+Burkina Faso,2003,476
+Burkina Faso,2004,483
+Burkina Faso,2005,511
+Burkina Faso,2006,529
+Burkina Faso,2007,541
+Burkina Faso,2008,563
+Burkina Faso,2009,562
+Burkina Faso,2010,560
+Burkina Faso,2011,572
+Burkina Faso,2012,602
+Burkina Faso,2013,618
+Burkina Faso,2014,613
+Burkina Faso,2015,616
+Burkina Faso,2016,645
+Burkina Faso,2017,666
+Burundi,1960,
+Burundi,1961,
+Burundi,1962,
+Burundi,1963,
+Burundi,1964,
+Burundi,1965,
+Burundi,1966,
+Burundi,1967,
+Burundi,1968,
+Burundi,1969,
+Burundi,1970,
+Burundi,1971,
+Burundi,1972,
+Burundi,1973,
+Burundi,1974,
+Burundi,1975,
+Burundi,1976,
+Burundi,1977,
+Burundi,1978,
+Burundi,1979,
+Burundi,1980,
+Burundi,1981,
+Burundi,1982,
+Burundi,1983,
+Burundi,1984,
+Burundi,1985,
+Burundi,1986,
+Burundi,1987,
+Burundi,1988,
+Burundi,1989,
+Burundi,1990,
+Burundi,1991,
+Burundi,1992,
+Burundi,1993,
+Burundi,1994,
+Burundi,1995,
+Burundi,1996,
+Burundi,1997,230
+Burundi,1998,239
+Burundi,1999,232
+Burundi,2000,232
+Burundi,2001,225
+Burundi,2002,227
+Burundi,2003,217
+Burundi,2004,218
+Burundi,2005,216
+Burundi,2006,222
+Burundi,2007,225
+Burundi,2008,229
+Burundi,2009,228
+Burundi,2010,230
+Burundi,2011,232
+Burundi,2012,235
+Burundi,2013,240
+Burundi,2014,243
+Burundi,2015,227
+Burundi,2016,218
+Burundi,2017,
+Cambodia,1960,
+Cambodia,1961,
+Cambodia,1962,
+Cambodia,1963,
+Cambodia,1964,
+Cambodia,1965,
+Cambodia,1966,
+Cambodia,1967,
+Cambodia,1968,
+Cambodia,1969,
+Cambodia,1970,
+Cambodia,1971,
+Cambodia,1972,
+Cambodia,1973,
+Cambodia,1974,
+Cambodia,1975,
+Cambodia,1976,
+Cambodia,1977,
+Cambodia,1978,
+Cambodia,1979,
+Cambodia,1980,
+Cambodia,1981,
+Cambodia,1982,
+Cambodia,1983,
+Cambodia,1984,
+Cambodia,1985,
+Cambodia,1986,
+Cambodia,1987,
+Cambodia,1988,
+Cambodia,1989,
+Cambodia,1990,
+Cambodia,1991,
+Cambodia,1992,
+Cambodia,1993,
+Cambodia,1994,
+Cambodia,1995,337
+Cambodia,1996,344
+Cambodia,1997,352
+Cambodia,1998,357
+Cambodia,1999,389
+Cambodia,2000,419
+Cambodia,2001,440
+Cambodia,2002,456
+Cambodia,2003,490
+Cambodia,2004,530
+Cambodia,2005,587
+Cambodia,2006,641
+Cambodia,2007,702
+Cambodia,2008,733
+Cambodia,2009,720
+Cambodia,2010,750
+Cambodia,2011,788
+Cambodia,2012,828
+Cambodia,2013,867
+Cambodia,2014,916
+Cambodia,2015,960
+Cambodia,2016,1010
+Cambodia,2017,1060
+Cameroon,1960,
+Cameroon,1961,
+Cameroon,1962,
+Cameroon,1963,
+Cameroon,1964,
+Cameroon,1965,
+Cameroon,1966,
+Cameroon,1967,735
+Cameroon,1968,773
+Cameroon,1969,813
+Cameroon,1970,824
+Cameroon,1971,849
+Cameroon,1972,864
+Cameroon,1973,832
+Cameroon,1974,906
+Cameroon,1975,1000
+Cameroon,1976,920
+Cameroon,1977,883
+Cameroon,1978,1240
+Cameroon,1979,1320
+Cameroon,1980,1110
+Cameroon,1981,1360
+Cameroon,1982,1460
+Cameroon,1983,1530
+Cameroon,1984,1630
+Cameroon,1985,1720
+Cameroon,1986,1810
+Cameroon,1987,1720
+Cameroon,1988,1550
+Cameroon,1989,1460
+Cameroon,1990,1300
+Cameroon,1991,1190
+Cameroon,1992,1130
+Cameroon,1993,1020
+Cameroon,1994,1000
+Cameroon,1995,1010
+Cameroon,1996,1030
+Cameroon,1997,1050
+Cameroon,1998,1090
+Cameroon,1999,1110
+Cameroon,2000,1090
+Cameroon,2001,1100
+Cameroon,2002,1130
+Cameroon,2003,1180
+Cameroon,2004,1240
+Cameroon,2005,1230
+Cameroon,2006,1260
+Cameroon,2007,1270
+Cameroon,2008,1290
+Cameroon,2009,1300
+Cameroon,2010,1300
+Cameroon,2011,1310
+Cameroon,2012,1330
+Cameroon,2013,1360
+Cameroon,2014,1420
+Cameroon,2015,1450
+Cameroon,2016,1470
+Cameroon,2017,1480
+Canada,1960,
+Canada,1961,
+Canada,1962,
+Canada,1963,
+Canada,1964,
+Canada,1965,
+Canada,1966,
+Canada,1967,
+Canada,1968,
+Canada,1969,
+Canada,1970,24300
+Canada,1971,24900
+Canada,1972,25900
+Canada,1973,27200
+Canada,1974,27700
+Canada,1975,27600
+Canada,1976,28600
+Canada,1977,29200
+Canada,1978,29900
+Canada,1979,30700
+Canada,1980,30900
+Canada,1981,31400
+Canada,1982,30000
+Canada,1983,30700
+Canada,1984,32100
+Canada,1985,33300
+Canada,1986,33600
+Canada,1987,34600
+Canada,1988,35700
+Canada,1989,35800
+Canada,1990,35200
+Canada,1991,34100
+Canada,1992,33900
+Canada,1993,34500
+Canada,1994,35600
+Canada,1995,36300
+Canada,1996,36600
+Canada,1997,37800
+Canada,1998,38900
+Canada,1999,40500
+Canada,2000,42500
+Canada,2001,42800
+Canada,2002,43800
+Canada,2003,44200
+Canada,2004,45200
+Canada,2005,46200
+Canada,2006,47300
+Canada,2007,47800
+Canada,2008,47800
+Canada,2009,45800
+Canada,2010,46500
+Canada,2011,47500
+Canada,2012,47900
+Canada,2013,48600
+Canada,2014,49400
+Canada,2015,49600
+Canada,2016,49700
+Canada,2017,
+Cape Verde,1960,
+Cape Verde,1961,
+Cape Verde,1962,
+Cape Verde,1963,
+Cape Verde,1964,
+Cape Verde,1965,
+Cape Verde,1966,
+Cape Verde,1967,
+Cape Verde,1968,
+Cape Verde,1969,
+Cape Verde,1970,
+Cape Verde,1971,
+Cape Verde,1972,
+Cape Verde,1973,
+Cape Verde,1974,
+Cape Verde,1975,
+Cape Verde,1976,
+Cape Verde,1977,
+Cape Verde,1978,
+Cape Verde,1979,
+Cape Verde,1980,
+Cape Verde,1981,
+Cape Verde,1982,
+Cape Verde,1983,
+Cape Verde,1984,
+Cape Verde,1985,
+Cape Verde,1986,
+Cape Verde,1987,
+Cape Verde,1988,
+Cape Verde,1989,
+Cape Verde,1990,
+Cape Verde,1991,
+Cape Verde,1992,
+Cape Verde,1993,
+Cape Verde,1994,
+Cape Verde,1995,
+Cape Verde,1996,
+Cape Verde,1997,
+Cape Verde,1998,
+Cape Verde,1999,
+Cape Verde,2000,
+Cape Verde,2001,
+Cape Verde,2002,
+Cape Verde,2003,
+Cape Verde,2004,
+Cape Verde,2005,
+Cape Verde,2006,
+Cape Verde,2007,3140
+Cape Verde,2008,3290
+Cape Verde,2009,3220
+Cape Verde,2010,3170
+Cape Verde,2011,3270
+Cape Verde,2012,3260
+Cape Verde,2013,3270
+Cape Verde,2014,3200
+Cape Verde,2015,3240
+Cape Verde,2016,3310
+Cape Verde,2017,3400
+Central African Republic,1960,
+Central African Republic,1961,
+Central African Republic,1962,
+Central African Republic,1963,
+Central African Republic,1964,
+Central African Republic,1965,
+Central African Republic,1966,
+Central African Republic,1967,
+Central African Republic,1968,
+Central African Republic,1969,
+Central African Republic,1970,
+Central African Republic,1971,
+Central African Republic,1972,
+Central African Republic,1973,
+Central African Republic,1974,
+Central African Republic,1975,
+Central African Republic,1976,
+Central African Republic,1977,
+Central African Republic,1978,
+Central African Republic,1979,
+Central African Republic,1980,
+Central African Republic,1981,
+Central African Republic,1982,
+Central African Republic,1983,
+Central African Republic,1984,
+Central African Republic,1985,
+Central African Republic,1986,
+Central African Republic,1987,
+Central African Republic,1988,
+Central African Republic,1989,
+Central African Republic,1990,
+Central African Republic,1991,
+Central African Republic,1992,
+Central African Republic,1993,
+Central African Republic,1994,
+Central African Republic,1995,
+Central African Republic,1996,
+Central African Republic,1997,
+Central African Republic,1998,
+Central African Republic,1999,
+Central African Republic,2000,
+Central African Republic,2001,
+Central African Republic,2002,
+Central African Republic,2003,
+Central African Republic,2004,
+Central African Republic,2005,
+Central African Republic,2006,
+Central African Republic,2007,
+Central African Republic,2008,431
+Central African Republic,2009,436
+Central African Republic,2010,449
+Central African Republic,2011,460
+Central African Republic,2012,478
+Central African Republic,2013,302
+Central African Republic,2014,304
+Central African Republic,2015,316
+Central African Republic,2016,326
+Central African Republic,2017,336
+Chad,1960,
+Chad,1961,
+Chad,1962,
+Chad,1963,
+Chad,1964,
+Chad,1965,
+Chad,1966,
+Chad,1967,
+Chad,1968,
+Chad,1969,
+Chad,1970,
+Chad,1971,
+Chad,1972,
+Chad,1973,
+Chad,1974,
+Chad,1975,
+Chad,1976,
+Chad,1977,
+Chad,1978,
+Chad,1979,
+Chad,1980,
+Chad,1981,
+Chad,1982,
+Chad,1983,
+Chad,1984,
+Chad,1985,
+Chad,1986,
+Chad,1987,
+Chad,1988,
+Chad,1989,
+Chad,1990,
+Chad,1991,
+Chad,1992,
+Chad,1993,
+Chad,1994,
+Chad,1995,
+Chad,1996,
+Chad,1997,
+Chad,1998,
+Chad,1999,
+Chad,2000,
+Chad,2001,
+Chad,2002,
+Chad,2003,
+Chad,2004,
+Chad,2005,
+Chad,2006,
+Chad,2007,698
+Chad,2008,676
+Chad,2009,781
+Chad,2010,867
+Chad,2011,846
+Chad,2012,892
+Chad,2013,891
+Chad,2014,924
+Chad,2015,938
+Chad,2016,862
+Chad,2017,815
+Chile,1960,
+Chile,1961,
+Chile,1962,
+Chile,1963,
+Chile,1964,
+Chile,1965,
+Chile,1966,
+Chile,1967,
+Chile,1968,
+Chile,1969,
+Chile,1970,
+Chile,1971,
+Chile,1972,
+Chile,1973,
+Chile,1974,
+Chile,1975,
+Chile,1976,
+Chile,1977,
+Chile,1978,
+Chile,1979,
+Chile,1980,
+Chile,1981,
+Chile,1982,
+Chile,1983,
+Chile,1984,
+Chile,1985,
+Chile,1986,
+Chile,1987,
+Chile,1988,
+Chile,1989,
+Chile,1990,
+Chile,1991,
+Chile,1992,
+Chile,1993,
+Chile,1994,
+Chile,1995,
+Chile,1996,8270
+Chile,1997,8780
+Chile,1998,9100
+Chile,1999,8900
+Chile,2000,9210
+Chile,2001,9420
+Chile,2002,9550
+Chile,2003,9630
+Chile,2004,9970
+Chile,2005,10300
+Chile,2006,10400
+Chile,2007,10900
+Chile,2008,11700
+Chile,2009,11500
+Chile,2010,11900
+Chile,2011,12700
+Chile,2012,13500
+Chile,2013,14000
+Chile,2014,14200
+Chile,2015,14500
+Chile,2016,14400
+Chile,2017,14500
+China,1960,
+China,1961,
+China,1962,
+China,1963,
+China,1964,
+China,1965,
+China,1966,
+China,1967,
+China,1968,
+China,1969,
+China,1970,
+China,1971,
+China,1972,
+China,1973,
+China,1974,
+China,1975,
+China,1976,
+China,1977,
+China,1978,
+China,1979,
+China,1980,
+China,1981,
+China,1982,
+China,1983,
+China,1984,
+China,1985,
+China,1986,
+China,1987,
+China,1988,
+China,1989,
+China,1990,
+China,1991,
+China,1992,
+China,1993,
+China,1994,
+China,1995,1210
+China,1996,1320
+China,1997,1430
+China,1998,1520
+China,1999,1630
+China,2000,1750
+China,2001,1880
+China,2002,2050
+China,2003,2250
+China,2004,2470
+China,2005,2720
+China,2006,3060
+China,2007,3500
+China,2008,3830
+China,2009,4140
+China,2010,4540
+China,2011,4930
+China,2012,5320
+China,2013,5680
+China,2014,6120
+China,2015,6470
+China,2016,6870
+China,2017,7310
+Colombia,1960,2210
+Colombia,1961,2250
+Colombia,1962,2300
+Colombia,1963,2300
+Colombia,1964,2380
+Colombia,1965,2360
+Colombia,1966,2420
+Colombia,1967,2420
+Colombia,1968,2540
+Colombia,1969,2610
+Colombia,1970,2680
+Colombia,1971,2790
+Colombia,1972,2930
+Colombia,1973,3070
+Colombia,1974,3200
+Colombia,1975,3160
+Colombia,1976,3250
+Colombia,1977,3330
+Colombia,1978,3540
+Colombia,1979,3660
+Colombia,1980,3740
+Colombia,1981,3710
+Colombia,1982,3600
+Colombia,1983,3550
+Colombia,1984,3570
+Colombia,1985,3570
+Colombia,1986,3730
+Colombia,1987,3830
+Colombia,1988,3930
+Colombia,1989,3940
+Colombia,1990,4110
+Colombia,1991,4150
+Colombia,1992,4300
+Colombia,1993,4360
+Colombia,1994,4610
+Colombia,1995,4770
+Colombia,1996,4770
+Colombia,1997,4850
+Colombia,1998,4830
+Colombia,1999,4560
+Colombia,2000,4670
+Colombia,2001,4670
+Colombia,2002,4710
+Colombia,2003,4790
+Colombia,2004,4970
+Colombia,2005,5130
+Colombia,2006,5410
+Colombia,2007,5700
+Colombia,2008,5810
+Colombia,2009,5870
+Colombia,2010,6010
+Colombia,2011,6280
+Colombia,2012,6510
+Colombia,2013,6780
+Colombia,2014,7050
+Colombia,2015,7310
+Colombia,2016,7470
+Colombia,2017,7410
+Comoros,1960,
+Comoros,1961,
+Comoros,1962,
+Comoros,1963,
+Comoros,1964,
+Comoros,1965,
+Comoros,1966,
+Comoros,1967,
+Comoros,1968,
+Comoros,1969,
+Comoros,1970,
+Comoros,1971,
+Comoros,1972,
+Comoros,1973,
+Comoros,1974,
+Comoros,1975,
+Comoros,1976,
+Comoros,1977,
+Comoros,1978,
+Comoros,1979,
+Comoros,1980,
+Comoros,1981,
+Comoros,1982,
+Comoros,1983,
+Comoros,1984,
+Comoros,1985,
+Comoros,1986,
+Comoros,1987,
+Comoros,1988,
+Comoros,1989,
+Comoros,1990,
+Comoros,1991,
+Comoros,1992,
+Comoros,1993,
+Comoros,1994,
+Comoros,1995,
+Comoros,1996,
+Comoros,1997,
+Comoros,1998,
+Comoros,1999,
+Comoros,2000,808
+Comoros,2001,808
+Comoros,2002,802
+Comoros,2003,798
+Comoros,2004,793
+Comoros,2005,798
+Comoros,2006,800
+Comoros,2007,793
+Comoros,2008,772
+Comoros,2009,769
+Comoros,2010,768
+Comoros,2011,769
+Comoros,2012,772
+Comoros,2013,783
+Comoros,2014,781
+Comoros,2015,
+Comoros,2016,
+Comoros,2017,
+"Congo, Dem. Rep.",1960,
+"Congo, Dem. Rep.",1961,
+"Congo, Dem. Rep.",1962,
+"Congo, Dem. Rep.",1963,
+"Congo, Dem. Rep.",1964,
+"Congo, Dem. Rep.",1965,
+"Congo, Dem. Rep.",1966,
+"Congo, Dem. Rep.",1967,
+"Congo, Dem. Rep.",1968,
+"Congo, Dem. Rep.",1969,
+"Congo, Dem. Rep.",1970,
+"Congo, Dem. Rep.",1971,
+"Congo, Dem. Rep.",1972,
+"Congo, Dem. Rep.",1973,
+"Congo, Dem. Rep.",1974,
+"Congo, Dem. Rep.",1975,
+"Congo, Dem. Rep.",1976,
+"Congo, Dem. Rep.",1977,
+"Congo, Dem. Rep.",1978,
+"Congo, Dem. Rep.",1979,
+"Congo, Dem. Rep.",1980,
+"Congo, Dem. Rep.",1981,
+"Congo, Dem. Rep.",1982,
+"Congo, Dem. Rep.",1983,
+"Congo, Dem. Rep.",1984,
+"Congo, Dem. Rep.",1985,
+"Congo, Dem. Rep.",1986,
+"Congo, Dem. Rep.",1987,
+"Congo, Dem. Rep.",1988,
+"Congo, Dem. Rep.",1989,
+"Congo, Dem. Rep.",1990,
+"Congo, Dem. Rep.",1991,
+"Congo, Dem. Rep.",1992,
+"Congo, Dem. Rep.",1993,420
+"Congo, Dem. Rep.",1994,368
+"Congo, Dem. Rep.",1995,351
+"Congo, Dem. Rep.",1996,366
+"Congo, Dem. Rep.",1997,335
+"Congo, Dem. Rep.",1998,324
+"Congo, Dem. Rep.",1999,292
+"Congo, Dem. Rep.",2000,285
+"Congo, Dem. Rep.",2001,263
+"Congo, Dem. Rep.",2002,268
+"Congo, Dem. Rep.",2003,276
+"Congo, Dem. Rep.",2004,285
+"Congo, Dem. Rep.",2005,289
+"Congo, Dem. Rep.",2006,297
+"Congo, Dem. Rep.",2007,304
+"Congo, Dem. Rep.",2008,304
+"Congo, Dem. Rep.",2009,310
+"Congo, Dem. Rep.",2010,320
+"Congo, Dem. Rep.",2011,327
+"Congo, Dem. Rep.",2012,336
+"Congo, Dem. Rep.",2013,338
+"Congo, Dem. Rep.",2014,359
+"Congo, Dem. Rep.",2015,378
+"Congo, Dem. Rep.",2016,399
+"Congo, Dem. Rep.",2017,401
+"Congo, Rep.",1960,1880
+"Congo, Rep.",1961,1970
+"Congo, Rep.",1962,2030
+"Congo, Rep.",1963,1900
+"Congo, Rep.",1964,1920
+"Congo, Rep.",1965,1930
+"Congo, Rep.",1966,1910
+"Congo, Rep.",1967,1910
+"Congo, Rep.",1968,1990
+"Congo, Rep.",1969,2070
+"Congo, Rep.",1970,2120
+"Congo, Rep.",1971,2230
+"Congo, Rep.",1972,2360
+"Congo, Rep.",1973,2420
+"Congo, Rep.",1974,2550
+"Congo, Rep.",1975,2650
+"Congo, Rep.",1976,2580
+"Congo, Rep.",1977,2280
+"Congo, Rep.",1978,2340
+"Congo, Rep.",1979,2450
+"Congo, Rep.",1980,2730
+"Congo, Rep.",1981,3240
+"Congo, Rep.",1982,3810
+"Congo, Rep.",1983,3830
+"Congo, Rep.",1984,4100
+"Congo, Rep.",1985,3950
+"Congo, Rep.",1986,3880
+"Congo, Rep.",1987,3780
+"Congo, Rep.",1988,3320
+"Congo, Rep.",1989,3250
+"Congo, Rep.",1990,3010
+"Congo, Rep.",1991,3050
+"Congo, Rep.",1992,3180
+"Congo, Rep.",1993,2860
+"Congo, Rep.",1994,2770
+"Congo, Rep.",1995,2020
+"Congo, Rep.",1996,2030
+"Congo, Rep.",1997,2260
+"Congo, Rep.",1998,2610
+"Congo, Rep.",1999,2040
+"Congo, Rep.",2000,1800
+"Congo, Rep.",2001,2020
+"Congo, Rep.",2002,2050
+"Congo, Rep.",2003,2000
+"Congo, Rep.",2004,1830
+"Congo, Rep.",2005,1510
+"Congo, Rep.",2006,1360
+"Congo, Rep.",2007,1590
+"Congo, Rep.",2008,1840
+"Congo, Rep.",2009,2070
+"Congo, Rep.",2010,2060
+"Congo, Rep.",2011,2020
+"Congo, Rep.",2012,2410
+"Congo, Rep.",2013,2590
+"Congo, Rep.",2014,3010
+"Congo, Rep.",2015,3870
+"Congo, Rep.",2016,3460
+"Congo, Rep.",2017,2970
+Costa Rica,1960,
+Costa Rica,1961,
+Costa Rica,1962,
+Costa Rica,1963,
+Costa Rica,1964,
+Costa Rica,1965,
+Costa Rica,1966,
+Costa Rica,1967,
+Costa Rica,1968,
+Costa Rica,1969,
+Costa Rica,1970,
+Costa Rica,1971,
+Costa Rica,1972,
+Costa Rica,1973,
+Costa Rica,1974,
+Costa Rica,1975,
+Costa Rica,1976,
+Costa Rica,1977,
+Costa Rica,1978,
+Costa Rica,1979,
+Costa Rica,1980,
+Costa Rica,1981,
+Costa Rica,1982,
+Costa Rica,1983,
+Costa Rica,1984,
+Costa Rica,1985,
+Costa Rica,1986,
+Costa Rica,1987,
+Costa Rica,1988,
+Costa Rica,1989,
+Costa Rica,1990,
+Costa Rica,1991,
+Costa Rica,1992,
+Costa Rica,1993,
+Costa Rica,1994,
+Costa Rica,1995,
+Costa Rica,1996,
+Costa Rica,1997,
+Costa Rica,1998,
+Costa Rica,1999,
+Costa Rica,2000,
+Costa Rica,2001,
+Costa Rica,2002,
+Costa Rica,2003,
+Costa Rica,2004,
+Costa Rica,2005,
+Costa Rica,2006,
+Costa Rica,2007,7650
+Costa Rica,2008,7950
+Costa Rica,2009,7660
+Costa Rica,2010,7930
+Costa Rica,2011,8170
+Costa Rica,2012,8480
+Costa Rica,2013,8520
+Costa Rica,2014,8700
+Costa Rica,2015,8890
+Costa Rica,2016,9140
+Costa Rica,2017,9240
+Cote d'Ivoire,1960,
+Cote d'Ivoire,1961,
+Cote d'Ivoire,1962,
+Cote d'Ivoire,1963,
+Cote d'Ivoire,1964,
+Cote d'Ivoire,1965,
+Cote d'Ivoire,1966,
+Cote d'Ivoire,1967,
+Cote d'Ivoire,1968,
+Cote d'Ivoire,1969,
+Cote d'Ivoire,1970,
+Cote d'Ivoire,1971,
+Cote d'Ivoire,1972,
+Cote d'Ivoire,1973,
+Cote d'Ivoire,1974,
+Cote d'Ivoire,1975,
+Cote d'Ivoire,1976,
+Cote d'Ivoire,1977,
+Cote d'Ivoire,1978,
+Cote d'Ivoire,1979,
+Cote d'Ivoire,1980,
+Cote d'Ivoire,1981,
+Cote d'Ivoire,1982,
+Cote d'Ivoire,1983,
+Cote d'Ivoire,1984,
+Cote d'Ivoire,1985,
+Cote d'Ivoire,1986,
+Cote d'Ivoire,1987,
+Cote d'Ivoire,1988,
+Cote d'Ivoire,1989,
+Cote d'Ivoire,1990,
+Cote d'Ivoire,1991,
+Cote d'Ivoire,1992,
+Cote d'Ivoire,1993,
+Cote d'Ivoire,1994,
+Cote d'Ivoire,1995,
+Cote d'Ivoire,1996,
+Cote d'Ivoire,1997,
+Cote d'Ivoire,1998,
+Cote d'Ivoire,1999,
+Cote d'Ivoire,2000,
+Cote d'Ivoire,2001,
+Cote d'Ivoire,2002,
+Cote d'Ivoire,2003,
+Cote d'Ivoire,2004,
+Cote d'Ivoire,2005,
+Cote d'Ivoire,2006,
+Cote d'Ivoire,2007,
+Cote d'Ivoire,2008,1170
+Cote d'Ivoire,2009,1180
+Cote d'Ivoire,2010,1180
+Cote d'Ivoire,2011,1100
+Cote d'Ivoire,2012,1190
+Cote d'Ivoire,2013,1250
+Cote d'Ivoire,2014,1350
+Cote d'Ivoire,2015,1430
+Cote d'Ivoire,2016,1510
+Cote d'Ivoire,2017,1580
+Croatia,1960,
+Croatia,1961,
+Croatia,1962,
+Croatia,1963,
+Croatia,1964,
+Croatia,1965,
+Croatia,1966,
+Croatia,1967,
+Croatia,1968,
+Croatia,1969,
+Croatia,1970,
+Croatia,1971,
+Croatia,1972,
+Croatia,1973,
+Croatia,1974,
+Croatia,1975,
+Croatia,1976,
+Croatia,1977,
+Croatia,1978,
+Croatia,1979,
+Croatia,1980,
+Croatia,1981,
+Croatia,1982,
+Croatia,1983,
+Croatia,1984,
+Croatia,1985,
+Croatia,1986,
+Croatia,1987,
+Croatia,1988,
+Croatia,1989,
+Croatia,1990,
+Croatia,1991,
+Croatia,1992,
+Croatia,1993,
+Croatia,1994,
+Croatia,1995,8470
+Croatia,1996,9300
+Croatia,1997,9770
+Croatia,1998,10000
+Croatia,1999,9700
+Croatia,2000,10400
+Croatia,2001,10700
+Croatia,2002,11300
+Croatia,2003,11700
+Croatia,2004,12400
+Croatia,2005,12900
+Croatia,2006,13400
+Croatia,2007,14200
+Croatia,2008,14400
+Croatia,2009,13300
+Croatia,2010,13200
+Croatia,2011,13600
+Croatia,2012,13300
+Croatia,2013,13300
+Croatia,2014,13400
+Croatia,2015,14000
+Croatia,2016,14200
+Croatia,2017,14900
+Cuba,1960,
+Cuba,1961,
+Cuba,1962,
+Cuba,1963,
+Cuba,1964,
+Cuba,1965,
+Cuba,1966,
+Cuba,1967,
+Cuba,1968,
+Cuba,1969,
+Cuba,1970,2200
+Cuba,1971,2350
+Cuba,1972,2420
+Cuba,1973,2460
+Cuba,1974,2450
+Cuba,1975,2650
+Cuba,1976,2760
+Cuba,1977,2970
+Cuba,1978,3140
+Cuba,1979,3160
+Cuba,1980,2990
+Cuba,1981,3560
+Cuba,1982,3860
+Cuba,1983,4050
+Cuba,1984,4350
+Cuba,1985,4380
+Cuba,1986,4360
+Cuba,1987,4210
+Cuba,1988,4330
+Cuba,1989,4320
+Cuba,1990,4130
+Cuba,1991,3670
+Cuba,1992,3240
+Cuba,1993,2740
+Cuba,1994,2740
+Cuba,1995,2780
+Cuba,1996,2990
+Cuba,1997,3060
+Cuba,1998,3060
+Cuba,1999,3230
+Cuba,2000,3400
+Cuba,2001,3520
+Cuba,2002,3550
+Cuba,2003,3680
+Cuba,2004,3880
+Cuba,2005,4320
+Cuba,2006,4850
+Cuba,2007,5170
+Cuba,2008,5390
+Cuba,2009,5410
+Cuba,2010,5550
+Cuba,2011,5740
+Cuba,2012,5900
+Cuba,2013,6060
+Cuba,2014,
+Cuba,2015,
+Cuba,2016,
+Cuba,2017,
+Cyprus,1960,
+Cyprus,1961,
+Cyprus,1962,
+Cyprus,1963,
+Cyprus,1964,
+Cyprus,1965,
+Cyprus,1966,
+Cyprus,1967,
+Cyprus,1968,
+Cyprus,1969,
+Cyprus,1970,
+Cyprus,1971,
+Cyprus,1972,
+Cyprus,1973,
+Cyprus,1974,
+Cyprus,1975,7680
+Cyprus,1976,9300
+Cyprus,1977,11000
+Cyprus,1978,11800
+Cyprus,1979,12800
+Cyprus,1980,13400
+Cyprus,1981,13400
+Cyprus,1982,14100
+Cyprus,1983,14600
+Cyprus,1984,15700
+Cyprus,1985,16300
+Cyprus,1986,16600
+Cyprus,1987,17800
+Cyprus,1988,19200
+Cyprus,1989,20400
+Cyprus,1990,21500
+Cyprus,1991,21100
+Cyprus,1992,22400
+Cyprus,1993,22100
+Cyprus,1994,22800
+Cyprus,1995,23500
+Cyprus,1996,23400
+Cyprus,1997,23500
+Cyprus,1998,26600
+Cyprus,1999,25300
+Cyprus,2000,25900
+Cyprus,2001,26600
+Cyprus,2002,27600
+Cyprus,2003,28200
+Cyprus,2004,29000
+Cyprus,2005,29600
+Cyprus,2006,30200
+Cyprus,2007,31700
+Cyprus,2008,32000
+Cyprus,2009,30800
+Cyprus,2010,29900
+Cyprus,2011,30100
+Cyprus,2012,27900
+Cyprus,2013,25900
+Cyprus,2014,26100
+Cyprus,2015,27900
+Cyprus,2016,28000
+Cyprus,2017,28700
+Czech Republic,1960,
+Czech Republic,1961,
+Czech Republic,1962,
+Czech Republic,1963,
+Czech Republic,1964,
+Czech Republic,1965,
+Czech Republic,1966,
+Czech Republic,1967,
+Czech Republic,1968,
+Czech Republic,1969,
+Czech Republic,1970,
+Czech Republic,1971,
+Czech Republic,1972,
+Czech Republic,1973,
+Czech Republic,1974,
+Czech Republic,1975,
+Czech Republic,1976,
+Czech Republic,1977,
+Czech Republic,1978,
+Czech Republic,1979,
+Czech Republic,1980,
+Czech Republic,1981,
+Czech Republic,1982,
+Czech Republic,1983,
+Czech Republic,1984,
+Czech Republic,1985,
+Czech Republic,1986,
+Czech Republic,1987,
+Czech Republic,1988,
+Czech Republic,1989,
+Czech Republic,1990,
+Czech Republic,1991,
+Czech Republic,1992,12300
+Czech Republic,1993,12300
+Czech Republic,1994,12700
+Czech Republic,1995,13300
+Czech Republic,1996,13800
+Czech Republic,1997,13800
+Czech Republic,1998,13700
+Czech Republic,1999,13900
+Czech Republic,2000,14500
+Czech Republic,2001,14800
+Czech Republic,2002,15000
+Czech Republic,2003,15600
+Czech Republic,2004,16100
+Czech Republic,2005,17100
+Czech Republic,2006,18000
+Czech Republic,2007,18800
+Czech Republic,2008,19100
+Czech Republic,2009,18000
+Czech Republic,2010,18300
+Czech Republic,2011,18600
+Czech Republic,2012,18700
+Czech Republic,2013,18600
+Czech Republic,2014,18900
+Czech Republic,2015,19900
+Czech Republic,2016,
+Czech Republic,2017,
+Denmark,1960,
+Denmark,1961,
+Denmark,1962,
+Denmark,1963,
+Denmark,1964,
+Denmark,1965,
+Denmark,1966,
+Denmark,1967,
+Denmark,1968,
+Denmark,1969,
+Denmark,1970,30700
+Denmark,1971,31300
+Denmark,1972,32400
+Denmark,1973,33600
+Denmark,1974,32900
+Denmark,1975,32300
+Denmark,1976,34200
+Denmark,1977,34700
+Denmark,1978,35300
+Denmark,1979,36300
+Denmark,1980,36200
+Denmark,1981,35700
+Denmark,1982,36800
+Denmark,1983,37800
+Denmark,1984,39300
+Denmark,1985,40800
+Denmark,1986,42800
+Denmark,1987,43000
+Denmark,1988,42900
+Denmark,1989,43000
+Denmark,1990,43500
+Denmark,1991,43900
+Denmark,1992,44800
+Denmark,1993,45000
+Denmark,1994,47300
+Denmark,1995,48600
+Denmark,1996,49700
+Denmark,1997,51000
+Denmark,1998,52100
+Denmark,1999,53600
+Denmark,2000,54700
+Denmark,2001,55400
+Denmark,2002,55600
+Denmark,2003,55900
+Denmark,2004,57900
+Denmark,2005,59300
+Denmark,2006,61600
+Denmark,2007,61500
+Denmark,2008,61200
+Denmark,2009,57800
+Denmark,2010,59000
+Denmark,2011,59800
+Denmark,2012,59800
+Denmark,2013,60600
+Denmark,2014,61600
+Denmark,2015,62000
+Denmark,2016,62300
+Denmark,2017,
+Dominica,1960,
+Dominica,1961,
+Dominica,1962,
+Dominica,1963,
+Dominica,1964,
+Dominica,1965,
+Dominica,1966,
+Dominica,1967,
+Dominica,1968,
+Dominica,1969,
+Dominica,1970,
+Dominica,1971,
+Dominica,1972,
+Dominica,1973,
+Dominica,1974,
+Dominica,1975,
+Dominica,1976,
+Dominica,1977,
+Dominica,1978,
+Dominica,1979,
+Dominica,1980,
+Dominica,1981,
+Dominica,1982,
+Dominica,1983,
+Dominica,1984,
+Dominica,1985,
+Dominica,1986,
+Dominica,1987,
+Dominica,1988,
+Dominica,1989,
+Dominica,1990,
+Dominica,1991,
+Dominica,1992,
+Dominica,1993,
+Dominica,1994,
+Dominica,1995,
+Dominica,1996,
+Dominica,1997,
+Dominica,1998,
+Dominica,1999,
+Dominica,2000,
+Dominica,2001,
+Dominica,2002,
+Dominica,2003,
+Dominica,2004,
+Dominica,2005,
+Dominica,2006,
+Dominica,2007,
+Dominica,2008,
+Dominica,2009,
+Dominica,2010,6780
+Dominica,2011,
+Dominica,2012,
+Dominica,2013,
+Dominica,2014,
+Dominica,2015,
+Dominica,2016,
+Dominica,2017,
+Dominican Republic,1960,1310
+Dominican Republic,1961,1220
+Dominican Republic,1962,1380
+Dominican Republic,1963,1430
+Dominican Republic,1964,1480
+Dominican Republic,1965,1270
+Dominican Republic,1966,1380
+Dominican Republic,1967,1390
+Dominican Republic,1968,1350
+Dominican Republic,1969,1450
+Dominican Republic,1970,1690
+Dominican Republic,1971,1830
+Dominican Republic,1972,2010
+Dominican Republic,1973,2170
+Dominican Republic,1974,2230
+Dominican Republic,1975,2290
+Dominican Republic,1976,2380
+Dominican Republic,1977,2410
+Dominican Republic,1978,2440
+Dominican Republic,1979,2510
+Dominican Republic,1980,2550
+Dominican Republic,1981,2580
+Dominican Republic,1982,2590
+Dominican Republic,1983,2640
+Dominican Republic,1984,2620
+Dominican Republic,1985,2450
+Dominican Republic,1986,2530
+Dominican Republic,1987,2700
+Dominican Republic,1988,2670
+Dominican Republic,1989,2760
+Dominican Republic,1990,2570
+Dominican Republic,1991,2560
+Dominican Republic,1992,2770
+Dominican Republic,1993,2860
+Dominican Republic,1994,2900
+Dominican Republic,1995,2990
+Dominican Republic,1996,3170
+Dominican Republic,1997,3340
+Dominican Republic,1998,3490
+Dominican Republic,1999,3640
+Dominican Republic,2000,3790
+Dominican Republic,2001,3760
+Dominican Republic,2002,3870
+Dominican Republic,2003,3720
+Dominican Republic,2004,3640
+Dominican Republic,2005,3920
+Dominican Republic,2006,4250
+Dominican Republic,2007,4780
+Dominican Republic,2008,4940
+Dominican Republic,2009,4920
+Dominican Republic,2010,5250
+Dominican Republic,2011,5330
+Dominican Republic,2012,5410
+Dominican Republic,2013,5500
+Dominican Republic,2014,5830
+Dominican Republic,2015,6200
+Dominican Republic,2016,6510
+Dominican Republic,2017,6830
+Ecuador,1960,
+Ecuador,1961,
+Ecuador,1962,
+Ecuador,1963,
+Ecuador,1964,
+Ecuador,1965,2390
+Ecuador,1966,2320
+Ecuador,1967,2350
+Ecuador,1968,2330
+Ecuador,1969,2370
+Ecuador,1970,2460
+Ecuador,1971,2530
+Ecuador,1972,2580
+Ecuador,1973,2820
+Ecuador,1974,3060
+Ecuador,1975,3370
+Ecuador,1976,3500
+Ecuador,1977,3460
+Ecuador,1978,3550
+Ecuador,1979,3550
+Ecuador,1980,3590
+Ecuador,1981,3680
+Ecuador,1982,3570
+Ecuador,1983,3470
+Ecuador,1984,3430
+Ecuador,1985,3430
+Ecuador,1986,3460
+Ecuador,1987,3340
+Ecuador,1988,3430
+Ecuador,1989,3380
+Ecuador,1990,3430
+Ecuador,1991,3540
+Ecuador,1992,3580
+Ecuador,1993,3610
+Ecuador,1994,3700
+Ecuador,1995,3710
+Ecuador,1996,3690
+Ecuador,1997,3780
+Ecuador,1998,3810
+Ecuador,1999,3480
+Ecuador,2000,3410
+Ecuador,2001,3570
+Ecuador,2002,3690
+Ecuador,2003,3720
+Ecuador,2004,3940
+Ecuador,2005,4110
+Ecuador,2006,4230
+Ecuador,2007,4250
+Ecuador,2008,4510
+Ecuador,2009,4480
+Ecuador,2010,4590
+Ecuador,2011,4860
+Ecuador,2012,5060
+Ecuador,2013,5230
+Ecuador,2014,5340
+Ecuador,2015,5260
+Ecuador,2016,5100
+Ecuador,2017,5150
+Egypt,1960,
+Egypt,1961,
+Egypt,1962,
+Egypt,1963,
+Egypt,1964,
+Egypt,1965,757
+Egypt,1966,745
+Egypt,1967,733
+Egypt,1968,734
+Egypt,1969,761
+Egypt,1970,785
+Egypt,1971,793
+Egypt,1972,792
+Egypt,1973,775
+Egypt,1974,777
+Egypt,1975,820
+Egypt,1976,914
+Egypt,1977,1000
+Egypt,1978,1020
+Egypt,1979,1040
+Egypt,1980,1100
+Egypt,1981,1110
+Egypt,1982,1190
+Egypt,1983,1250
+Egypt,1984,1290
+Egypt,1985,1300
+Egypt,1986,1280
+Egypt,1987,1420
+Egypt,1988,1470
+Egypt,1989,1490
+Egypt,1990,1520
+Egypt,1991,1520
+Egypt,1992,1560
+Egypt,1993,1570
+Egypt,1994,1610
+Egypt,1995,1660
+Egypt,1996,1720
+Egypt,1997,1790
+Egypt,1998,1830
+Egypt,1999,1910
+Egypt,2000,1970
+Egypt,2001,2000
+Egypt,2002,1990
+Egypt,2003,2010
+Egypt,2004,2050
+Egypt,2005,2110
+Egypt,2006,2230
+Egypt,2007,2350
+Egypt,2008,2480
+Egypt,2009,2520
+Egypt,2010,2550
+Egypt,2011,2530
+Egypt,2012,2530
+Egypt,2013,2520
+Egypt,2014,2540
+Egypt,2015,2620
+Egypt,2016,2690
+Egypt,2017,2730
+El Salvador,1960,
+El Salvador,1961,
+El Salvador,1962,
+El Salvador,1963,
+El Salvador,1964,
+El Salvador,1965,
+El Salvador,1966,
+El Salvador,1967,
+El Salvador,1968,
+El Salvador,1969,
+El Salvador,1970,
+El Salvador,1971,
+El Salvador,1972,
+El Salvador,1973,
+El Salvador,1974,
+El Salvador,1975,
+El Salvador,1976,
+El Salvador,1977,
+El Salvador,1978,
+El Salvador,1979,
+El Salvador,1980,
+El Salvador,1981,
+El Salvador,1982,
+El Salvador,1983,
+El Salvador,1984,
+El Salvador,1985,
+El Salvador,1986,
+El Salvador,1987,
+El Salvador,1988,
+El Salvador,1989,
+El Salvador,1990,2090
+El Salvador,1991,2120
+El Salvador,1992,2290
+El Salvador,1993,2430
+El Salvador,1994,2570
+El Salvador,1995,2700
+El Salvador,1996,2710
+El Salvador,1997,2800
+El Salvador,1998,2880
+El Salvador,1999,2910
+El Salvador,2000,2950
+El Salvador,2001,2990
+El Salvador,2002,3020
+El Salvador,2003,3050
+El Salvador,2004,3100
+El Salvador,2005,3210
+El Salvador,2006,3340
+El Salvador,2007,3450
+El Salvador,2008,3540
+El Salvador,2009,3370
+El Salvador,2010,3390
+El Salvador,2011,3430
+El Salvador,2012,3390
+El Salvador,2013,3420
+El Salvador,2014,3470
+El Salvador,2015,3590
+El Salvador,2016,3630
+El Salvador,2017,3260
+Equatorial Guinea,1960,
+Equatorial Guinea,1961,
+Equatorial Guinea,1962,
+Equatorial Guinea,1963,
+Equatorial Guinea,1964,
+Equatorial Guinea,1965,
+Equatorial Guinea,1966,
+Equatorial Guinea,1967,
+Equatorial Guinea,1968,
+Equatorial Guinea,1969,
+Equatorial Guinea,1970,
+Equatorial Guinea,1971,
+Equatorial Guinea,1972,
+Equatorial Guinea,1973,
+Equatorial Guinea,1974,
+Equatorial Guinea,1975,
+Equatorial Guinea,1976,
+Equatorial Guinea,1977,
+Equatorial Guinea,1978,
+Equatorial Guinea,1979,
+Equatorial Guinea,1980,590
+Equatorial Guinea,1981,456
+Equatorial Guinea,1982,468
+Equatorial Guinea,1983,527
+Equatorial Guinea,1984,497
+Equatorial Guinea,1985,515
+Equatorial Guinea,1986,476
+Equatorial Guinea,1987,491
+Equatorial Guinea,1988,479
+Equatorial Guinea,1989,452
+Equatorial Guinea,1990,519
+Equatorial Guinea,1991,522
+Equatorial Guinea,1992,695
+Equatorial Guinea,1993,718
+Equatorial Guinea,1994,693
+Equatorial Guinea,1995,716
+Equatorial Guinea,1996,1130
+Equatorial Guinea,1997,2950
+Equatorial Guinea,1998,3280
+Equatorial Guinea,1999,4140
+Equatorial Guinea,2000,4180
+Equatorial Guinea,2001,5760
+Equatorial Guinea,2002,4290
+Equatorial Guinea,2003,5700
+Equatorial Guinea,2004,4130
+Equatorial Guinea,2005,9760
+Equatorial Guinea,2006,12400
+Equatorial Guinea,2007,13900
+Equatorial Guinea,2008,13600
+Equatorial Guinea,2009,13700
+Equatorial Guinea,2010,10100
+Equatorial Guinea,2011,10400
+Equatorial Guinea,2012,11100
+Equatorial Guinea,2013,10800
+Equatorial Guinea,2014,10600
+Equatorial Guinea,2015,10900
+Equatorial Guinea,2016,9950
+Equatorial Guinea,2017,9110
+Eritrea,1960,
+Eritrea,1961,
+Eritrea,1962,
+Eritrea,1963,
+Eritrea,1964,
+Eritrea,1965,
+Eritrea,1966,
+Eritrea,1967,
+Eritrea,1968,
+Eritrea,1969,
+Eritrea,1970,
+Eritrea,1971,
+Eritrea,1972,
+Eritrea,1973,
+Eritrea,1974,
+Eritrea,1975,
+Eritrea,1976,
+Eritrea,1977,
+Eritrea,1978,
+Eritrea,1979,
+Eritrea,1980,
+Eritrea,1981,
+Eritrea,1982,
+Eritrea,1983,
+Eritrea,1984,
+Eritrea,1985,
+Eritrea,1986,
+Eritrea,1987,
+Eritrea,1988,
+Eritrea,1989,
+Eritrea,1990,
+Eritrea,1991,
+Eritrea,1992,378
+Eritrea,1993,432
+Eritrea,1994,526
+Eritrea,1995,547
+Eritrea,1996,578
+Eritrea,1997,619
+Eritrea,1998,624
+Eritrea,1999,611
+Eritrea,2000,572
+Eritrea,2001,601
+Eritrea,2002,596
+Eritrea,2003,559
+Eritrea,2004,548
+Eritrea,2005,550
+Eritrea,2006,532
+Eritrea,2007,529
+Eritrea,2008,467
+Eritrea,2009,476
+Eritrea,2010,478
+Eritrea,2011,510
+Eritrea,2012,
+Eritrea,2013,
+Eritrea,2014,
+Eritrea,2015,
+Eritrea,2016,
+Eritrea,2017,
+Estonia,1960,
+Estonia,1961,
+Estonia,1962,
+Estonia,1963,
+Estonia,1964,
+Estonia,1965,
+Estonia,1966,
+Estonia,1967,
+Estonia,1968,
+Estonia,1969,
+Estonia,1970,
+Estonia,1971,
+Estonia,1972,
+Estonia,1973,
+Estonia,1974,
+Estonia,1975,
+Estonia,1976,
+Estonia,1977,
+Estonia,1978,
+Estonia,1979,
+Estonia,1980,
+Estonia,1981,
+Estonia,1982,
+Estonia,1983,
+Estonia,1984,
+Estonia,1985,
+Estonia,1986,
+Estonia,1987,
+Estonia,1988,
+Estonia,1989,
+Estonia,1990,
+Estonia,1991,
+Estonia,1992,
+Estonia,1993,
+Estonia,1994,
+Estonia,1995,
+Estonia,1996,
+Estonia,1997,
+Estonia,1998,
+Estonia,1999,
+Estonia,2000,9770
+Estonia,2001,10400
+Estonia,2002,11100
+Estonia,2003,11900
+Estonia,2004,12700
+Estonia,2005,14100
+Estonia,2006,15500
+Estonia,2007,16400
+Estonia,2008,15800
+Estonia,2009,13800
+Estonia,2010,13900
+Estonia,2011,15000
+Estonia,2012,15900
+Estonia,2013,16500
+Estonia,2014,17000
+Estonia,2015,17400
+Estonia,2016,
+Estonia,2017,
+Ethiopia,1960,
+Ethiopia,1961,
+Ethiopia,1962,
+Ethiopia,1963,
+Ethiopia,1964,
+Ethiopia,1965,
+Ethiopia,1966,
+Ethiopia,1967,
+Ethiopia,1968,
+Ethiopia,1969,
+Ethiopia,1970,
+Ethiopia,1971,
+Ethiopia,1972,
+Ethiopia,1973,
+Ethiopia,1974,
+Ethiopia,1975,
+Ethiopia,1976,
+Ethiopia,1977,
+Ethiopia,1978,
+Ethiopia,1979,
+Ethiopia,1980,
+Ethiopia,1981,
+Ethiopia,1982,
+Ethiopia,1983,
+Ethiopia,1984,
+Ethiopia,1985,
+Ethiopia,1986,
+Ethiopia,1987,
+Ethiopia,1988,
+Ethiopia,1989,
+Ethiopia,1990,
+Ethiopia,1991,
+Ethiopia,1992,
+Ethiopia,1993,
+Ethiopia,1994,
+Ethiopia,1995,
+Ethiopia,1996,
+Ethiopia,1997,
+Ethiopia,1998,
+Ethiopia,1999,
+Ethiopia,2000,
+Ethiopia,2001,
+Ethiopia,2002,
+Ethiopia,2003,
+Ethiopia,2004,
+Ethiopia,2005,
+Ethiopia,2006,
+Ethiopia,2007,
+Ethiopia,2008,
+Ethiopia,2009,
+Ethiopia,2010,340
+Ethiopia,2011,
+Ethiopia,2012,
+Ethiopia,2013,
+Ethiopia,2014,
+Ethiopia,2015,
+Ethiopia,2016,
+Ethiopia,2017,
+Fiji,1960,
+Fiji,1961,
+Fiji,1962,
+Fiji,1963,
+Fiji,1964,
+Fiji,1965,
+Fiji,1966,
+Fiji,1967,
+Fiji,1968,
+Fiji,1969,
+Fiji,1970,
+Fiji,1971,
+Fiji,1972,
+Fiji,1973,
+Fiji,1974,
+Fiji,1975,
+Fiji,1976,
+Fiji,1977,
+Fiji,1978,
+Fiji,1979,
+Fiji,1980,
+Fiji,1981,
+Fiji,1982,
+Fiji,1983,
+Fiji,1984,
+Fiji,1985,
+Fiji,1986,
+Fiji,1987,
+Fiji,1988,
+Fiji,1989,
+Fiji,1990,
+Fiji,1991,
+Fiji,1992,
+Fiji,1993,
+Fiji,1994,
+Fiji,1995,
+Fiji,1996,
+Fiji,1997,
+Fiji,1998,
+Fiji,1999,
+Fiji,2000,
+Fiji,2001,
+Fiji,2002,
+Fiji,2003,
+Fiji,2004,
+Fiji,2005,
+Fiji,2006,
+Fiji,2007,
+Fiji,2008,
+Fiji,2009,
+Fiji,2010,3540
+Fiji,2011,
+Fiji,2012,
+Fiji,2013,
+Fiji,2014,
+Fiji,2015,
+Fiji,2016,
+Fiji,2017,
+Finland,1960,
+Finland,1961,
+Finland,1962,
+Finland,1963,
+Finland,1964,
+Finland,1965,
+Finland,1966,
+Finland,1967,
+Finland,1968,
+Finland,1969,
+Finland,1970,18200
+Finland,1971,18600
+Finland,1972,19900
+Finland,1973,21200
+Finland,1974,21800
+Finland,1975,22000
+Finland,1976,22000
+Finland,1977,21900
+Finland,1978,22500
+Finland,1979,24100
+Finland,1980,25300
+Finland,1981,25400
+Finland,1982,26000
+Finland,1983,26600
+Finland,1984,27400
+Finland,1985,28300
+Finland,1986,29100
+Finland,1987,30000
+Finland,1988,31500
+Finland,1989,32700
+Finland,1990,32600
+Finland,1991,30300
+Finland,1992,28800
+Finland,1993,28300
+Finland,1994,29600
+Finland,1995,31000
+Finland,1996,32300
+Finland,1997,34500
+Finland,1998,36100
+Finland,1999,38000
+Finland,2000,40200
+Finland,2001,41400
+Finland,2002,42100
+Finland,2003,42500
+Finland,2004,44600
+Finland,2005,45500
+Finland,2006,47500
+Finland,2007,49400
+Finland,2008,49500
+Finland,2009,45600
+Finland,2010,46800
+Finland,2011,47400
+Finland,2012,46500
+Finland,2013,45900
+Finland,2014,45600
+Finland,2015,45500
+Finland,2016,46500
+Finland,2017,
+France,1960,
+France,1961,
+France,1962,
+France,1963,
+France,1964,
+France,1965,
+France,1966,
+France,1967,
+France,1968,
+France,1969,
+France,1970,
+France,1971,21100
+France,1972,21800
+France,1973,23000
+France,1974,23700
+France,1975,23400
+France,1976,24300
+France,1977,25000
+France,1978,25900
+France,1979,26800
+France,1980,27200
+France,1981,27300
+France,1982,27800
+France,1983,27800
+France,1984,28000
+France,1985,28400
+France,1986,29100
+France,1987,29800
+France,1988,30900
+France,1989,32000
+France,1990,32700
+France,1991,33000
+France,1992,33500
+France,1993,33200
+France,1994,33700
+France,1995,34300
+France,1996,34800
+France,1997,35600
+France,1998,36800
+France,1999,38100
+France,2000,39200
+France,2001,39700
+France,2002,39500
+France,2003,39700
+France,2004,40600
+France,2005,41000
+France,2006,41800
+France,2007,42600
+France,2008,42400
+France,2009,40800
+France,2010,41500
+France,2011,42300
+France,2012,41800
+France,2013,41800
+France,2014,42000
+France,2015,42300
+France,2016,42700
+France,2017,
+Gabon,1960,
+Gabon,1961,
+Gabon,1962,
+Gabon,1963,
+Gabon,1964,
+Gabon,1965,
+Gabon,1966,
+Gabon,1967,
+Gabon,1968,
+Gabon,1969,
+Gabon,1970,7240
+Gabon,1971,7730
+Gabon,1972,8470
+Gabon,1973,9050
+Gabon,1974,12100
+Gabon,1975,14400
+Gabon,1976,19400
+Gabon,1977,16700
+Gabon,1978,11800
+Gabon,1979,11100
+Gabon,1980,11100
+Gabon,1981,11600
+Gabon,1982,11000
+Gabon,1983,11300
+Gabon,1984,12300
+Gabon,1985,11700
+Gabon,1986,11500
+Gabon,1987,9260
+Gabon,1988,10200
+Gabon,1989,10900
+Gabon,1990,10600
+Gabon,1991,11000
+Gabon,1992,10100
+Gabon,1993,10200
+Gabon,1994,10500
+Gabon,1995,10600
+Gabon,1996,10700
+Gabon,1997,10900
+Gabon,1998,11500
+Gabon,1999,9980
+Gabon,2000,8850
+Gabon,2001,9330
+Gabon,2002,9410
+Gabon,2003,9220
+Gabon,2004,8490
+Gabon,2005,8910
+Gabon,2006,7960
+Gabon,2007,8000
+Gabon,2008,7360
+Gabon,2009,7720
+Gabon,2010,7600
+Gabon,2011,7540
+Gabon,2012,8220
+Gabon,2013,8540
+Gabon,2014,9340
+Gabon,2015,9060
+Gabon,2016,9120
+Gabon,2017,9190
+Gambia,1960,
+Gambia,1961,
+Gambia,1962,
+Gambia,1963,
+Gambia,1964,
+Gambia,1965,
+Gambia,1966,
+Gambia,1967,
+Gambia,1968,
+Gambia,1969,
+Gambia,1970,
+Gambia,1971,
+Gambia,1972,
+Gambia,1973,
+Gambia,1974,
+Gambia,1975,
+Gambia,1976,
+Gambia,1977,
+Gambia,1978,
+Gambia,1979,
+Gambia,1980,
+Gambia,1981,
+Gambia,1982,
+Gambia,1983,
+Gambia,1984,
+Gambia,1985,
+Gambia,1986,
+Gambia,1987,
+Gambia,1988,
+Gambia,1989,
+Gambia,1990,
+Gambia,1991,
+Gambia,1992,
+Gambia,1993,
+Gambia,1994,
+Gambia,1995,
+Gambia,1996,
+Gambia,1997,
+Gambia,1998,
+Gambia,1999,
+Gambia,2000,
+Gambia,2001,
+Gambia,2002,
+Gambia,2003,
+Gambia,2004,527
+Gambia,2005,506
+Gambia,2006,494
+Gambia,2007,499
+Gambia,2008,514
+Gambia,2009,528
+Gambia,2010,545
+Gambia,2011,503
+Gambia,2012,517
+Gambia,2013,529
+Gambia,2014,515
+Gambia,2015,519
+Gambia,2016,517
+Gambia,2017,518
+Georgia,1960,
+Georgia,1961,
+Georgia,1962,
+Georgia,1963,
+Georgia,1964,
+Georgia,1965,
+Georgia,1966,
+Georgia,1967,
+Georgia,1968,
+Georgia,1969,
+Georgia,1970,
+Georgia,1971,
+Georgia,1972,
+Georgia,1973,
+Georgia,1974,
+Georgia,1975,
+Georgia,1976,
+Georgia,1977,
+Georgia,1978,
+Georgia,1979,
+Georgia,1980,
+Georgia,1981,
+Georgia,1982,
+Georgia,1983,
+Georgia,1984,
+Georgia,1985,
+Georgia,1986,
+Georgia,1987,
+Georgia,1988,
+Georgia,1989,
+Georgia,1990,
+Georgia,1991,
+Georgia,1992,
+Georgia,1993,
+Georgia,1994,
+Georgia,1995,
+Georgia,1996,
+Georgia,1997,
+Georgia,1998,
+Georgia,1999,
+Georgia,2000,
+Georgia,2001,
+Georgia,2002,
+Georgia,2003,
+Georgia,2004,
+Georgia,2005,
+Georgia,2006,
+Georgia,2007,
+Georgia,2008,
+Georgia,2009,
+Georgia,2010,2870
+Georgia,2011,
+Georgia,2012,
+Georgia,2013,
+Georgia,2014,
+Georgia,2015,
+Georgia,2016,
+Georgia,2017,
+Germany,1960,
+Germany,1961,
+Germany,1962,
+Germany,1963,
+Germany,1964,
+Germany,1965,
+Germany,1966,
+Germany,1967,
+Germany,1968,
+Germany,1969,
+Germany,1970,19700
+Germany,1971,20300
+Germany,1972,21000
+Germany,1973,22000
+Germany,1974,22200
+Germany,1975,22100
+Germany,1976,23300
+Germany,1977,24100
+Germany,1978,24900
+Germany,1979,25900
+Germany,1980,26200
+Germany,1981,26300
+Germany,1982,26200
+Germany,1983,26800
+Germany,1984,27700
+Germany,1985,28400
+Germany,1986,29000
+Germany,1987,29300
+Germany,1988,30500
+Germany,1989,31500
+Germany,1990,32900
+Germany,1991,34100
+Germany,1992,34400
+Germany,1993,33800
+Germany,1994,34300
+Germany,1995,34700
+Germany,1996,34900
+Germany,1997,35500
+Germany,1998,36000
+Germany,1999,36600
+Germany,2000,37700
+Germany,2001,38300
+Germany,2002,38000
+Germany,2003,37900
+Germany,2004,38900
+Germany,2005,39300
+Germany,2006,41200
+Germany,2007,42400
+Germany,2008,42800
+Germany,2009,41000
+Germany,2010,42600
+Germany,2011,45200
+Germany,2012,45300
+Germany,2013,45300
+Germany,2014,45900
+Germany,2015,46300
+Germany,2016,46700
+Germany,2017,
+Ghana,1960,
+Ghana,1961,
+Ghana,1962,
+Ghana,1963,
+Ghana,1964,
+Ghana,1965,
+Ghana,1966,
+Ghana,1967,
+Ghana,1968,
+Ghana,1969,
+Ghana,1970,
+Ghana,1971,
+Ghana,1972,
+Ghana,1973,
+Ghana,1974,
+Ghana,1975,
+Ghana,1976,
+Ghana,1977,
+Ghana,1978,
+Ghana,1979,
+Ghana,1980,
+Ghana,1981,
+Ghana,1982,
+Ghana,1983,
+Ghana,1984,
+Ghana,1985,
+Ghana,1986,
+Ghana,1987,
+Ghana,1988,
+Ghana,1989,
+Ghana,1990,
+Ghana,1991,
+Ghana,1992,
+Ghana,1993,
+Ghana,1994,
+Ghana,1995,
+Ghana,1996,
+Ghana,1997,
+Ghana,1998,
+Ghana,1999,
+Ghana,2000,
+Ghana,2001,
+Ghana,2002,
+Ghana,2003,
+Ghana,2004,
+Ghana,2005,
+Ghana,2006,1120
+Ghana,2007,1140
+Ghana,2008,1220
+Ghana,2009,1240
+Ghana,2010,1290
+Ghana,2011,1410
+Ghana,2012,1480
+Ghana,2013,1590
+Ghana,2014,1590
+Ghana,2015,1660
+Ghana,2016,1670
+Ghana,2017,1760
+Greece,1960,
+Greece,1961,
+Greece,1962,
+Greece,1963,
+Greece,1964,
+Greece,1965,
+Greece,1966,
+Greece,1967,
+Greece,1968,
+Greece,1969,
+Greece,1970,13600
+Greece,1971,14700
+Greece,1972,16000
+Greece,1973,17300
+Greece,1974,16200
+Greece,1975,17000
+Greece,1976,18000
+Greece,1977,18300
+Greece,1978,19300
+Greece,1979,19700
+Greece,1980,19700
+Greece,1981,19100
+Greece,1982,18800
+Greece,1983,18400
+Greece,1984,18500
+Greece,1985,18800
+Greece,1986,18800
+Greece,1987,18400
+Greece,1988,19100
+Greece,1989,19700
+Greece,1990,19800
+Greece,1991,20200
+Greece,1992,20200
+Greece,1993,19700
+Greece,1994,20100
+Greece,1995,20400
+Greece,1996,20800
+Greece,1997,21600
+Greece,1998,22300
+Greece,1999,22700
+Greece,2000,23400
+Greece,2001,24300
+Greece,2002,25000
+Greece,2003,26200
+Greece,2004,27500
+Greece,2005,27400
+Greece,2006,28600
+Greece,2007,29300
+Greece,2008,29000
+Greece,2009,27900
+Greece,2010,26400
+Greece,2011,23800
+Greece,2012,23000
+Greece,2013,22200
+Greece,2014,22600
+Greece,2015,22700
+Greece,2016,
+Greece,2017,
+Grenada,1960,
+Grenada,1961,
+Grenada,1962,
+Grenada,1963,
+Grenada,1964,
+Grenada,1965,
+Grenada,1966,
+Grenada,1967,
+Grenada,1968,
+Grenada,1969,
+Grenada,1970,
+Grenada,1971,
+Grenada,1972,
+Grenada,1973,
+Grenada,1974,
+Grenada,1975,
+Grenada,1976,
+Grenada,1977,
+Grenada,1978,
+Grenada,1979,
+Grenada,1980,
+Grenada,1981,
+Grenada,1982,
+Grenada,1983,
+Grenada,1984,
+Grenada,1985,
+Grenada,1986,
+Grenada,1987,
+Grenada,1988,
+Grenada,1989,
+Grenada,1990,
+Grenada,1991,
+Grenada,1992,
+Grenada,1993,
+Grenada,1994,
+Grenada,1995,
+Grenada,1996,
+Grenada,1997,
+Grenada,1998,
+Grenada,1999,
+Grenada,2000,
+Grenada,2001,
+Grenada,2002,
+Grenada,2003,
+Grenada,2004,
+Grenada,2005,
+Grenada,2006,
+Grenada,2007,
+Grenada,2008,
+Grenada,2009,
+Grenada,2010,6980
+Grenada,2011,
+Grenada,2012,
+Grenada,2013,
+Grenada,2014,
+Grenada,2015,
+Grenada,2016,
+Grenada,2017,
+Guatemala,1960,1450
+Guatemala,1961,1460
+Guatemala,1962,1470
+Guatemala,1963,1560
+Guatemala,1964,1590
+Guatemala,1965,1620
+Guatemala,1966,1650
+Guatemala,1967,1670
+Guatemala,1968,1750
+Guatemala,1969,1780
+Guatemala,1970,1830
+Guatemala,1971,1880
+Guatemala,1972,1960
+Guatemala,1973,2040
+Guatemala,1974,2130
+Guatemala,1975,2100
+Guatemala,1976,2220
+Guatemala,1977,2350
+Guatemala,1978,2410
+Guatemala,1979,2470
+Guatemala,1980,2490
+Guatemala,1981,2430
+Guatemala,1982,2280
+Guatemala,1983,2170
+Guatemala,1984,2110
+Guatemala,1985,2050
+Guatemala,1986,1980
+Guatemala,1987,2010
+Guatemala,1988,2050
+Guatemala,1989,2080
+Guatemala,1990,2100
+Guatemala,1991,2150
+Guatemala,1992,2200
+Guatemala,1993,2240
+Guatemala,1994,2270
+Guatemala,1995,2330
+Guatemala,1996,2330
+Guatemala,1997,2390
+Guatemala,1998,2460
+Guatemala,1999,2490
+Guatemala,2000,2520
+Guatemala,2001,2540
+Guatemala,2002,2560
+Guatemala,2003,2560
+Guatemala,2004,2570
+Guatemala,2005,2590
+Guatemala,2006,2660
+Guatemala,2007,2760
+Guatemala,2008,2770
+Guatemala,2009,2720
+Guatemala,2010,2740
+Guatemala,2011,2780
+Guatemala,2012,2830
+Guatemala,2013,2880
+Guatemala,2014,2930
+Guatemala,2015,2990
+Guatemala,2016,3030
+Guatemala,2017,3060
+Guinea,1960,
+Guinea,1961,
+Guinea,1962,
+Guinea,1963,
+Guinea,1964,
+Guinea,1965,
+Guinea,1966,
+Guinea,1967,
+Guinea,1968,
+Guinea,1969,
+Guinea,1970,
+Guinea,1971,
+Guinea,1972,
+Guinea,1973,
+Guinea,1974,
+Guinea,1975,
+Guinea,1976,
+Guinea,1977,
+Guinea,1978,
+Guinea,1979,
+Guinea,1980,
+Guinea,1981,
+Guinea,1982,
+Guinea,1983,
+Guinea,1984,
+Guinea,1985,
+Guinea,1986,
+Guinea,1987,
+Guinea,1988,
+Guinea,1989,
+Guinea,1990,
+Guinea,1991,
+Guinea,1992,
+Guinea,1993,
+Guinea,1994,
+Guinea,1995,
+Guinea,1996,
+Guinea,1997,
+Guinea,1998,
+Guinea,1999,
+Guinea,2000,
+Guinea,2001,
+Guinea,2002,
+Guinea,2003,
+Guinea,2004,
+Guinea,2005,
+Guinea,2006,567
+Guinea,2007,607
+Guinea,2008,608
+Guinea,2009,589
+Guinea,2010,607
+Guinea,2011,626
+Guinea,2012,653
+Guinea,2013,666
+Guinea,2014,673
+Guinea,2015,683
+Guinea,2016,732
+Guinea,2017,816
+Guinea-Bissau,1960,
+Guinea-Bissau,1961,
+Guinea-Bissau,1962,
+Guinea-Bissau,1963,
+Guinea-Bissau,1964,
+Guinea-Bissau,1965,
+Guinea-Bissau,1966,
+Guinea-Bissau,1967,
+Guinea-Bissau,1968,
+Guinea-Bissau,1969,
+Guinea-Bissau,1970,
+Guinea-Bissau,1971,
+Guinea-Bissau,1972,
+Guinea-Bissau,1973,
+Guinea-Bissau,1974,
+Guinea-Bissau,1975,
+Guinea-Bissau,1976,
+Guinea-Bissau,1977,
+Guinea-Bissau,1978,
+Guinea-Bissau,1979,
+Guinea-Bissau,1980,
+Guinea-Bissau,1981,
+Guinea-Bissau,1982,
+Guinea-Bissau,1983,
+Guinea-Bissau,1984,
+Guinea-Bissau,1985,
+Guinea-Bissau,1986,
+Guinea-Bissau,1987,
+Guinea-Bissau,1988,
+Guinea-Bissau,1989,
+Guinea-Bissau,1990,
+Guinea-Bissau,1991,
+Guinea-Bissau,1992,
+Guinea-Bissau,1993,
+Guinea-Bissau,1994,
+Guinea-Bissau,1995,
+Guinea-Bissau,1996,
+Guinea-Bissau,1997,
+Guinea-Bissau,1998,
+Guinea-Bissau,1999,
+Guinea-Bissau,2000,515
+Guinea-Bissau,2001,512
+Guinea-Bissau,2002,506
+Guinea-Bissau,2003,498
+Guinea-Bissau,2004,502
+Guinea-Bissau,2005,512
+Guinea-Bissau,2006,518
+Guinea-Bissau,2007,524
+Guinea-Bissau,2008,523
+Guinea-Bissau,2009,529
+Guinea-Bissau,2010,544
+Guinea-Bissau,2011,580
+Guinea-Bissau,2012,555
+Guinea-Bissau,2013,544
+Guinea-Bissau,2014,566
+Guinea-Bissau,2015,580
+Guinea-Bissau,2016,602
+Guinea-Bissau,2017,606
+Guyana,1960,
+Guyana,1961,
+Guyana,1962,
+Guyana,1963,
+Guyana,1964,
+Guyana,1965,
+Guyana,1966,
+Guyana,1967,
+Guyana,1968,
+Guyana,1969,
+Guyana,1970,
+Guyana,1971,
+Guyana,1972,
+Guyana,1973,
+Guyana,1974,
+Guyana,1975,
+Guyana,1976,
+Guyana,1977,
+Guyana,1978,
+Guyana,1979,
+Guyana,1980,
+Guyana,1981,
+Guyana,1982,
+Guyana,1983,
+Guyana,1984,
+Guyana,1985,
+Guyana,1986,
+Guyana,1987,
+Guyana,1988,
+Guyana,1989,
+Guyana,1990,
+Guyana,1991,
+Guyana,1992,
+Guyana,1993,
+Guyana,1994,
+Guyana,1995,
+Guyana,1996,
+Guyana,1997,
+Guyana,1998,
+Guyana,1999,
+Guyana,2000,
+Guyana,2001,
+Guyana,2002,
+Guyana,2003,
+Guyana,2004,
+Guyana,2005,
+Guyana,2006,
+Guyana,2007,
+Guyana,2008,
+Guyana,2009,
+Guyana,2010,3060
+Guyana,2011,
+Guyana,2012,
+Guyana,2013,
+Guyana,2014,
+Guyana,2015,
+Guyana,2016,
+Guyana,2017,
+Haiti,1960,
+Haiti,1961,
+Haiti,1962,
+Haiti,1963,
+Haiti,1964,
+Haiti,1965,
+Haiti,1966,
+Haiti,1967,
+Haiti,1968,
+Haiti,1969,
+Haiti,1970,
+Haiti,1971,
+Haiti,1972,
+Haiti,1973,
+Haiti,1974,
+Haiti,1975,
+Haiti,1976,
+Haiti,1977,
+Haiti,1978,
+Haiti,1979,
+Haiti,1980,
+Haiti,1981,
+Haiti,1982,
+Haiti,1983,
+Haiti,1984,
+Haiti,1985,
+Haiti,1986,
+Haiti,1987,
+Haiti,1988,
+Haiti,1989,
+Haiti,1990,
+Haiti,1991,
+Haiti,1992,
+Haiti,1993,
+Haiti,1994,
+Haiti,1995,
+Haiti,1996,760
+Haiti,1997,766
+Haiti,1998,767
+Haiti,1999,773
+Haiti,2000,770
+Haiti,2001,745
+Haiti,2002,727
+Haiti,2003,717
+Haiti,2004,683
+Haiti,2005,678
+Haiti,2006,692
+Haiti,2007,705
+Haiti,2008,700
+Haiti,2009,712
+Haiti,2010,665
+Haiti,2011,693
+Haiti,2012,706
+Haiti,2013,721
+Haiti,2014,734
+Haiti,2015,731
+Haiti,2016,742
+Haiti,2017,735
+Honduras,1960,1120
+Honduras,1961,1080
+Honduras,1962,1100
+Honduras,1963,1100
+Honduras,1964,1130
+Honduras,1965,1180
+Honduras,1966,1210
+Honduras,1967,1230
+Honduras,1968,1280
+Honduras,1969,1260
+Honduras,1970,1260
+Honduras,1971,1270
+Honduras,1972,1310
+Honduras,1973,1370
+Honduras,1974,1340
+Honduras,1975,1310
+Honduras,1976,1380
+Honduras,1977,1470
+Honduras,1978,1570
+Honduras,1979,1590
+Honduras,1980,1540
+Honduras,1981,1550
+Honduras,1982,1450
+Honduras,1983,1420
+Honduras,1984,1440
+Honduras,1985,1460
+Honduras,1986,1420
+Honduras,1987,1450
+Honduras,1988,1480
+Honduras,1989,1510
+Honduras,1990,1410
+Honduras,1991,1410
+Honduras,1992,1430
+Honduras,1993,1540
+Honduras,1994,1480
+Honduras,1995,1480
+Honduras,1996,1500
+Honduras,1997,1560
+Honduras,1998,1570
+Honduras,1999,1520
+Honduras,2000,1560
+Honduras,2001,1560
+Honduras,2002,1570
+Honduras,2003,1600
+Honduras,2004,1650
+Honduras,2005,1710
+Honduras,2006,1780
+Honduras,2007,1880
+Honduras,2008,1910
+Honduras,2009,1820
+Honduras,2010,1840
+Honduras,2011,1860
+Honduras,2012,1880
+Honduras,2013,1890
+Honduras,2014,1900
+Honduras,2015,1960
+Honduras,2016,1990
+Honduras,2017,2050
+Hungary,1960,
+Hungary,1961,
+Hungary,1962,
+Hungary,1963,
+Hungary,1964,
+Hungary,1965,
+Hungary,1966,
+Hungary,1967,
+Hungary,1968,
+Hungary,1969,
+Hungary,1970,
+Hungary,1971,
+Hungary,1972,
+Hungary,1973,
+Hungary,1974,
+Hungary,1975,
+Hungary,1976,
+Hungary,1977,
+Hungary,1978,
+Hungary,1979,
+Hungary,1980,
+Hungary,1981,
+Hungary,1982,
+Hungary,1983,
+Hungary,1984,
+Hungary,1985,
+Hungary,1986,
+Hungary,1987,
+Hungary,1988,
+Hungary,1989,
+Hungary,1990,
+Hungary,1991,
+Hungary,1992,
+Hungary,1993,8290
+Hungary,1994,8530
+Hungary,1995,8620
+Hungary,1996,8590
+Hungary,1997,8750
+Hungary,1998,9130
+Hungary,1999,9430
+Hungary,2000,9930
+Hungary,2001,10300
+Hungary,2002,10800
+Hungary,2003,11300
+Hungary,2004,11800
+Hungary,2005,12300
+Hungary,2006,12900
+Hungary,2007,12800
+Hungary,2008,13000
+Hungary,2009,12300
+Hungary,2010,12400
+Hungary,2011,12700
+Hungary,2012,12600
+Hungary,2013,13100
+Hungary,2014,13500
+Hungary,2015,13900
+Hungary,2016,
+Hungary,2017,
+Iceland,1960,
+Iceland,1961,
+Iceland,1962,
+Iceland,1963,
+Iceland,1964,
+Iceland,1965,
+Iceland,1966,
+Iceland,1967,
+Iceland,1968,
+Iceland,1969,
+Iceland,1970,
+Iceland,1971,
+Iceland,1972,
+Iceland,1973,
+Iceland,1974,
+Iceland,1975,
+Iceland,1976,
+Iceland,1977,
+Iceland,1978,
+Iceland,1979,
+Iceland,1980,
+Iceland,1981,
+Iceland,1982,
+Iceland,1983,
+Iceland,1984,
+Iceland,1985,
+Iceland,1986,
+Iceland,1987,
+Iceland,1988,
+Iceland,1989,
+Iceland,1990,
+Iceland,1991,
+Iceland,1992,
+Iceland,1993,
+Iceland,1994,
+Iceland,1995,
+Iceland,1996,30300
+Iceland,1997,31600
+Iceland,1998,33500
+Iceland,1999,34500
+Iceland,2000,35300
+Iceland,2001,36400
+Iceland,2002,37700
+Iceland,2003,37900
+Iceland,2004,39400
+Iceland,2005,40600
+Iceland,2006,40600
+Iceland,2007,44000
+Iceland,2008,36900
+Iceland,2009,35500
+Iceland,2010,35000
+Iceland,2011,37100
+Iceland,2012,38800
+Iceland,2013,43600
+Iceland,2014,43800
+Iceland,2015,45600
+Iceland,2016,
+Iceland,2017,
+India,1960,303
+India,1961,308
+India,1962,310
+India,1963,323
+India,1964,339
+India,1965,323
+India,1966,316
+India,1967,334
+India,1968,338
+India,1969,353
+India,1970,363
+India,1971,361
+India,1972,351
+India,1973,354
+India,1974,351
+India,1975,374
+India,1976,372
+India,1977,390
+India,1978,403
+India,1979,373
+India,1980,389
+India,1981,404
+India,1982,407
+India,1983,426
+India,1984,432
+India,1985,445
+India,1986,456
+India,1987,463
+India,1988,495
+India,1989,513
+India,1990,529
+India,1991,523
+India,1992,541
+India,1993,556
+India,1994,582
+India,1995,616
+India,1996,651
+India,1997,665
+India,1998,693
+India,1999,742
+India,2000,755
+India,2001,779
+India,2002,796
+India,2003,844
+India,2004,897
+India,2005,964
+India,2006,1040
+India,2007,1130
+India,2008,1150
+India,2009,1230
+India,2010,1330
+India,2011,1400
+India,2012,1460
+India,2013,1530
+India,2014,1630
+India,2015,1740
+India,2016,1840
+India,2017,
+Indonesia,1960,
+Indonesia,1961,
+Indonesia,1962,
+Indonesia,1963,
+Indonesia,1964,
+Indonesia,1965,
+Indonesia,1966,
+Indonesia,1967,
+Indonesia,1968,
+Indonesia,1969,
+Indonesia,1970,
+Indonesia,1971,
+Indonesia,1972,
+Indonesia,1973,
+Indonesia,1974,
+Indonesia,1975,
+Indonesia,1976,
+Indonesia,1977,
+Indonesia,1978,
+Indonesia,1979,
+Indonesia,1980,
+Indonesia,1981,
+Indonesia,1982,
+Indonesia,1983,
+Indonesia,1984,
+Indonesia,1985,
+Indonesia,1986,
+Indonesia,1987,
+Indonesia,1988,
+Indonesia,1989,
+Indonesia,1990,
+Indonesia,1991,
+Indonesia,1992,
+Indonesia,1993,
+Indonesia,1994,
+Indonesia,1995,
+Indonesia,1996,
+Indonesia,1997,
+Indonesia,1998,
+Indonesia,1999,
+Indonesia,2000,
+Indonesia,2001,
+Indonesia,2002,
+Indonesia,2003,
+Indonesia,2004,
+Indonesia,2005,
+Indonesia,2006,
+Indonesia,2007,
+Indonesia,2008,
+Indonesia,2009,
+Indonesia,2010,3030
+Indonesia,2011,3170
+Indonesia,2012,3320
+Indonesia,2013,3460
+Indonesia,2014,3570
+Indonesia,2015,3700
+Indonesia,2016,3850
+Indonesia,2017,4000
+Iran,1960,
+Iran,1961,
+Iran,1962,
+Iran,1963,
+Iran,1964,
+Iran,1965,
+Iran,1966,
+Iran,1967,
+Iran,1968,
+Iran,1969,
+Iran,1970,
+Iran,1971,
+Iran,1972,
+Iran,1973,
+Iran,1974,
+Iran,1975,
+Iran,1976,
+Iran,1977,
+Iran,1978,7780
+Iran,1979,7090
+Iran,1980,4950
+Iran,1981,4560
+Iran,1982,5520
+Iran,1983,5630
+Iran,1984,4940
+Iran,1985,4860
+Iran,1986,4220
+Iran,1987,4090
+Iran,1988,3690
+Iran,1989,3800
+Iran,1990,4160
+Iran,1991,4570
+Iran,1992,4630
+Iran,1993,4630
+Iran,1994,4460
+Iran,1995,4560
+Iran,1996,4630
+Iran,1997,4610
+Iran,1998,4660
+Iran,1999,4560
+Iran,2000,4780
+Iran,2001,4750
+Iran,2002,5040
+Iran,2003,5410
+Iran,2004,5570
+Iran,2005,5680
+Iran,2006,5900
+Iran,2007,6330
+Iran,2008,6280
+Iran,2009,6250
+Iran,2010,6530
+Iran,2011,6620
+Iran,2012,6090
+Iran,2013,6000
+Iran,2014,6180
+Iran,2015,6020
+Iran,2016,6750
+Iran,2017,
+Iraq,1960,
+Iraq,1961,
+Iraq,1962,
+Iraq,1963,
+Iraq,1964,
+Iraq,1965,
+Iraq,1966,
+Iraq,1967,
+Iraq,1968,
+Iraq,1969,
+Iraq,1970,
+Iraq,1971,
+Iraq,1972,
+Iraq,1973,
+Iraq,1974,
+Iraq,1975,
+Iraq,1976,
+Iraq,1977,
+Iraq,1978,
+Iraq,1979,
+Iraq,1980,
+Iraq,1981,
+Iraq,1982,
+Iraq,1983,
+Iraq,1984,
+Iraq,1985,
+Iraq,1986,
+Iraq,1987,
+Iraq,1988,
+Iraq,1989,
+Iraq,1990,
+Iraq,1991,
+Iraq,1992,
+Iraq,1993,
+Iraq,1994,
+Iraq,1995,
+Iraq,1996,
+Iraq,1997,
+Iraq,1998,
+Iraq,1999,
+Iraq,2000,
+Iraq,2001,
+Iraq,2002,
+Iraq,2003,
+Iraq,2004,
+Iraq,2005,
+Iraq,2006,
+Iraq,2007,
+Iraq,2008,
+Iraq,2009,
+Iraq,2010,4550
+Iraq,2011,
+Iraq,2012,
+Iraq,2013,
+Iraq,2014,
+Iraq,2015,
+Iraq,2016,
+Iraq,2017,
+Ireland,1960,
+Ireland,1961,
+Ireland,1962,
+Ireland,1963,
+Ireland,1964,
+Ireland,1965,
+Ireland,1966,
+Ireland,1967,
+Ireland,1968,
+Ireland,1969,
+Ireland,1970,
+Ireland,1971,
+Ireland,1972,
+Ireland,1973,
+Ireland,1974,
+Ireland,1975,
+Ireland,1976,
+Ireland,1977,
+Ireland,1978,
+Ireland,1979,
+Ireland,1980,
+Ireland,1981,
+Ireland,1982,
+Ireland,1983,
+Ireland,1984,
+Ireland,1985,
+Ireland,1986,
+Ireland,1987,
+Ireland,1988,
+Ireland,1989,
+Ireland,1990,
+Ireland,1991,
+Ireland,1992,
+Ireland,1993,
+Ireland,1994,
+Ireland,1995,26200
+Ireland,1996,28200
+Ireland,1997,30300
+Ireland,1998,32300
+Ireland,1999,34300
+Ireland,2000,37000
+Ireland,2001,37700
+Ireland,2002,38700
+Ireland,2003,40500
+Ireland,2004,42700
+Ireland,2005,44400
+Ireland,2006,46200
+Ireland,2007,46600
+Ireland,2008,43900
+Ireland,2009,40000
+Ireland,2010,40600
+Ireland,2011,40500
+Ireland,2012,40500
+Ireland,2013,42600
+Ireland,2014,46100
+Ireland,2015,53200
+Ireland,2016,
+Ireland,2017,
+Israel,1960,
+Israel,1961,
+Israel,1962,
+Israel,1963,
+Israel,1964,
+Israel,1965,
+Israel,1966,
+Israel,1967,
+Israel,1968,
+Israel,1969,
+Israel,1970,
+Israel,1971,14400
+Israel,1972,15700
+Israel,1973,15900
+Israel,1974,16400
+Israel,1975,16400
+Israel,1976,16100
+Israel,1977,16000
+Israel,1978,16400
+Israel,1979,17000
+Israel,1980,16700
+Israel,1981,17400
+Israel,1982,17300
+Israel,1983,17500
+Israel,1984,17100
+Israel,1985,17400
+Israel,1986,18000
+Israel,1987,19200
+Israel,1988,19600
+Israel,1989,19500
+Israel,1990,20400
+Israel,1991,20900
+Israel,1992,21700
+Israel,1993,22000
+Israel,1994,23000
+Israel,1995,24000
+Israel,1996,24500
+Israel,1997,24600
+Israel,1998,25100
+Israel,1999,25100
+Israel,2000,25900
+Israel,2001,25900
+Israel,2002,25500
+Israel,2003,25300
+Israel,2004,26200
+Israel,2005,27300
+Israel,2006,28400
+Israel,2007,29600
+Israel,2008,29400
+Israel,2009,28900
+Israel,2010,30100
+Israel,2011,31100
+Israel,2012,30700
+Israel,2013,31600
+Israel,2014,32400
+Israel,2015,32700
+Israel,2016,33300
+Israel,2017,
+Italy,1960,
+Italy,1961,
+Italy,1962,
+Italy,1963,
+Italy,1964,
+Italy,1965,
+Italy,1966,
+Italy,1967,
+Italy,1968,
+Italy,1969,
+Italy,1970,17700
+Italy,1971,18000
+Italy,1972,18600
+Italy,1973,19700
+Italy,1974,20500
+Italy,1975,20000
+Italy,1976,21300
+Italy,1977,21800
+Italy,1978,22400
+Italy,1979,23700
+Italy,1980,24500
+Italy,1981,24600
+Italy,1982,24600
+Italy,1983,24900
+Italy,1984,25700
+Italy,1985,26400
+Italy,1986,27100
+Italy,1987,28000
+Italy,1988,29200
+Italy,1989,30100
+Italy,1990,30400
+Italy,1991,30800
+Italy,1992,31000
+Italy,1993,30800
+Italy,1994,31400
+Italy,1995,32400
+Italy,1996,32900
+Italy,1997,33700
+Italy,1998,34200
+Italy,1999,34800
+Italy,2000,36000
+Italy,2001,36700
+Italy,2002,36700
+Italy,2003,36500
+Italy,2004,37000
+Italy,2005,37300
+Italy,2006,38000
+Italy,2007,38300
+Italy,2008,37200
+Italy,2009,35300
+Italy,2010,35800
+Italy,2011,35900
+Italy,2012,34800
+Italy,2013,33800
+Italy,2014,33600
+Italy,2015,33800
+Italy,2016,34400
+Italy,2017,
+Jamaica,1960,
+Jamaica,1961,
+Jamaica,1962,
+Jamaica,1963,
+Jamaica,1964,
+Jamaica,1965,
+Jamaica,1966,
+Jamaica,1967,
+Jamaica,1968,
+Jamaica,1969,
+Jamaica,1970,
+Jamaica,1971,
+Jamaica,1972,
+Jamaica,1973,
+Jamaica,1974,
+Jamaica,1975,
+Jamaica,1976,
+Jamaica,1977,
+Jamaica,1978,
+Jamaica,1979,
+Jamaica,1980,
+Jamaica,1981,
+Jamaica,1982,
+Jamaica,1983,
+Jamaica,1984,
+Jamaica,1985,
+Jamaica,1986,
+Jamaica,1987,
+Jamaica,1988,
+Jamaica,1989,
+Jamaica,1990,
+Jamaica,1991,
+Jamaica,1992,
+Jamaica,1993,
+Jamaica,1994,
+Jamaica,1995,
+Jamaica,1996,
+Jamaica,1997,
+Jamaica,1998,
+Jamaica,1999,
+Jamaica,2000,
+Jamaica,2001,
+Jamaica,2002,
+Jamaica,2003,
+Jamaica,2004,
+Jamaica,2005,
+Jamaica,2006,
+Jamaica,2007,4810
+Jamaica,2008,4810
+Jamaica,2009,4510
+Jamaica,2010,4510
+Jamaica,2011,4590
+Jamaica,2012,4630
+Jamaica,2013,4590
+Jamaica,2014,4610
+Jamaica,2015,4590
+Jamaica,2016,4590
+Jamaica,2017,
+Japan,1960,
+Japan,1961,
+Japan,1962,
+Japan,1963,
+Japan,1964,
+Japan,1965,
+Japan,1966,
+Japan,1967,
+Japan,1968,
+Japan,1969,
+Japan,1970,18700
+Japan,1971,19300
+Japan,1972,20700
+Japan,1973,22200
+Japan,1974,21400
+Japan,1975,21800
+Japan,1976,22500
+Japan,1977,23200
+Japan,1978,24200
+Japan,1979,25400
+Japan,1980,25900
+Japan,1981,26700
+Japan,1982,27500
+Japan,1983,28300
+Japan,1984,29400
+Japan,1985,30800
+Japan,1986,31600
+Japan,1987,33000
+Japan,1988,35100
+Japan,1989,36700
+Japan,1990,38400
+Japan,1991,39600
+Japan,1992,39900
+Japan,1993,39600
+Japan,1994,39800
+Japan,1995,40700
+Japan,1996,42000
+Japan,1997,42400
+Japan,1998,41800
+Japan,1999,41600
+Japan,2000,42800
+Japan,2001,42900
+Japan,2002,42800
+Japan,2003,43400
+Japan,2004,44500
+Japan,2005,45400
+Japan,2006,46200
+Japan,2007,47100
+Japan,2008,46300
+Japan,2009,43800
+Japan,2010,45700
+Japan,2011,45800
+Japan,2012,46500
+Japan,2013,47800
+Japan,2014,48100
+Japan,2015,48900
+Japan,2016,47600
+Japan,2017,
+Jordan,1960,
+Jordan,1961,
+Jordan,1962,
+Jordan,1963,
+Jordan,1964,
+Jordan,1965,
+Jordan,1966,
+Jordan,1967,
+Jordan,1968,
+Jordan,1969,
+Jordan,1970,
+Jordan,1971,
+Jordan,1972,
+Jordan,1973,
+Jordan,1974,
+Jordan,1975,
+Jordan,1976,2090
+Jordan,1977,2160
+Jordan,1978,2480
+Jordan,1979,2640
+Jordan,1980,3030
+Jordan,1981,3100
+Jordan,1982,3200
+Jordan,1983,3100
+Jordan,1984,3150
+Jordan,1985,3120
+Jordan,1986,3190
+Jordan,1987,3120
+Jordan,1988,2890
+Jordan,1989,2380
+Jordan,1990,2300
+Jordan,1991,2170
+Jordan,1992,2480
+Jordan,1993,2480
+Jordan,1994,2490
+Jordan,1995,2570
+Jordan,1996,2540
+Jordan,1997,2600
+Jordan,1998,2650
+Jordan,1999,2690
+Jordan,2000,2840
+Jordan,2001,2950
+Jordan,2002,3040
+Jordan,2003,3120
+Jordan,2004,3330
+Jordan,2005,3490
+Jordan,2006,3650
+Jordan,2007,3790
+Jordan,2008,3840
+Jordan,2009,3840
+Jordan,2010,3650
+Jordan,2011,3550
+Jordan,2012,3440
+Jordan,2013,3370
+Jordan,2014,3310
+Jordan,2015,3260
+Jordan,2016,3230
+Jordan,2017,3220
+Kazakhstan,1960,
+Kazakhstan,1961,
+Kazakhstan,1962,
+Kazakhstan,1963,
+Kazakhstan,1964,
+Kazakhstan,1965,
+Kazakhstan,1966,
+Kazakhstan,1967,
+Kazakhstan,1968,
+Kazakhstan,1969,
+Kazakhstan,1970,
+Kazakhstan,1971,
+Kazakhstan,1972,
+Kazakhstan,1973,
+Kazakhstan,1974,
+Kazakhstan,1975,
+Kazakhstan,1976,
+Kazakhstan,1977,
+Kazakhstan,1978,
+Kazakhstan,1979,
+Kazakhstan,1980,
+Kazakhstan,1981,
+Kazakhstan,1982,
+Kazakhstan,1983,
+Kazakhstan,1984,
+Kazakhstan,1985,
+Kazakhstan,1986,
+Kazakhstan,1987,
+Kazakhstan,1988,
+Kazakhstan,1989,
+Kazakhstan,1990,
+Kazakhstan,1991,
+Kazakhstan,1992,
+Kazakhstan,1993,4660
+Kazakhstan,1994,4120
+Kazakhstan,1995,3840
+Kazakhstan,1996,3910
+Kazakhstan,1997,4030
+Kazakhstan,1998,4020
+Kazakhstan,1999,4090
+Kazakhstan,2000,4360
+Kazakhstan,2001,5020
+Kazakhstan,2002,5570
+Kazakhstan,2003,6000
+Kazakhstan,2004,6450
+Kazakhstan,2005,6780
+Kazakhstan,2006,7140
+Kazakhstan,2007,7570
+Kazakhstan,2008,7410
+Kazakhstan,2009,7770
+Kazakhstan,2010,7880
+Kazakhstan,2011,8010
+Kazakhstan,2012,8430
+Kazakhstan,2013,9240
+Kazakhstan,2014,9540
+Kazakhstan,2015,10200
+Kazakhstan,2016,9700
+Kazakhstan,2017,
+Kenya,1960,
+Kenya,1961,
+Kenya,1962,
+Kenya,1963,
+Kenya,1964,528
+Kenya,1965,524
+Kenya,1966,580
+Kenya,1967,578
+Kenya,1968,606
+Kenya,1969,640
+Kenya,1970,591
+Kenya,1971,698
+Kenya,1972,787
+Kenya,1973,784
+Kenya,1974,792
+Kenya,1975,776
+Kenya,1976,753
+Kenya,1977,797
+Kenya,1978,822
+Kenya,1979,852
+Kenya,1980,872
+Kenya,1981,872
+Kenya,1982,847
+Kenya,1983,831
+Kenya,1984,814
+Kenya,1985,818
+Kenya,1986,845
+Kenya,1987,863
+Kenya,1988,882
+Kenya,1989,901
+Kenya,1990,897
+Kenya,1991,877
+Kenya,1992,844
+Kenya,1993,804
+Kenya,1994,808
+Kenya,1995,832
+Kenya,1996,856
+Kenya,1997,840
+Kenya,1998,847
+Kenya,1999,840
+Kenya,2000,825
+Kenya,2001,832
+Kenya,2002,816
+Kenya,2003,816
+Kenya,2004,836
+Kenya,2005,869
+Kenya,2006,898
+Kenya,2007,932
+Kenya,2008,912
+Kenya,2009,916
+Kenya,2010,964
+Kenya,2011,999
+Kenya,2012,1010
+Kenya,2013,1040
+Kenya,2014,1060
+Kenya,2015,1100
+Kenya,2016,1130
+Kenya,2017,1160
+Kiribati,1960,
+Kiribati,1961,
+Kiribati,1962,
+Kiribati,1963,
+Kiribati,1964,
+Kiribati,1965,
+Kiribati,1966,
+Kiribati,1967,
+Kiribati,1968,
+Kiribati,1969,
+Kiribati,1970,
+Kiribati,1971,
+Kiribati,1972,
+Kiribati,1973,
+Kiribati,1974,
+Kiribati,1975,
+Kiribati,1976,
+Kiribati,1977,
+Kiribati,1978,
+Kiribati,1979,
+Kiribati,1980,
+Kiribati,1981,
+Kiribati,1982,
+Kiribati,1983,
+Kiribati,1984,
+Kiribati,1985,
+Kiribati,1986,
+Kiribati,1987,
+Kiribati,1988,
+Kiribati,1989,
+Kiribati,1990,
+Kiribati,1991,
+Kiribati,1992,
+Kiribati,1993,
+Kiribati,1994,
+Kiribati,1995,
+Kiribati,1996,
+Kiribati,1997,
+Kiribati,1998,
+Kiribati,1999,
+Kiribati,2000,
+Kiribati,2001,
+Kiribati,2002,
+Kiribati,2003,
+Kiribati,2004,
+Kiribati,2005,
+Kiribati,2006,
+Kiribati,2007,
+Kiribati,2008,
+Kiribati,2009,
+Kiribati,2010,2170
+Kiribati,2011,
+Kiribati,2012,
+Kiribati,2013,
+Kiribati,2014,
+Kiribati,2015,
+Kiribati,2016,
+Kiribati,2017,
+Kuwait,1960,
+Kuwait,1961,
+Kuwait,1962,
+Kuwait,1963,
+Kuwait,1964,
+Kuwait,1965,
+Kuwait,1966,
+Kuwait,1967,
+Kuwait,1968,
+Kuwait,1969,
+Kuwait,1970,
+Kuwait,1971,
+Kuwait,1972,
+Kuwait,1973,
+Kuwait,1974,
+Kuwait,1975,
+Kuwait,1976,
+Kuwait,1977,
+Kuwait,1978,
+Kuwait,1979,
+Kuwait,1980,
+Kuwait,1981,
+Kuwait,1982,
+Kuwait,1983,
+Kuwait,1984,
+Kuwait,1985,
+Kuwait,1986,
+Kuwait,1987,
+Kuwait,1988,
+Kuwait,1989,
+Kuwait,1990,
+Kuwait,1991,
+Kuwait,1992,
+Kuwait,1993,
+Kuwait,1994,
+Kuwait,1995,
+Kuwait,1996,
+Kuwait,1997,
+Kuwait,1998,
+Kuwait,1999,
+Kuwait,2000,
+Kuwait,2001,
+Kuwait,2002,
+Kuwait,2003,
+Kuwait,2004,
+Kuwait,2005,
+Kuwait,2006,
+Kuwait,2007,
+Kuwait,2008,
+Kuwait,2009,
+Kuwait,2010,41300
+Kuwait,2011,42300
+Kuwait,2012,43200
+Kuwait,2013,41200
+Kuwait,2014,39900
+Kuwait,2015,38000
+Kuwait,2016,38200
+Kuwait,2017,
+Kyrgyz Republic,1960,
+Kyrgyz Republic,1961,
+Kyrgyz Republic,1962,
+Kyrgyz Republic,1963,
+Kyrgyz Republic,1964,
+Kyrgyz Republic,1965,
+Kyrgyz Republic,1966,
+Kyrgyz Republic,1967,
+Kyrgyz Republic,1968,
+Kyrgyz Republic,1969,
+Kyrgyz Republic,1970,
+Kyrgyz Republic,1971,
+Kyrgyz Republic,1972,
+Kyrgyz Republic,1973,
+Kyrgyz Republic,1974,
+Kyrgyz Republic,1975,
+Kyrgyz Republic,1976,
+Kyrgyz Republic,1977,
+Kyrgyz Republic,1978,
+Kyrgyz Republic,1979,
+Kyrgyz Republic,1980,
+Kyrgyz Republic,1981,
+Kyrgyz Republic,1982,
+Kyrgyz Republic,1983,
+Kyrgyz Republic,1984,
+Kyrgyz Republic,1985,
+Kyrgyz Republic,1986,
+Kyrgyz Republic,1987,
+Kyrgyz Republic,1988,
+Kyrgyz Republic,1989,
+Kyrgyz Republic,1990,1080
+Kyrgyz Republic,1991,981
+Kyrgyz Republic,1992,836
+Kyrgyz Republic,1993,704
+Kyrgyz Republic,1994,557
+Kyrgyz Republic,1995,518
+Kyrgyz Republic,1996,547
+Kyrgyz Republic,1997,585
+Kyrgyz Republic,1998,584
+Kyrgyz Republic,1999,589
+Kyrgyz Republic,2000,612
+Kyrgyz Republic,2001,651
+Kyrgyz Republic,2002,647
+Kyrgyz Republic,2003,687
+Kyrgyz Republic,2004,717
+Kyrgyz Republic,2005,715
+Kyrgyz Republic,2006,742
+Kyrgyz Republic,2007,800
+Kyrgyz Republic,2008,839
+Kyrgyz Republic,2009,855
+Kyrgyz Republic,2010,824
+Kyrgyz Republic,2011,827
+Kyrgyz Republic,2012,876
+Kyrgyz Republic,2013,927
+Kyrgyz Republic,2014,959
+Kyrgyz Republic,2015,977
+Kyrgyz Republic,2016,986
+Kyrgyz Republic,2017,1030
+Lao,1960,
+Lao,1961,
+Lao,1962,
+Lao,1963,
+Lao,1964,
+Lao,1965,
+Lao,1966,
+Lao,1967,
+Lao,1968,
+Lao,1969,
+Lao,1970,
+Lao,1971,
+Lao,1972,
+Lao,1973,
+Lao,1974,
+Lao,1975,
+Lao,1976,
+Lao,1977,
+Lao,1978,
+Lao,1979,
+Lao,1980,
+Lao,1981,
+Lao,1982,
+Lao,1983,
+Lao,1984,
+Lao,1985,
+Lao,1986,
+Lao,1987,
+Lao,1988,
+Lao,1989,
+Lao,1990,
+Lao,1991,
+Lao,1992,
+Lao,1993,
+Lao,1994,
+Lao,1995,
+Lao,1996,
+Lao,1997,
+Lao,1998,
+Lao,1999,
+Lao,2000,650
+Lao,2001,676
+Lao,2002,706
+Lao,2003,725
+Lao,2004,769
+Lao,2005,823
+Lao,2006,849
+Lao,2007,919
+Lao,2008,962
+Lao,2009,1040
+Lao,2010,1070
+Lao,2011,1130
+Lao,2012,1220
+Lao,2013,1310
+Lao,2014,1400
+Lao,2015,1490
+Lao,2016,1570
+Lao,2017,1630
+Latvia,1960,
+Latvia,1961,
+Latvia,1962,
+Latvia,1963,
+Latvia,1964,
+Latvia,1965,
+Latvia,1966,
+Latvia,1967,
+Latvia,1968,
+Latvia,1969,
+Latvia,1970,
+Latvia,1971,
+Latvia,1972,
+Latvia,1973,
+Latvia,1974,
+Latvia,1975,
+Latvia,1976,
+Latvia,1977,
+Latvia,1978,
+Latvia,1979,
+Latvia,1980,
+Latvia,1981,
+Latvia,1982,
+Latvia,1983,
+Latvia,1984,
+Latvia,1985,
+Latvia,1986,
+Latvia,1987,
+Latvia,1988,
+Latvia,1989,
+Latvia,1990,
+Latvia,1991,
+Latvia,1992,
+Latvia,1993,
+Latvia,1994,
+Latvia,1995,5180
+Latvia,1996,5360
+Latvia,1997,5900
+Latvia,1998,6340
+Latvia,1999,6450
+Latvia,2000,6930
+Latvia,2001,7500
+Latvia,2002,8120
+Latvia,2003,8830
+Latvia,2004,9520
+Latvia,2005,10800
+Latvia,2006,12000
+Latvia,2007,13200
+Latvia,2008,13100
+Latvia,2009,12400
+Latvia,2010,11500
+Latvia,2011,12300
+Latvia,2012,12800
+Latvia,2013,13400
+Latvia,2014,13700
+Latvia,2015,14200
+Latvia,2016,14700
+Latvia,2017,
+Lebanon,1960,
+Lebanon,1961,
+Lebanon,1962,
+Lebanon,1963,
+Lebanon,1964,
+Lebanon,1965,
+Lebanon,1966,
+Lebanon,1967,
+Lebanon,1968,
+Lebanon,1969,
+Lebanon,1970,
+Lebanon,1971,
+Lebanon,1972,
+Lebanon,1973,
+Lebanon,1974,
+Lebanon,1975,
+Lebanon,1976,
+Lebanon,1977,
+Lebanon,1978,
+Lebanon,1979,
+Lebanon,1980,
+Lebanon,1981,
+Lebanon,1982,
+Lebanon,1983,
+Lebanon,1984,
+Lebanon,1985,
+Lebanon,1986,
+Lebanon,1987,
+Lebanon,1988,
+Lebanon,1989,
+Lebanon,1990,
+Lebanon,1991,
+Lebanon,1992,
+Lebanon,1993,
+Lebanon,1994,6620
+Lebanon,1995,6970
+Lebanon,1996,7160
+Lebanon,1997,6890
+Lebanon,1998,7010
+Lebanon,1999,6910
+Lebanon,2000,6880
+Lebanon,2001,6720
+Lebanon,2002,6320
+Lebanon,2003,5360
+Lebanon,2004,6360
+Lebanon,2005,6540
+Lebanon,2006,6640
+Lebanon,2007,7370
+Lebanon,2008,7970
+Lebanon,2009,8450
+Lebanon,2010,8740
+Lebanon,2011,8400
+Lebanon,2012,8070
+Lebanon,2013,7720
+Lebanon,2014,7360
+Lebanon,2015,7090
+Lebanon,2016,7010
+Lebanon,2017,7200
+Lesotho,1960,
+Lesotho,1961,
+Lesotho,1962,
+Lesotho,1963,
+Lesotho,1964,
+Lesotho,1965,
+Lesotho,1966,
+Lesotho,1967,
+Lesotho,1968,
+Lesotho,1969,
+Lesotho,1970,
+Lesotho,1971,
+Lesotho,1972,
+Lesotho,1973,
+Lesotho,1974,
+Lesotho,1975,
+Lesotho,1976,
+Lesotho,1977,
+Lesotho,1978,
+Lesotho,1979,
+Lesotho,1980,
+Lesotho,1981,
+Lesotho,1982,
+Lesotho,1983,
+Lesotho,1984,
+Lesotho,1985,
+Lesotho,1986,
+Lesotho,1987,
+Lesotho,1988,
+Lesotho,1989,
+Lesotho,1990,
+Lesotho,1991,
+Lesotho,1992,
+Lesotho,1993,
+Lesotho,1994,
+Lesotho,1995,
+Lesotho,1996,
+Lesotho,1997,
+Lesotho,1998,
+Lesotho,1999,
+Lesotho,2000,
+Lesotho,2001,
+Lesotho,2002,
+Lesotho,2003,
+Lesotho,2004,
+Lesotho,2005,
+Lesotho,2006,
+Lesotho,2007,1430
+Lesotho,2008,1490
+Lesotho,2009,1440
+Lesotho,2010,1480
+Lesotho,2011,1470
+Lesotho,2012,1500
+Lesotho,2013,1490
+Lesotho,2014,1480
+Lesotho,2015,1510
+Lesotho,2016,1550
+Lesotho,2017,
+Liberia,1960,
+Liberia,1961,
+Liberia,1962,
+Liberia,1963,
+Liberia,1964,
+Liberia,1965,
+Liberia,1966,
+Liberia,1967,
+Liberia,1968,
+Liberia,1969,
+Liberia,1970,
+Liberia,1971,
+Liberia,1972,
+Liberia,1973,
+Liberia,1974,
+Liberia,1975,
+Liberia,1976,
+Liberia,1977,
+Liberia,1978,
+Liberia,1979,
+Liberia,1980,
+Liberia,1981,
+Liberia,1982,
+Liberia,1983,
+Liberia,1984,
+Liberia,1985,
+Liberia,1986,
+Liberia,1987,
+Liberia,1988,
+Liberia,1989,
+Liberia,1990,
+Liberia,1991,
+Liberia,1992,
+Liberia,1993,
+Liberia,1994,
+Liberia,1995,
+Liberia,1996,
+Liberia,1997,
+Liberia,1998,
+Liberia,1999,
+Liberia,2000,299
+Liberia,2001,259
+Liberia,2002,245
+Liberia,2003,151
+Liberia,2004,229
+Liberia,2005,235
+Liberia,2006,241
+Liberia,2007,265
+Liberia,2008,270
+Liberia,2009,279
+Liberia,2010,282
+Liberia,2011,307
+Liberia,2012,305
+Liberia,2013,324
+Liberia,2014,319
+Liberia,2015,316
+Liberia,2016,304
+Liberia,2017,
+Libya,1960,
+Libya,1961,
+Libya,1962,
+Libya,1963,
+Libya,1964,
+Libya,1965,
+Libya,1966,
+Libya,1967,
+Libya,1968,
+Libya,1969,
+Libya,1970,
+Libya,1971,
+Libya,1972,
+Libya,1973,
+Libya,1974,
+Libya,1975,
+Libya,1976,
+Libya,1977,
+Libya,1978,
+Libya,1979,
+Libya,1980,
+Libya,1981,
+Libya,1982,
+Libya,1983,
+Libya,1984,
+Libya,1985,
+Libya,1986,
+Libya,1987,
+Libya,1988,
+Libya,1989,
+Libya,1990,
+Libya,1991,
+Libya,1992,
+Libya,1993,
+Libya,1994,
+Libya,1995,
+Libya,1996,
+Libya,1997,
+Libya,1998,
+Libya,1999,
+Libya,2000,
+Libya,2001,
+Libya,2002,
+Libya,2003,
+Libya,2004,
+Libya,2005,
+Libya,2006,
+Libya,2007,
+Libya,2008,
+Libya,2009,
+Libya,2010,12100
+Libya,2011,
+Libya,2012,
+Libya,2013,
+Libya,2014,
+Libya,2015,
+Libya,2016,
+Libya,2017,
+Liechtenstein,1960,
+Liechtenstein,1961,
+Liechtenstein,1962,
+Liechtenstein,1963,
+Liechtenstein,1964,
+Liechtenstein,1965,
+Liechtenstein,1966,
+Liechtenstein,1967,
+Liechtenstein,1968,
+Liechtenstein,1969,
+Liechtenstein,1970,
+Liechtenstein,1971,
+Liechtenstein,1972,
+Liechtenstein,1973,
+Liechtenstein,1974,
+Liechtenstein,1975,
+Liechtenstein,1976,
+Liechtenstein,1977,
+Liechtenstein,1978,
+Liechtenstein,1979,
+Liechtenstein,1980,
+Liechtenstein,1981,
+Liechtenstein,1982,
+Liechtenstein,1983,
+Liechtenstein,1984,
+Liechtenstein,1985,
+Liechtenstein,1986,
+Liechtenstein,1987,
+Liechtenstein,1988,
+Liechtenstein,1989,
+Liechtenstein,1990,
+Liechtenstein,1991,
+Liechtenstein,1992,
+Liechtenstein,1993,
+Liechtenstein,1994,
+Liechtenstein,1995,
+Liechtenstein,1996,
+Liechtenstein,1997,
+Liechtenstein,1998,
+Liechtenstein,1999,
+Liechtenstein,2000,
+Liechtenstein,2001,
+Liechtenstein,2002,
+Liechtenstein,2003,
+Liechtenstein,2004,
+Liechtenstein,2005,
+Liechtenstein,2006,
+Liechtenstein,2007,
+Liechtenstein,2008,
+Liechtenstein,2009,
+Liechtenstein,2010,119000
+Liechtenstein,2011,
+Liechtenstein,2012,
+Liechtenstein,2013,
+Liechtenstein,2014,
+Liechtenstein,2015,
+Liechtenstein,2016,
+Liechtenstein,2017,
+Lithuania,1960,
+Lithuania,1961,
+Lithuania,1962,
+Lithuania,1963,
+Lithuania,1964,
+Lithuania,1965,
+Lithuania,1966,
+Lithuania,1967,
+Lithuania,1968,
+Lithuania,1969,
+Lithuania,1970,
+Lithuania,1971,
+Lithuania,1972,
+Lithuania,1973,
+Lithuania,1974,
+Lithuania,1975,
+Lithuania,1976,
+Lithuania,1977,
+Lithuania,1978,
+Lithuania,1979,
+Lithuania,1980,
+Lithuania,1981,
+Lithuania,1982,
+Lithuania,1983,
+Lithuania,1984,
+Lithuania,1985,
+Lithuania,1986,
+Lithuania,1987,
+Lithuania,1988,
+Lithuania,1989,
+Lithuania,1990,
+Lithuania,1991,
+Lithuania,1992,
+Lithuania,1993,
+Lithuania,1994,
+Lithuania,1995,
+Lithuania,1996,
+Lithuania,1997,
+Lithuania,1998,
+Lithuania,1999,
+Lithuania,2000,
+Lithuania,2001,
+Lithuania,2002,
+Lithuania,2003,
+Lithuania,2004,9440
+Lithuania,2005,10400
+Lithuania,2006,11300
+Lithuania,2007,12400
+Lithuania,2008,12900
+Lithuania,2009,11800
+Lithuania,2010,11800
+Lithuania,2011,12500
+Lithuania,2012,13300
+Lithuania,2013,13900
+Lithuania,2014,14700
+Lithuania,2015,14700
+Lithuania,2016,15300
+Lithuania,2017,
+Luxembourg,1960,
+Luxembourg,1961,
+Luxembourg,1962,
+Luxembourg,1963,
+Luxembourg,1964,
+Luxembourg,1965,
+Luxembourg,1966,
+Luxembourg,1967,
+Luxembourg,1968,
+Luxembourg,1969,
+Luxembourg,1970,36200
+Luxembourg,1971,36800
+Luxembourg,1972,39100
+Luxembourg,1973,41300
+Luxembourg,1974,42400
+Luxembourg,1975,41400
+Luxembourg,1976,43400
+Luxembourg,1977,44300
+Luxembourg,1978,45700
+Luxembourg,1979,45600
+Luxembourg,1980,44700
+Luxembourg,1981,43200
+Luxembourg,1982,48300
+Luxembourg,1983,52700
+Luxembourg,1984,54900
+Luxembourg,1985,57200
+Luxembourg,1986,60600
+Luxembourg,1987,62900
+Luxembourg,1988,67100
+Luxembourg,1989,74300
+Luxembourg,1990,79000
+Luxembourg,1991,84600
+Luxembourg,1992,85400
+Luxembourg,1993,85400
+Luxembourg,1994,84500
+Luxembourg,1995,87400
+Luxembourg,1996,87200
+Luxembourg,1997,93400
+Luxembourg,1998,95500
+Luxembourg,1999,99700
+Luxembourg,2000,107000
+Luxembourg,2001,111000
+Luxembourg,2002,104000
+Luxembourg,2003,97500
+Luxembourg,2004,108000
+Luxembourg,2005,115000
+Luxembourg,2006,112000
+Luxembourg,2007,133000
+Luxembourg,2008,124000
+Luxembourg,2009,92900
+Luxembourg,2010,75900
+Luxembourg,2011,72400
+Luxembourg,2012,70800
+Luxembourg,2013,68600
+Luxembourg,2014,68300
+Luxembourg,2015,70300
+Luxembourg,2016,73500
+Luxembourg,2017,
+"Macedonia, FYR",1960,
+"Macedonia, FYR",1961,
+"Macedonia, FYR",1962,
+"Macedonia, FYR",1963,
+"Macedonia, FYR",1964,
+"Macedonia, FYR",1965,
+"Macedonia, FYR",1966,
+"Macedonia, FYR",1967,
+"Macedonia, FYR",1968,
+"Macedonia, FYR",1969,
+"Macedonia, FYR",1970,
+"Macedonia, FYR",1971,
+"Macedonia, FYR",1972,
+"Macedonia, FYR",1973,
+"Macedonia, FYR",1974,
+"Macedonia, FYR",1975,
+"Macedonia, FYR",1976,
+"Macedonia, FYR",1977,
+"Macedonia, FYR",1978,
+"Macedonia, FYR",1979,
+"Macedonia, FYR",1980,
+"Macedonia, FYR",1981,
+"Macedonia, FYR",1982,
+"Macedonia, FYR",1983,
+"Macedonia, FYR",1984,
+"Macedonia, FYR",1985,
+"Macedonia, FYR",1986,
+"Macedonia, FYR",1987,
+"Macedonia, FYR",1988,
+"Macedonia, FYR",1989,
+"Macedonia, FYR",1990,3810
+"Macedonia, FYR",1991,3600
+"Macedonia, FYR",1992,3310
+"Macedonia, FYR",1993,3080
+"Macedonia, FYR",1994,3050
+"Macedonia, FYR",1995,3030
+"Macedonia, FYR",1996,3050
+"Macedonia, FYR",1997,3070
+"Macedonia, FYR",1998,3150
+"Macedonia, FYR",1999,3250
+"Macedonia, FYR",2000,3390
+"Macedonia, FYR",2001,3300
+"Macedonia, FYR",2002,3330
+"Macedonia, FYR",2003,3400
+"Macedonia, FYR",2004,3570
+"Macedonia, FYR",2005,3690
+"Macedonia, FYR",2006,3930
+"Macedonia, FYR",2007,4000
+"Macedonia, FYR",2008,4370
+"Macedonia, FYR",2009,4370
+"Macedonia, FYR",2010,4480
+"Macedonia, FYR",2011,4560
+"Macedonia, FYR",2012,4520
+"Macedonia, FYR",2013,4640
+"Macedonia, FYR",2014,4830
+"Macedonia, FYR",2015,4940
+"Macedonia, FYR",2016,5030
+"Macedonia, FYR",2017,5010
+Madagascar,1960,690
+Madagascar,1961,688
+Madagascar,1962,686
+Madagascar,1963,663
+Madagascar,1964,672
+Madagascar,1965,653
+Madagascar,1966,673
+Madagascar,1967,693
+Madagascar,1968,721
+Madagascar,1969,724
+Madagascar,1970,744
+Madagascar,1971,750
+Madagascar,1972,723
+Madagascar,1973,684
+Madagascar,1974,675
+Madagascar,1975,666
+Madagascar,1976,628
+Madagascar,1977,628
+Madagascar,1978,594
+Madagascar,1979,632
+Madagascar,1980,619
+Madagascar,1981,537
+Madagascar,1982,510
+Madagascar,1983,497
+Madagascar,1984,481
+Madagascar,1985,476
+Madagascar,1986,470
+Madagascar,1987,456
+Madagascar,1988,454
+Madagascar,1989,458
+Madagascar,1990,474
+Madagascar,1991,422
+Madagascar,1992,422
+Madagascar,1993,420
+Madagascar,1994,403
+Madagascar,1995,397
+Madagascar,1996,397
+Madagascar,1997,405
+Madagascar,1998,410
+Madagascar,1999,419
+Madagascar,2000,422
+Madagascar,2001,436
+Madagascar,2002,368
+Madagascar,2003,393
+Madagascar,2004,400
+Madagascar,2005,408
+Madagascar,2006,416
+Madagascar,2007,433
+Madagascar,2008,451
+Madagascar,2009,419
+Madagascar,2010,408
+Madagascar,2011,401
+Madagascar,2012,395
+Madagascar,2013,393
+Madagascar,2014,397
+Madagascar,2015,394
+Madagascar,2016,399
+Madagascar,2017,
+Malawi,1960,
+Malawi,1961,
+Malawi,1962,
+Malawi,1963,
+Malawi,1964,
+Malawi,1965,
+Malawi,1966,
+Malawi,1967,
+Malawi,1968,
+Malawi,1969,
+Malawi,1970,
+Malawi,1971,
+Malawi,1972,
+Malawi,1973,
+Malawi,1974,
+Malawi,1975,
+Malawi,1976,
+Malawi,1977,
+Malawi,1978,
+Malawi,1979,
+Malawi,1980,
+Malawi,1981,
+Malawi,1982,
+Malawi,1983,
+Malawi,1984,
+Malawi,1985,
+Malawi,1986,
+Malawi,1987,
+Malawi,1988,
+Malawi,1989,
+Malawi,1990,
+Malawi,1991,
+Malawi,1992,
+Malawi,1993,
+Malawi,1994,
+Malawi,1995,
+Malawi,1996,
+Malawi,1997,
+Malawi,1998,
+Malawi,1999,
+Malawi,2000,
+Malawi,2001,
+Malawi,2002,348
+Malawi,2003,358
+Malawi,2004,367
+Malawi,2005,370
+Malawi,2006,376
+Malawi,2007,402
+Malawi,2008,420
+Malawi,2009,438
+Malawi,2010,452
+Malawi,2011,460
+Malawi,2012,451
+Malawi,2013,458
+Malawi,2014,470
+Malawi,2015,468
+Malawi,2016,468
+Malawi,2017,473
+Malaysia,1960,1300
+Malaysia,1961,1380
+Malaysia,1962,1430
+Malaysia,1963,1480
+Malaysia,1964,1510
+Malaysia,1965,1570
+Malaysia,1966,1650
+Malaysia,1967,1700
+Malaysia,1968,1790
+Malaysia,1969,1810
+Malaysia,1970,1890
+Malaysia,1971,2010
+Malaysia,1972,2160
+Malaysia,1973,2330
+Malaysia,1974,2450
+Malaysia,1975,2430
+Malaysia,1976,2630
+Malaysia,1977,2760
+Malaysia,1978,2850
+Malaysia,1979,3030
+Malaysia,1980,3200
+Malaysia,1981,3360
+Malaysia,1982,3440
+Malaysia,1983,3510
+Malaysia,1984,3660
+Malaysia,1985,3520
+Malaysia,1986,3500
+Malaysia,1987,3580
+Malaysia,1988,3840
+Malaysia,1989,4070
+Malaysia,1990,4370
+Malaysia,1991,4630
+Malaysia,1992,4900
+Malaysia,1993,5270
+Malaysia,1994,5610
+Malaysia,1995,6010
+Malaysia,1996,6440
+Malaysia,1997,6700
+Malaysia,1998,6040
+Malaysia,1999,6160
+Malaysia,2000,6480
+Malaysia,2001,6440
+Malaysia,2002,6690
+Malaysia,2003,7000
+Malaysia,2004,7340
+Malaysia,2005,7640
+Malaysia,2006,8040
+Malaysia,2007,8450
+Malaysia,2008,8610
+Malaysia,2009,8420
+Malaysia,2010,8780
+Malaysia,2011,9150
+Malaysia,2012,9350
+Malaysia,2013,9650
+Malaysia,2014,10100
+Malaysia,2015,10400
+Malaysia,2016,10700
+Malaysia,2017,11200
+Maldives,1960,
+Maldives,1961,
+Maldives,1962,
+Maldives,1963,
+Maldives,1964,
+Maldives,1965,
+Maldives,1966,
+Maldives,1967,
+Maldives,1968,
+Maldives,1969,
+Maldives,1970,
+Maldives,1971,
+Maldives,1972,
+Maldives,1973,
+Maldives,1974,
+Maldives,1975,
+Maldives,1976,
+Maldives,1977,
+Maldives,1978,
+Maldives,1979,
+Maldives,1980,
+Maldives,1981,
+Maldives,1982,
+Maldives,1983,
+Maldives,1984,
+Maldives,1985,
+Maldives,1986,
+Maldives,1987,
+Maldives,1988,
+Maldives,1989,
+Maldives,1990,
+Maldives,1991,
+Maldives,1992,
+Maldives,1993,
+Maldives,1994,
+Maldives,1995,
+Maldives,1996,
+Maldives,1997,
+Maldives,1998,
+Maldives,1999,
+Maldives,2000,
+Maldives,2001,
+Maldives,2002,
+Maldives,2003,
+Maldives,2004,
+Maldives,2005,
+Maldives,2006,
+Maldives,2007,
+Maldives,2008,
+Maldives,2009,
+Maldives,2010,6250
+Maldives,2011,
+Maldives,2012,
+Maldives,2013,
+Maldives,2014,
+Maldives,2015,
+Maldives,2016,
+Maldives,2017,
+Mali,1960,
+Mali,1961,
+Mali,1962,
+Mali,1963,
+Mali,1964,
+Mali,1965,
+Mali,1966,
+Mali,1967,
+Mali,1968,
+Mali,1969,
+Mali,1970,
+Mali,1971,
+Mali,1972,
+Mali,1973,
+Mali,1974,
+Mali,1975,
+Mali,1976,
+Mali,1977,
+Mali,1978,
+Mali,1979,
+Mali,1980,
+Mali,1981,
+Mali,1982,
+Mali,1983,
+Mali,1984,
+Mali,1985,
+Mali,1986,
+Mali,1987,
+Mali,1988,
+Mali,1989,
+Mali,1990,480
+Mali,1991,527
+Mali,1992,497
+Mali,1993,501
+Mali,1994,500
+Mali,1995,488
+Mali,1996,509
+Mali,1997,519
+Mali,1998,545
+Mali,1999,564
+Mali,2000,550
+Mali,2001,593
+Mali,2002,585
+Mali,2003,637
+Mali,2004,627
+Mali,2005,647
+Mali,2006,651
+Mali,2007,659
+Mali,2008,671
+Mali,2009,678
+Mali,2010,681
+Mali,2011,683
+Mali,2012,654
+Mali,2013,658
+Mali,2014,684
+Mali,2015,705
+Mali,2016,719
+Mali,2017,738
+Malta,1960,
+Malta,1961,
+Malta,1962,
+Malta,1963,
+Malta,1964,
+Malta,1965,
+Malta,1966,
+Malta,1967,
+Malta,1968,
+Malta,1969,
+Malta,1970,
+Malta,1971,
+Malta,1972,
+Malta,1973,
+Malta,1974,
+Malta,1975,
+Malta,1976,
+Malta,1977,
+Malta,1978,
+Malta,1979,
+Malta,1980,
+Malta,1981,
+Malta,1982,
+Malta,1983,
+Malta,1984,
+Malta,1985,
+Malta,1986,
+Malta,1987,
+Malta,1988,
+Malta,1989,
+Malta,1990,
+Malta,1991,
+Malta,1992,
+Malta,1993,
+Malta,1994,
+Malta,1995,
+Malta,1996,
+Malta,1997,
+Malta,1998,
+Malta,1999,
+Malta,2000,17900
+Malta,2001,18400
+Malta,2002,18800
+Malta,2003,18900
+Malta,2004,18900
+Malta,2005,19000
+Malta,2006,19200
+Malta,2007,19900
+Malta,2008,20600
+Malta,2009,19100
+Malta,2010,20000
+Malta,2011,20600
+Malta,2012,20800
+Malta,2013,21400
+Malta,2014,22600
+Malta,2015,24400
+Malta,2016,24600
+Malta,2017,
+Marshall Islands,1960,
+Marshall Islands,1961,
+Marshall Islands,1962,
+Marshall Islands,1963,
+Marshall Islands,1964,
+Marshall Islands,1965,
+Marshall Islands,1966,
+Marshall Islands,1967,
+Marshall Islands,1968,
+Marshall Islands,1969,
+Marshall Islands,1970,
+Marshall Islands,1971,
+Marshall Islands,1972,
+Marshall Islands,1973,
+Marshall Islands,1974,
+Marshall Islands,1975,
+Marshall Islands,1976,
+Marshall Islands,1977,
+Marshall Islands,1978,
+Marshall Islands,1979,
+Marshall Islands,1980,
+Marshall Islands,1981,
+Marshall Islands,1982,
+Marshall Islands,1983,
+Marshall Islands,1984,
+Marshall Islands,1985,
+Marshall Islands,1986,
+Marshall Islands,1987,
+Marshall Islands,1988,
+Marshall Islands,1989,
+Marshall Islands,1990,
+Marshall Islands,1991,
+Marshall Islands,1992,
+Marshall Islands,1993,
+Marshall Islands,1994,
+Marshall Islands,1995,
+Marshall Islands,1996,
+Marshall Islands,1997,
+Marshall Islands,1998,
+Marshall Islands,1999,
+Marshall Islands,2000,
+Marshall Islands,2001,
+Marshall Islands,2002,
+Marshall Islands,2003,
+Marshall Islands,2004,3680
+Marshall Islands,2005,3820
+Marshall Islands,2006,3820
+Marshall Islands,2007,3940
+Marshall Islands,2008,3810
+Marshall Islands,2009,3730
+Marshall Islands,2010,3800
+Marshall Islands,2011,3850
+Marshall Islands,2012,3830
+Marshall Islands,2013,4020
+Marshall Islands,2014,4190
+Marshall Islands,2015,4490
+Marshall Islands,2016,
+Marshall Islands,2017,
+Mauritania,1960,
+Mauritania,1961,
+Mauritania,1962,
+Mauritania,1963,
+Mauritania,1964,
+Mauritania,1965,
+Mauritania,1966,
+Mauritania,1967,
+Mauritania,1968,1160
+Mauritania,1969,1100
+Mauritania,1970,1230
+Mauritania,1971,1210
+Mauritania,1972,1170
+Mauritania,1973,1120
+Mauritania,1974,1240
+Mauritania,1975,1080
+Mauritania,1976,1060
+Mauritania,1977,1060
+Mauritania,1978,1070
+Mauritania,1979,1090
+Mauritania,1980,1110
+Mauritania,1981,1080
+Mauritania,1982,1030
+Mauritania,1983,1020
+Mauritania,1984,988
+Mauritania,1985,968
+Mauritania,1986,981
+Mauritania,1987,974
+Mauritania,1988,978
+Mauritania,1989,1010
+Mauritania,1990,965
+Mauritania,1991,973
+Mauritania,1992,968
+Mauritania,1993,990
+Mauritania,1994,932
+Mauritania,1995,995
+Mauritania,1996,1090
+Mauritania,1997,1010
+Mauritania,1998,1010
+Mauritania,1999,1060
+Mauritania,2000,1010
+Mauritania,2001,969
+Mauritania,2002,1010
+Mauritania,2003,1040
+Mauritania,2004,1060
+Mauritania,2005,1120
+Mauritania,2006,1220
+Mauritania,2007,1230
+Mauritania,2008,1230
+Mauritania,2009,1210
+Mauritania,2010,1180
+Mauritania,2011,1180
+Mauritania,2012,1200
+Mauritania,2013,1250
+Mauritania,2014,1290
+Mauritania,2015,1260
+Mauritania,2016,1270
+Mauritania,2017,1290
+Mauritius,1960,
+Mauritius,1961,
+Mauritius,1962,
+Mauritius,1963,
+Mauritius,1964,
+Mauritius,1965,
+Mauritius,1966,
+Mauritius,1967,
+Mauritius,1968,
+Mauritius,1969,
+Mauritius,1970,
+Mauritius,1971,
+Mauritius,1972,
+Mauritius,1973,
+Mauritius,1974,
+Mauritius,1975,
+Mauritius,1976,2370
+Mauritius,1977,2450
+Mauritius,1978,2500
+Mauritius,1979,2530
+Mauritius,1980,2230
+Mauritius,1981,2280
+Mauritius,1982,2380
+Mauritius,1983,2370
+Mauritius,1984,2440
+Mauritius,1985,2590
+Mauritius,1986,2830
+Mauritius,1987,3100
+Mauritius,1988,3300
+Mauritius,1989,3460
+Mauritius,1990,3680
+Mauritius,1991,3840
+Mauritius,1992,4050
+Mauritius,1993,4190
+Mauritius,1994,4270
+Mauritius,1995,4430
+Mauritius,1996,4600
+Mauritius,1997,4830
+Mauritius,1998,5060
+Mauritius,1999,5130
+Mauritius,2000,5530
+Mauritius,2001,5680
+Mauritius,2002,5760
+Mauritius,2003,5880
+Mauritius,2004,6200
+Mauritius,2005,6250
+Mauritius,2006,6790
+Mauritius,2007,7290
+Mauritius,2008,7570
+Mauritius,2009,7660
+Mauritius,2010,8100
+Mauritius,2011,8350
+Mauritius,2012,8620
+Mauritius,2013,8880
+Mauritius,2014,8960
+Mauritius,2015,9410
+Mauritius,2016,9780
+Mauritius,2017,
+Mexico,1960,3730
+Mexico,1961,3790
+Mexico,1962,3860
+Mexico,1963,4040
+Mexico,1964,4360
+Mexico,1965,4510
+Mexico,1966,4620
+Mexico,1967,4830
+Mexico,1968,5130
+Mexico,1969,5140
+Mexico,1970,5290
+Mexico,1971,5320
+Mexico,1972,5570
+Mexico,1973,5830
+Mexico,1974,5970
+Mexico,1975,6100
+Mexico,1976,6170
+Mexico,1977,6200
+Mexico,1978,6570
+Mexico,1979,7020
+Mexico,1980,7460
+Mexico,1981,7870
+Mexico,1982,7420
+Mexico,1983,7040
+Mexico,1984,7170
+Mexico,1985,7270
+Mexico,1986,6810
+Mexico,1987,6860
+Mexico,1988,6870
+Mexico,1989,7040
+Mexico,1990,7280
+Mexico,1991,7470
+Mexico,1992,7600
+Mexico,1993,7810
+Mexico,1994,7970
+Mexico,1995,6910
+Mexico,1996,7380
+Mexico,1997,7770
+Mexico,1998,7990
+Mexico,1999,8210
+Mexico,2000,8500
+Mexico,2001,8310
+Mexico,2002,8240
+Mexico,2003,8410
+Mexico,2004,8710
+Mexico,2005,8770
+Mexico,2006,9020
+Mexico,2007,9340
+Mexico,2008,9330
+Mexico,2009,8730
+Mexico,2010,9050
+Mexico,2011,9150
+Mexico,2012,9270
+Mexico,2013,9170
+Mexico,2014,9350
+Mexico,2015,9500
+Mexico,2016,9530
+Mexico,2017,9720
+"Micronesia, Fed. Sts.",1960,
+"Micronesia, Fed. Sts.",1961,
+"Micronesia, Fed. Sts.",1962,
+"Micronesia, Fed. Sts.",1963,
+"Micronesia, Fed. Sts.",1964,
+"Micronesia, Fed. Sts.",1965,
+"Micronesia, Fed. Sts.",1966,
+"Micronesia, Fed. Sts.",1967,
+"Micronesia, Fed. Sts.",1968,
+"Micronesia, Fed. Sts.",1969,
+"Micronesia, Fed. Sts.",1970,
+"Micronesia, Fed. Sts.",1971,
+"Micronesia, Fed. Sts.",1972,
+"Micronesia, Fed. Sts.",1973,
+"Micronesia, Fed. Sts.",1974,
+"Micronesia, Fed. Sts.",1975,
+"Micronesia, Fed. Sts.",1976,
+"Micronesia, Fed. Sts.",1977,
+"Micronesia, Fed. Sts.",1978,
+"Micronesia, Fed. Sts.",1979,
+"Micronesia, Fed. Sts.",1980,
+"Micronesia, Fed. Sts.",1981,
+"Micronesia, Fed. Sts.",1982,
+"Micronesia, Fed. Sts.",1983,
+"Micronesia, Fed. Sts.",1984,
+"Micronesia, Fed. Sts.",1985,
+"Micronesia, Fed. Sts.",1986,
+"Micronesia, Fed. Sts.",1987,
+"Micronesia, Fed. Sts.",1988,
+"Micronesia, Fed. Sts.",1989,
+"Micronesia, Fed. Sts.",1990,
+"Micronesia, Fed. Sts.",1991,
+"Micronesia, Fed. Sts.",1992,
+"Micronesia, Fed. Sts.",1993,
+"Micronesia, Fed. Sts.",1994,
+"Micronesia, Fed. Sts.",1995,
+"Micronesia, Fed. Sts.",1996,
+"Micronesia, Fed. Sts.",1997,
+"Micronesia, Fed. Sts.",1998,
+"Micronesia, Fed. Sts.",1999,
+"Micronesia, Fed. Sts.",2000,
+"Micronesia, Fed. Sts.",2001,
+"Micronesia, Fed. Sts.",2002,
+"Micronesia, Fed. Sts.",2003,
+"Micronesia, Fed. Sts.",2004,
+"Micronesia, Fed. Sts.",2005,
+"Micronesia, Fed. Sts.",2006,
+"Micronesia, Fed. Sts.",2007,
+"Micronesia, Fed. Sts.",2008,
+"Micronesia, Fed. Sts.",2009,
+"Micronesia, Fed. Sts.",2010,2960
+"Micronesia, Fed. Sts.",2011,
+"Micronesia, Fed. Sts.",2012,
+"Micronesia, Fed. Sts.",2013,
+"Micronesia, Fed. Sts.",2014,
+"Micronesia, Fed. Sts.",2015,
+"Micronesia, Fed. Sts.",2016,
+"Micronesia, Fed. Sts.",2017,
+Moldova,1960,
+Moldova,1961,
+Moldova,1962,
+Moldova,1963,
+Moldova,1964,
+Moldova,1965,
+Moldova,1966,
+Moldova,1967,
+Moldova,1968,
+Moldova,1969,
+Moldova,1970,
+Moldova,1971,
+Moldova,1972,
+Moldova,1973,
+Moldova,1974,
+Moldova,1975,
+Moldova,1976,
+Moldova,1977,
+Moldova,1978,
+Moldova,1979,
+Moldova,1980,
+Moldova,1981,
+Moldova,1982,
+Moldova,1983,
+Moldova,1984,
+Moldova,1985,
+Moldova,1986,
+Moldova,1987,
+Moldova,1988,
+Moldova,1989,
+Moldova,1990,
+Moldova,1991,
+Moldova,1992,
+Moldova,1993,
+Moldova,1994,
+Moldova,1995,1070
+Moldova,1996,1060
+Moldova,1997,1070
+Moldova,1998,1000
+Moldova,1999,967
+Moldova,2000,986
+Moldova,2001,1100
+Moldova,2002,1190
+Moldova,2003,1330
+Moldova,2004,1450
+Moldova,2005,1550
+Moldova,2006,1620
+Moldova,2007,1640
+Moldova,2008,1770
+Moldova,2009,1610
+Moldova,2010,1770
+Moldova,2011,1890
+Moldova,2012,1930
+Moldova,2013,2100
+Moldova,2014,2190
+Moldova,2015,2120
+Moldova,2016,2220
+Moldova,2017,
+Mongolia,1960,
+Mongolia,1961,
+Mongolia,1962,
+Mongolia,1963,
+Mongolia,1964,
+Mongolia,1965,
+Mongolia,1966,
+Mongolia,1967,
+Mongolia,1968,
+Mongolia,1969,
+Mongolia,1970,
+Mongolia,1971,
+Mongolia,1972,
+Mongolia,1973,
+Mongolia,1974,
+Mongolia,1975,
+Mongolia,1976,
+Mongolia,1977,
+Mongolia,1978,
+Mongolia,1979,
+Mongolia,1980,
+Mongolia,1981,
+Mongolia,1982,
+Mongolia,1983,
+Mongolia,1984,
+Mongolia,1985,
+Mongolia,1986,
+Mongolia,1987,
+Mongolia,1988,
+Mongolia,1989,
+Mongolia,1990,
+Mongolia,1991,
+Mongolia,1992,
+Mongolia,1993,
+Mongolia,1994,
+Mongolia,1995,
+Mongolia,1996,
+Mongolia,1997,
+Mongolia,1998,
+Mongolia,1999,
+Mongolia,2000,
+Mongolia,2001,
+Mongolia,2002,
+Mongolia,2003,
+Mongolia,2004,
+Mongolia,2005,
+Mongolia,2006,
+Mongolia,2007,
+Mongolia,2008,
+Mongolia,2009,
+Mongolia,2010,2440
+Mongolia,2011,2790
+Mongolia,2012,3090
+Mongolia,2013,3470
+Mongolia,2014,3580
+Mongolia,2015,3600
+Mongolia,2016,3640
+Mongolia,2017,3460
+Montenegro,1960,
+Montenegro,1961,
+Montenegro,1962,
+Montenegro,1963,
+Montenegro,1964,
+Montenegro,1965,
+Montenegro,1966,
+Montenegro,1967,
+Montenegro,1968,
+Montenegro,1969,
+Montenegro,1970,
+Montenegro,1971,
+Montenegro,1972,
+Montenegro,1973,
+Montenegro,1974,
+Montenegro,1975,
+Montenegro,1976,
+Montenegro,1977,
+Montenegro,1978,
+Montenegro,1979,
+Montenegro,1980,
+Montenegro,1981,
+Montenegro,1982,
+Montenegro,1983,
+Montenegro,1984,
+Montenegro,1985,
+Montenegro,1986,
+Montenegro,1987,
+Montenegro,1988,
+Montenegro,1989,
+Montenegro,1990,
+Montenegro,1991,
+Montenegro,1992,
+Montenegro,1993,
+Montenegro,1994,
+Montenegro,1995,
+Montenegro,1996,
+Montenegro,1997,
+Montenegro,1998,
+Montenegro,1999,
+Montenegro,2000,5200
+Montenegro,2001,5270
+Montenegro,2002,5370
+Montenegro,2003,5480
+Montenegro,2004,5680
+Montenegro,2005,5670
+Montenegro,2006,6190
+Montenegro,2007,6560
+Montenegro,2008,7040
+Montenegro,2009,6530
+Montenegro,2010,6640
+Montenegro,2011,6950
+Montenegro,2012,6820
+Montenegro,2013,7070
+Montenegro,2014,7150
+Montenegro,2015,7480
+Montenegro,2016,7610
+Montenegro,2017,8000
+Morocco,1960,
+Morocco,1961,
+Morocco,1962,
+Morocco,1963,
+Morocco,1964,
+Morocco,1965,
+Morocco,1966,804
+Morocco,1967,866
+Morocco,1968,927
+Morocco,1969,984
+Morocco,1970,1020
+Morocco,1971,1050
+Morocco,1972,1050
+Morocco,1973,1060
+Morocco,1974,1100
+Morocco,1975,1160
+Morocco,1976,1250
+Morocco,1977,1290
+Morocco,1978,1280
+Morocco,1979,1310
+Morocco,1980,1320
+Morocco,1981,1250
+Morocco,1982,1330
+Morocco,1983,1310
+Morocco,1984,1370
+Morocco,1985,1400
+Morocco,1986,1530
+Morocco,1987,1490
+Morocco,1988,1620
+Morocco,1989,1640
+Morocco,1990,1670
+Morocco,1991,1760
+Morocco,1992,1690
+Morocco,1993,1640
+Morocco,1994,1800
+Morocco,1995,1670
+Morocco,1996,1860
+Morocco,1997,1810
+Morocco,1998,1920
+Morocco,1999,1920
+Morocco,2000,1930
+Morocco,2001,2050
+Morocco,2002,2100
+Morocco,2003,2200
+Morocco,2004,2290
+Morocco,2005,2350
+Morocco,2006,2490
+Morocco,2007,2560
+Morocco,2008,2680
+Morocco,2009,2730
+Morocco,2010,2800
+Morocco,2011,2890
+Morocco,2012,2930
+Morocco,2013,3040
+Morocco,2014,3040
+Morocco,2015,3150
+Morocco,2016,3150
+Morocco,2017,3230
+Mozambique,1960,
+Mozambique,1961,
+Mozambique,1962,
+Mozambique,1963,
+Mozambique,1964,
+Mozambique,1965,
+Mozambique,1966,
+Mozambique,1967,
+Mozambique,1968,
+Mozambique,1969,
+Mozambique,1970,
+Mozambique,1971,
+Mozambique,1972,
+Mozambique,1973,
+Mozambique,1974,
+Mozambique,1975,
+Mozambique,1976,
+Mozambique,1977,
+Mozambique,1978,
+Mozambique,1979,
+Mozambique,1980,192
+Mozambique,1981,195
+Mozambique,1982,176
+Mozambique,1983,145
+Mozambique,1984,132
+Mozambique,1985,131
+Mozambique,1986,127
+Mozambique,1987,143
+Mozambique,1988,158
+Mozambique,1989,164
+Mozambique,1990,167
+Mozambique,1991,171
+Mozambique,1992,153
+Mozambique,1993,161
+Mozambique,1994,164
+Mozambique,1995,164
+Mozambique,1996,205
+Mozambique,1997,222
+Mozambique,1998,242
+Mozambique,1999,258
+Mozambique,2000,248
+Mozambique,2001,272
+Mozambique,2002,264
+Mozambique,2003,298
+Mozambique,2004,307
+Mozambique,2005,324
+Mozambique,2006,334
+Mozambique,2007,353
+Mozambique,2008,369
+Mozambique,2009,394
+Mozambique,2010,405
+Mozambique,2011,430
+Mozambique,2012,451
+Mozambique,2013,470
+Mozambique,2014,487
+Mozambique,2015,499
+Mozambique,2016,501
+Mozambique,2017,499
+Myanmar,1960,
+Myanmar,1961,
+Myanmar,1962,
+Myanmar,1963,
+Myanmar,1964,
+Myanmar,1965,
+Myanmar,1966,
+Myanmar,1967,
+Myanmar,1968,
+Myanmar,1969,
+Myanmar,1970,
+Myanmar,1971,
+Myanmar,1972,
+Myanmar,1973,
+Myanmar,1974,
+Myanmar,1975,
+Myanmar,1976,
+Myanmar,1977,
+Myanmar,1978,
+Myanmar,1979,
+Myanmar,1980,
+Myanmar,1981,
+Myanmar,1982,
+Myanmar,1983,
+Myanmar,1984,
+Myanmar,1985,
+Myanmar,1986,
+Myanmar,1987,
+Myanmar,1988,
+Myanmar,1989,
+Myanmar,1990,
+Myanmar,1991,
+Myanmar,1992,
+Myanmar,1993,
+Myanmar,1994,
+Myanmar,1995,
+Myanmar,1996,
+Myanmar,1997,
+Myanmar,1998,
+Myanmar,1999,
+Myanmar,2000,
+Myanmar,2001,
+Myanmar,2002,
+Myanmar,2003,
+Myanmar,2004,
+Myanmar,2005,
+Myanmar,2006,
+Myanmar,2007,
+Myanmar,2008,
+Myanmar,2009,
+Myanmar,2010,987
+Myanmar,2011,
+Myanmar,2012,
+Myanmar,2013,
+Myanmar,2014,
+Myanmar,2015,
+Myanmar,2016,
+Myanmar,2017,
+Namibia,1960,
+Namibia,1961,
+Namibia,1962,
+Namibia,1963,
+Namibia,1964,
+Namibia,1965,
+Namibia,1966,
+Namibia,1967,
+Namibia,1968,
+Namibia,1969,
+Namibia,1970,
+Namibia,1971,
+Namibia,1972,
+Namibia,1973,
+Namibia,1974,
+Namibia,1975,
+Namibia,1976,
+Namibia,1977,
+Namibia,1978,
+Namibia,1979,
+Namibia,1980,3650
+Namibia,1981,4070
+Namibia,1982,3880
+Namibia,1983,3870
+Namibia,1984,3660
+Namibia,1985,3010
+Namibia,1986,3220
+Namibia,1987,3620
+Namibia,1988,3260
+Namibia,1989,3380
+Namibia,1990,3550
+Namibia,1991,3770
+Namibia,1992,3820
+Namibia,1993,3700
+Namibia,1994,3630
+Namibia,1995,3760
+Namibia,1996,3690
+Namibia,1997,3720
+Namibia,1998,3750
+Namibia,1999,3680
+Namibia,2000,3780
+Namibia,2001,3720
+Namibia,2002,3890
+Namibia,2003,4140
+Namibia,2004,4450
+Namibia,2005,4390
+Namibia,2006,4680
+Namibia,2007,4880
+Namibia,2008,4950
+Namibia,2009,4880
+Namibia,2010,4990
+Namibia,2011,5210
+Namibia,2012,5270
+Namibia,2013,5640
+Namibia,2014,5890
+Namibia,2015,6090
+Namibia,2016,5880
+Namibia,2017,5760
+Nauru,1960,
+Nauru,1961,
+Nauru,1962,
+Nauru,1963,
+Nauru,1964,
+Nauru,1965,
+Nauru,1966,
+Nauru,1967,
+Nauru,1968,
+Nauru,1969,
+Nauru,1970,
+Nauru,1971,
+Nauru,1972,
+Nauru,1973,
+Nauru,1974,
+Nauru,1975,
+Nauru,1976,
+Nauru,1977,
+Nauru,1978,
+Nauru,1979,
+Nauru,1980,
+Nauru,1981,
+Nauru,1982,
+Nauru,1983,
+Nauru,1984,
+Nauru,1985,
+Nauru,1986,
+Nauru,1987,
+Nauru,1988,
+Nauru,1989,
+Nauru,1990,
+Nauru,1991,
+Nauru,1992,
+Nauru,1993,
+Nauru,1994,
+Nauru,1995,
+Nauru,1996,
+Nauru,1997,
+Nauru,1998,
+Nauru,1999,
+Nauru,2000,
+Nauru,2001,
+Nauru,2002,
+Nauru,2003,
+Nauru,2004,
+Nauru,2005,
+Nauru,2006,
+Nauru,2007,
+Nauru,2008,
+Nauru,2009,
+Nauru,2010,5720
+Nauru,2011,
+Nauru,2012,
+Nauru,2013,
+Nauru,2014,
+Nauru,2015,
+Nauru,2016,
+Nauru,2017,
+Nepal,1960,
+Nepal,1961,
+Nepal,1962,
+Nepal,1963,
+Nepal,1964,
+Nepal,1965,
+Nepal,1966,
+Nepal,1967,
+Nepal,1968,
+Nepal,1969,
+Nepal,1970,
+Nepal,1971,
+Nepal,1972,
+Nepal,1973,
+Nepal,1974,
+Nepal,1975,
+Nepal,1976,
+Nepal,1977,
+Nepal,1978,
+Nepal,1979,
+Nepal,1980,
+Nepal,1981,
+Nepal,1982,
+Nepal,1983,
+Nepal,1984,
+Nepal,1985,
+Nepal,1986,
+Nepal,1987,
+Nepal,1988,
+Nepal,1989,
+Nepal,1990,
+Nepal,1991,
+Nepal,1992,
+Nepal,1993,
+Nepal,1994,
+Nepal,1995,
+Nepal,1996,
+Nepal,1997,
+Nepal,1998,
+Nepal,1999,
+Nepal,2000,
+Nepal,2001,475
+Nepal,2002,465
+Nepal,2003,476
+Nepal,2004,490
+Nepal,2005,504
+Nepal,2006,517
+Nepal,2007,530
+Nepal,2008,557
+Nepal,2009,577
+Nepal,2010,597
+Nepal,2011,609
+Nepal,2012,632
+Nepal,2013,650
+Nepal,2014,687
+Nepal,2015,702
+Nepal,2016,696
+Nepal,2017,737
+Netherlands,1960,
+Netherlands,1961,
+Netherlands,1962,
+Netherlands,1963,
+Netherlands,1964,
+Netherlands,1965,
+Netherlands,1966,
+Netherlands,1967,
+Netherlands,1968,
+Netherlands,1969,
+Netherlands,1970,24900
+Netherlands,1971,25500
+Netherlands,1972,26200
+Netherlands,1973,27500
+Netherlands,1974,28200
+Netherlands,1975,27500
+Netherlands,1976,28700
+Netherlands,1977,29200
+Netherlands,1978,29600
+Netherlands,1979,30300
+Netherlands,1980,30300
+Netherlands,1981,29700
+Netherlands,1982,29200
+Netherlands,1983,29800
+Netherlands,1984,30700
+Netherlands,1985,31000
+Netherlands,1986,31700
+Netherlands,1987,32400
+Netherlands,1988,33200
+Netherlands,1989,34500
+Netherlands,1990,35400
+Netherlands,1991,36000
+Netherlands,1992,36300
+Netherlands,1993,36700
+Netherlands,1994,37700
+Netherlands,1995,38900
+Netherlands,1996,40200
+Netherlands,1997,41400
+Netherlands,1998,42500
+Netherlands,1999,45100
+Netherlands,2000,46900
+Netherlands,2001,46400
+Netherlands,2002,46300
+Netherlands,2003,46800
+Netherlands,2004,47800
+Netherlands,2005,47800
+Netherlands,2006,50500
+Netherlands,2007,51900
+Netherlands,2008,51100
+Netherlands,2009,49900
+Netherlands,2010,50700
+Netherlands,2011,51900
+Netherlands,2012,51200
+Netherlands,2013,50700
+Netherlands,2014,50400
+Netherlands,2015,51100
+Netherlands,2016,51600
+Netherlands,2017,
+New Zealand,1960,
+New Zealand,1961,
+New Zealand,1962,
+New Zealand,1963,
+New Zealand,1964,
+New Zealand,1965,
+New Zealand,1966,
+New Zealand,1967,
+New Zealand,1968,
+New Zealand,1969,
+New Zealand,1970,
+New Zealand,1971,
+New Zealand,1972,
+New Zealand,1973,
+New Zealand,1974,
+New Zealand,1975,
+New Zealand,1976,
+New Zealand,1977,
+New Zealand,1978,
+New Zealand,1979,
+New Zealand,1980,
+New Zealand,1981,
+New Zealand,1982,
+New Zealand,1983,
+New Zealand,1984,
+New Zealand,1985,
+New Zealand,1986,
+New Zealand,1987,
+New Zealand,1988,
+New Zealand,1989,
+New Zealand,1990,
+New Zealand,1991,
+New Zealand,1992,
+New Zealand,1993,
+New Zealand,1994,
+New Zealand,1995,
+New Zealand,1996,
+New Zealand,1997,
+New Zealand,1998,26000
+New Zealand,1999,26900
+New Zealand,2000,27400
+New Zealand,2001,28400
+New Zealand,2002,29400
+New Zealand,2003,30200
+New Zealand,2004,30400
+New Zealand,2005,30800
+New Zealand,2006,31100
+New Zealand,2007,31800
+New Zealand,2008,31000
+New Zealand,2009,32400
+New Zealand,2010,32000
+New Zealand,2011,32800
+New Zealand,2012,33600
+New Zealand,2013,34000
+New Zealand,2014,34600
+New Zealand,2015,35300
+New Zealand,2016,35300
+New Zealand,2017,
+Nicaragua,1960,
+Nicaragua,1961,
+Nicaragua,1962,
+Nicaragua,1963,
+Nicaragua,1964,
+Nicaragua,1965,
+Nicaragua,1966,
+Nicaragua,1967,
+Nicaragua,1968,
+Nicaragua,1969,
+Nicaragua,1970,
+Nicaragua,1971,
+Nicaragua,1972,
+Nicaragua,1973,
+Nicaragua,1974,
+Nicaragua,1975,
+Nicaragua,1976,
+Nicaragua,1977,
+Nicaragua,1978,
+Nicaragua,1979,
+Nicaragua,1980,
+Nicaragua,1981,
+Nicaragua,1982,
+Nicaragua,1983,
+Nicaragua,1984,
+Nicaragua,1985,
+Nicaragua,1986,
+Nicaragua,1987,
+Nicaragua,1988,
+Nicaragua,1989,
+Nicaragua,1990,
+Nicaragua,1991,
+Nicaragua,1992,
+Nicaragua,1993,
+Nicaragua,1994,929
+Nicaragua,1995,1000
+Nicaragua,1996,1070
+Nicaragua,1997,1110
+Nicaragua,1998,1160
+Nicaragua,1999,1220
+Nicaragua,2000,1250
+Nicaragua,2001,1270
+Nicaragua,2002,1270
+Nicaragua,2003,1280
+Nicaragua,2004,1340
+Nicaragua,2005,1390
+Nicaragua,2006,1420
+Nicaragua,2007,1480
+Nicaragua,2008,1550
+Nicaragua,2009,1480
+Nicaragua,2010,1520
+Nicaragua,2011,1600
+Nicaragua,2012,1690
+Nicaragua,2013,1750
+Nicaragua,2014,1810
+Nicaragua,2015,1900
+Nicaragua,2016,1950
+Nicaragua,2017,1950
+Niger,1960,
+Niger,1961,
+Niger,1962,
+Niger,1963,
+Niger,1964,
+Niger,1965,
+Niger,1966,
+Niger,1967,
+Niger,1968,
+Niger,1969,
+Niger,1970,
+Niger,1971,
+Niger,1972,
+Niger,1973,
+Niger,1974,
+Niger,1975,
+Niger,1976,
+Niger,1977,
+Niger,1978,
+Niger,1979,
+Niger,1980,
+Niger,1981,
+Niger,1982,
+Niger,1983,
+Niger,1984,
+Niger,1985,
+Niger,1986,
+Niger,1987,
+Niger,1988,
+Niger,1989,
+Niger,1990,
+Niger,1991,
+Niger,1992,
+Niger,1993,
+Niger,1994,
+Niger,1995,
+Niger,1996,
+Niger,1997,
+Niger,1998,
+Niger,1999,
+Niger,2000,
+Niger,2001,
+Niger,2002,
+Niger,2003,
+Niger,2004,
+Niger,2005,
+Niger,2006,333
+Niger,2007,331
+Niger,2008,348
+Niger,2009,332
+Niger,2010,345
+Niger,2011,340
+Niger,2012,362
+Niger,2013,365
+Niger,2014,380
+Niger,2015,380
+Niger,2016,384
+Niger,2017,387
+Nigeria,1960,
+Nigeria,1961,
+Nigeria,1962,
+Nigeria,1963,
+Nigeria,1964,
+Nigeria,1965,
+Nigeria,1966,
+Nigeria,1967,
+Nigeria,1968,
+Nigeria,1969,
+Nigeria,1970,
+Nigeria,1971,
+Nigeria,1972,
+Nigeria,1973,
+Nigeria,1974,
+Nigeria,1975,
+Nigeria,1976,
+Nigeria,1977,
+Nigeria,1978,
+Nigeria,1979,
+Nigeria,1980,
+Nigeria,1981,1600
+Nigeria,1982,1560
+Nigeria,1983,1450
+Nigeria,1984,1380
+Nigeria,1985,1440
+Nigeria,1986,1250
+Nigeria,1987,1060
+Nigeria,1988,1190
+Nigeria,1989,1160
+Nigeria,1990,1270
+Nigeria,1991,1230
+Nigeria,1992,1190
+Nigeria,1993,1140
+Nigeria,1994,1150
+Nigeria,1995,1160
+Nigeria,1996,1200
+Nigeria,1997,1210
+Nigeria,1998,1200
+Nigeria,1999,1210
+Nigeria,2000,1110
+Nigeria,2001,1200
+Nigeria,2002,1200
+Nigeria,2003,1270
+Nigeria,2004,1670
+Nigeria,2005,1660
+Nigeria,2006,1920
+Nigeria,2007,1910
+Nigeria,2008,1970
+Nigeria,2009,2030
+Nigeria,2010,2200
+Nigeria,2011,2250
+Nigeria,2012,2300
+Nigeria,2013,2360
+Nigeria,2014,2480
+Nigeria,2015,2510
+Nigeria,2016,2410
+Nigeria,2017,
+Norway,1960,
+Norway,1961,
+Norway,1962,
+Norway,1963,
+Norway,1964,
+Norway,1965,
+Norway,1966,
+Norway,1967,
+Norway,1968,
+Norway,1969,
+Norway,1970,
+Norway,1971,
+Norway,1972,
+Norway,1973,
+Norway,1974,
+Norway,1975,
+Norway,1976,
+Norway,1977,
+Norway,1978,43500
+Norway,1979,45100
+Norway,1980,47100
+Norway,1981,47700
+Norway,1982,47600
+Norway,1983,49500
+Norway,1984,52400
+Norway,1985,55700
+Norway,1986,57800
+Norway,1987,58700
+Norway,1988,57700
+Norway,1989,57900
+Norway,1990,58800
+Norway,1991,60100
+Norway,1992,62500
+Norway,1993,63800
+Norway,1994,67000
+Norway,1995,69700
+Norway,1996,72800
+Norway,1997,76300
+Norway,1998,77800
+Norway,1999,79000
+Norway,2000,80600
+Norway,2001,82900
+Norway,2002,83800
+Norway,2003,84300
+Norway,2004,86800
+Norway,2005,89300
+Norway,2006,89800
+Norway,2007,91200
+Norway,2008,90400
+Norway,2009,88600
+Norway,2010,88600
+Norway,2011,88200
+Norway,2012,89300
+Norway,2013,89400
+Norway,2014,92500
+Norway,2015,94400
+Norway,2016,94800
+Norway,2017,
+Oman,1960,
+Oman,1961,
+Oman,1962,
+Oman,1963,
+Oman,1964,
+Oman,1965,
+Oman,1966,
+Oman,1967,
+Oman,1968,
+Oman,1969,
+Oman,1970,
+Oman,1971,
+Oman,1972,
+Oman,1973,
+Oman,1974,
+Oman,1975,
+Oman,1976,
+Oman,1977,
+Oman,1978,
+Oman,1979,
+Oman,1980,
+Oman,1981,
+Oman,1982,
+Oman,1983,
+Oman,1984,
+Oman,1985,
+Oman,1986,
+Oman,1987,
+Oman,1988,
+Oman,1989,
+Oman,1990,
+Oman,1991,
+Oman,1992,
+Oman,1993,
+Oman,1994,
+Oman,1995,
+Oman,1996,
+Oman,1997,
+Oman,1998,
+Oman,1999,
+Oman,2000,18200
+Oman,2001,18900
+Oman,2002,18100
+Oman,2003,17500
+Oman,2004,17400
+Oman,2005,17100
+Oman,2006,16300
+Oman,2007,17900
+Oman,2008,18200
+Oman,2009,18300
+Oman,2010,18100
+Oman,2011,16700
+Oman,2012,17000
+Oman,2013,17000
+Oman,2014,16200
+Oman,2015,16400
+Oman,2016,
+Oman,2017,
+Pakistan,1960,
+Pakistan,1961,
+Pakistan,1962,
+Pakistan,1963,
+Pakistan,1964,
+Pakistan,1965,
+Pakistan,1966,
+Pakistan,1967,
+Pakistan,1968,
+Pakistan,1969,
+Pakistan,1970,
+Pakistan,1971,
+Pakistan,1972,
+Pakistan,1973,
+Pakistan,1974,
+Pakistan,1975,
+Pakistan,1976,
+Pakistan,1977,
+Pakistan,1978,
+Pakistan,1979,
+Pakistan,1980,
+Pakistan,1981,
+Pakistan,1982,
+Pakistan,1983,
+Pakistan,1984,
+Pakistan,1985,
+Pakistan,1986,688
+Pakistan,1987,735
+Pakistan,1988,751
+Pakistan,1989,760
+Pakistan,1990,776
+Pakistan,1991,777
+Pakistan,1992,804
+Pakistan,1993,795
+Pakistan,1994,799
+Pakistan,1995,823
+Pakistan,1996,831
+Pakistan,1997,815
+Pakistan,1998,815
+Pakistan,1999,825
+Pakistan,2000,838
+Pakistan,2001,836
+Pakistan,2002,861
+Pakistan,2003,907
+Pakistan,2004,946
+Pakistan,2005,996
+Pakistan,2006,1030
+Pakistan,2007,1060
+Pakistan,2008,1060
+Pakistan,2009,1070
+Pakistan,2010,1080
+Pakistan,2011,1090
+Pakistan,2012,1110
+Pakistan,2013,1140
+Pakistan,2014,1170
+Pakistan,2015,1210
+Pakistan,2016,1250
+Pakistan,2017,1290
+Palau,1960,
+Palau,1961,
+Palau,1962,
+Palau,1963,
+Palau,1964,
+Palau,1965,
+Palau,1966,
+Palau,1967,
+Palau,1968,
+Palau,1969,
+Palau,1970,
+Palau,1971,
+Palau,1972,
+Palau,1973,
+Palau,1974,
+Palau,1975,
+Palau,1976,
+Palau,1977,
+Palau,1978,
+Palau,1979,
+Palau,1980,
+Palau,1981,
+Palau,1982,
+Palau,1983,
+Palau,1984,
+Palau,1985,
+Palau,1986,
+Palau,1987,
+Palau,1988,
+Palau,1989,
+Palau,1990,
+Palau,1991,
+Palau,1992,
+Palau,1993,
+Palau,1994,
+Palau,1995,
+Palau,1996,
+Palau,1997,
+Palau,1998,
+Palau,1999,
+Palau,2000,
+Palau,2001,
+Palau,2002,
+Palau,2003,
+Palau,2004,
+Palau,2005,
+Palau,2006,
+Palau,2007,10100
+Palau,2008,9230
+Palau,2009,9070
+Palau,2010,8870
+Palau,2011,9390
+Palau,2012,9620
+Palau,2013,9240
+Palau,2014,9490
+Palau,2015,10100
+Palau,2016,10100
+Palau,2017,
+Palestine,1960,
+Palestine,1961,
+Palestine,1962,
+Palestine,1963,
+Palestine,1964,
+Palestine,1965,
+Palestine,1966,
+Palestine,1967,
+Palestine,1968,
+Palestine,1969,
+Palestine,1970,
+Palestine,1971,
+Palestine,1972,
+Palestine,1973,
+Palestine,1974,
+Palestine,1975,
+Palestine,1976,
+Palestine,1977,
+Palestine,1978,
+Palestine,1979,
+Palestine,1980,
+Palestine,1981,
+Palestine,1982,
+Palestine,1983,
+Palestine,1984,
+Palestine,1985,
+Palestine,1986,
+Palestine,1987,
+Palestine,1988,
+Palestine,1989,
+Palestine,1990,
+Palestine,1991,
+Palestine,1992,
+Palestine,1993,
+Palestine,1994,1720
+Palestine,1995,1770
+Palestine,1996,1800
+Palestine,1997,2160
+Palestine,1998,2730
+Palestine,1999,3140
+Palestine,2000,2640
+Palestine,2001,2320
+Palestine,2002,2200
+Palestine,2003,2350
+Palestine,2004,2460
+Palestine,2005,2710
+Palestine,2006,2550
+Palestine,2007,2470
+Palestine,2008,2230
+Palestine,2009,2510
+Palestine,2010,2500
+Palestine,2011,2620
+Palestine,2012,2930
+Palestine,2013,2760
+Palestine,2014,2700
+Palestine,2015,3000
+Palestine,2016,3030
+Palestine,2017,2840
+Panama,1960,1910
+Panama,1961,2070
+Panama,1962,2180
+Panama,1963,2310
+Panama,1964,2350
+Panama,1965,2450
+Panama,1966,2560
+Panama,1967,2690
+Panama,1968,2790
+Panama,1969,2940
+Panama,1970,3060
+Panama,1971,3260
+Panama,1972,3310
+Panama,1973,3390
+Panama,1974,3370
+Panama,1975,3420
+Panama,1976,3330
+Panama,1977,3290
+Panama,1978,3540
+Panama,1979,3570
+Panama,1980,3990
+Panama,1981,4180
+Panama,1982,4540
+Panama,1983,4460
+Panama,1984,4290
+Panama,1985,4550
+Panama,1986,4390
+Panama,1987,4710
+Panama,1988,3800
+Panama,1989,3690
+Panama,1990,3930
+Panama,1991,4100
+Panama,1992,4400
+Panama,1993,4650
+Panama,1994,4740
+Panama,1995,4640
+Panama,1996,4750
+Panama,1997,4900
+Panama,1998,5140
+Panama,1999,5170
+Panama,2000,5290
+Panama,2001,5190
+Panama,2002,5380
+Panama,2003,5330
+Panama,2004,5540
+Panama,2005,5800
+Panama,2006,6190
+Panama,2007,6750
+Panama,2008,7340
+Panama,2009,7250
+Panama,2010,7340
+Panama,2011,8330
+Panama,2012,8920
+Panama,2013,9270
+Panama,2014,9670
+Panama,2015,9410
+Panama,2016,9570
+Panama,2017,
+Papua New Guinea,1960,
+Papua New Guinea,1961,
+Papua New Guinea,1962,
+Papua New Guinea,1963,
+Papua New Guinea,1964,
+Papua New Guinea,1965,
+Papua New Guinea,1966,
+Papua New Guinea,1967,
+Papua New Guinea,1968,
+Papua New Guinea,1969,
+Papua New Guinea,1970,
+Papua New Guinea,1971,
+Papua New Guinea,1972,
+Papua New Guinea,1973,
+Papua New Guinea,1974,
+Papua New Guinea,1975,
+Papua New Guinea,1976,
+Papua New Guinea,1977,
+Papua New Guinea,1978,
+Papua New Guinea,1979,
+Papua New Guinea,1980,
+Papua New Guinea,1981,
+Papua New Guinea,1982,
+Papua New Guinea,1983,
+Papua New Guinea,1984,
+Papua New Guinea,1985,
+Papua New Guinea,1986,
+Papua New Guinea,1987,
+Papua New Guinea,1988,
+Papua New Guinea,1989,
+Papua New Guinea,1990,
+Papua New Guinea,1991,
+Papua New Guinea,1992,
+Papua New Guinea,1993,
+Papua New Guinea,1994,
+Papua New Guinea,1995,
+Papua New Guinea,1996,
+Papua New Guinea,1997,
+Papua New Guinea,1998,
+Papua New Guinea,1999,
+Papua New Guinea,2000,
+Papua New Guinea,2001,
+Papua New Guinea,2002,
+Papua New Guinea,2003,
+Papua New Guinea,2004,
+Papua New Guinea,2005,
+Papua New Guinea,2006,
+Papua New Guinea,2007,
+Papua New Guinea,2008,
+Papua New Guinea,2009,
+Papua New Guinea,2010,1840
+Papua New Guinea,2011,
+Papua New Guinea,2012,
+Papua New Guinea,2013,
+Papua New Guinea,2014,
+Papua New Guinea,2015,
+Papua New Guinea,2016,
+Papua New Guinea,2017,
+Paraguay,1960,
+Paraguay,1961,
+Paraguay,1962,
+Paraguay,1963,
+Paraguay,1964,
+Paraguay,1965,
+Paraguay,1966,
+Paraguay,1967,
+Paraguay,1968,
+Paraguay,1969,
+Paraguay,1970,
+Paraguay,1971,
+Paraguay,1972,
+Paraguay,1973,
+Paraguay,1974,
+Paraguay,1975,
+Paraguay,1976,
+Paraguay,1977,
+Paraguay,1978,
+Paraguay,1979,
+Paraguay,1980,
+Paraguay,1981,
+Paraguay,1982,
+Paraguay,1983,
+Paraguay,1984,
+Paraguay,1985,
+Paraguay,1986,
+Paraguay,1987,
+Paraguay,1988,
+Paraguay,1989,
+Paraguay,1990,
+Paraguay,1991,
+Paraguay,1992,
+Paraguay,1993,
+Paraguay,1994,
+Paraguay,1995,2640
+Paraguay,1996,2780
+Paraguay,1997,2740
+Paraguay,1998,2680
+Paraguay,1999,2570
+Paraguay,2000,2350
+Paraguay,2001,2300
+Paraguay,2002,2310
+Paraguay,2003,2130
+Paraguay,2004,2230
+Paraguay,2005,2270
+Paraguay,2006,2450
+Paraguay,2007,2700
+Paraguay,2008,2870
+Paraguay,2009,2670
+Paraguay,2010,3000
+Paraguay,2011,3150
+Paraguay,2012,3010
+Paraguay,2013,3430
+Paraguay,2014,3580
+Paraguay,2015,3620
+Paraguay,2016,3720
+Paraguay,2017,3710
+Peru,1960,2560
+Peru,1961,2690
+Peru,1962,2890
+Peru,1963,2930
+Peru,1964,3030
+Peru,1965,3120
+Peru,1966,3270
+Peru,1967,3300
+Peru,1968,3190
+Peru,1969,3210
+Peru,1970,3260
+Peru,1971,3340
+Peru,1972,3370
+Peru,1973,3470
+Peru,1974,3710
+Peru,1975,3770
+Peru,1976,3690
+Peru,1977,3680
+Peru,1978,3430
+Peru,1979,3420
+Peru,1980,3570
+Peru,1981,3690
+Peru,1982,3600
+Peru,1983,3090
+Peru,1984,3120
+Peru,1985,3130
+Peru,1986,3310
+Peru,1987,3580
+Peru,1988,2490
+Peru,1989,2210
+Peru,1990,2530
+Peru,1991,2600
+Peru,1992,2540
+Peru,1993,2600
+Peru,1994,2870
+Peru,1995,3020
+Peru,1996,3090
+Peru,1997,3250
+Peru,1998,3220
+Peru,1999,3220
+Peru,2000,3250
+Peru,2001,3250
+Peru,2002,3360
+Peru,2003,3430
+Peru,2004,3490
+Peru,2005,3620
+Peru,2006,3750
+Peru,2007,4030
+Peru,2008,4400
+Peru,2009,4420
+Peru,2010,4650
+Peru,2011,4860
+Peru,2012,5170
+Peru,2013,5490
+Peru,2014,5570
+Peru,2015,5750
+Peru,2016,5850
+Peru,2017,5930
+Philippines,1960,1050
+Philippines,1961,1080
+Philippines,1962,1100
+Philippines,1963,1140
+Philippines,1964,1140
+Philippines,1965,1160
+Philippines,1966,1180
+Philippines,1967,1200
+Philippines,1968,1210
+Philippines,1969,1240
+Philippines,1970,1240
+Philippines,1971,1270
+Philippines,1972,1300
+Philippines,1973,1380
+Philippines,1974,1400
+Philippines,1975,1440
+Philippines,1976,1510
+Philippines,1977,1560
+Philippines,1978,1600
+Philippines,1979,1640
+Philippines,1980,1670
+Philippines,1981,1680
+Philippines,1982,1670
+Philippines,1983,1660
+Philippines,1984,1470
+Philippines,1985,1330
+Philippines,1986,1330
+Philippines,1987,1360
+Philippines,1988,1430
+Philippines,1989,1470
+Philippines,1990,1510
+Philippines,1991,1480
+Philippines,1992,1470
+Philippines,1993,1470
+Philippines,1994,1520
+Philippines,1995,1560
+Philippines,1996,1620
+Philippines,1997,1700
+Philippines,1998,1780
+Philippines,1999,1790
+Philippines,2000,1890
+Philippines,2001,1920
+Philippines,2002,1950
+Philippines,2003,2000
+Philippines,2004,2090
+Philippines,2005,2160
+Philippines,2006,2210
+Philippines,2007,2300
+Philippines,2008,2370
+Philippines,2009,2440
+Philippines,2010,2570
+Philippines,2011,2600
+Philippines,2012,2740
+Philippines,2013,2910
+Philippines,2014,3030
+Philippines,2015,3160
+Philippines,2016,3320
+Philippines,2017,3480
+Poland,1960,
+Poland,1961,
+Poland,1962,
+Poland,1963,
+Poland,1964,
+Poland,1965,
+Poland,1966,
+Poland,1967,
+Poland,1968,
+Poland,1969,
+Poland,1970,
+Poland,1971,
+Poland,1972,
+Poland,1973,
+Poland,1974,
+Poland,1975,
+Poland,1976,
+Poland,1977,
+Poland,1978,
+Poland,1979,
+Poland,1980,
+Poland,1981,
+Poland,1982,
+Poland,1983,
+Poland,1984,
+Poland,1985,
+Poland,1986,
+Poland,1987,
+Poland,1988,
+Poland,1989,
+Poland,1990,
+Poland,1991,
+Poland,1992,
+Poland,1993,
+Poland,1994,
+Poland,1995,
+Poland,1996,
+Poland,1997,
+Poland,1998,
+Poland,1999,
+Poland,2000,
+Poland,2001,
+Poland,2002,
+Poland,2003,
+Poland,2004,9310
+Poland,2005,9790
+Poland,2006,10400
+Poland,2007,11000
+Poland,2008,11600
+Poland,2009,11800
+Poland,2010,12200
+Poland,2011,12800
+Poland,2012,13000
+Poland,2013,13200
+Poland,2014,13600
+Poland,2015,14100
+Poland,2016,14500
+Poland,2017,15100
+Portugal,1960,
+Portugal,1961,
+Portugal,1962,
+Portugal,1963,
+Portugal,1964,
+Portugal,1965,
+Portugal,1966,
+Portugal,1967,
+Portugal,1968,
+Portugal,1969,
+Portugal,1970,8950
+Portugal,1971,9510
+Portugal,1972,10300
+Portugal,1973,11600
+Portugal,1974,11600
+Portugal,1975,10400
+Portugal,1976,10700
+Portugal,1977,11200
+Portugal,1978,11300
+Portugal,1979,11800
+Portugal,1980,12100
+Portugal,1981,12100
+Portugal,1982,12100
+Portugal,1983,12100
+Portugal,1984,11700
+Portugal,1985,12100
+Portugal,1986,12700
+Portugal,1987,13700
+Portugal,1988,14800
+Portugal,1989,15900
+Portugal,1990,16600
+Portugal,1991,17400
+Portugal,1992,17700
+Portugal,1993,17400
+Portugal,1994,17400
+Portugal,1995,18200
+Portugal,1996,18700
+Portugal,1997,19300
+Portugal,1998,20100
+Portugal,1999,20800
+Portugal,2000,21100
+Portugal,2001,21300
+Portugal,2002,21400
+Portugal,2003,21300
+Portugal,2004,21600
+Portugal,2005,21700
+Portugal,2006,21600
+Portugal,2007,22100
+Portugal,2008,22000
+Portugal,2009,21300
+Portugal,2010,21800
+Portugal,2011,21700
+Portugal,2012,20800
+Portugal,2013,20900
+Portugal,2014,21200
+Portugal,2015,21400
+Portugal,2016,21900
+Portugal,2017,
+Qatar,1960,
+Qatar,1961,
+Qatar,1962,
+Qatar,1963,
+Qatar,1964,
+Qatar,1965,
+Qatar,1966,
+Qatar,1967,
+Qatar,1968,
+Qatar,1969,
+Qatar,1970,
+Qatar,1971,
+Qatar,1972,
+Qatar,1973,
+Qatar,1974,
+Qatar,1975,
+Qatar,1976,
+Qatar,1977,
+Qatar,1978,
+Qatar,1979,
+Qatar,1980,
+Qatar,1981,
+Qatar,1982,
+Qatar,1983,
+Qatar,1984,
+Qatar,1985,
+Qatar,1986,
+Qatar,1987,
+Qatar,1988,
+Qatar,1989,
+Qatar,1990,
+Qatar,1991,
+Qatar,1992,
+Qatar,1993,
+Qatar,1994,
+Qatar,1995,
+Qatar,1996,
+Qatar,1997,
+Qatar,1998,
+Qatar,1999,
+Qatar,2000,
+Qatar,2001,
+Qatar,2002,
+Qatar,2003,
+Qatar,2004,61200
+Qatar,2005,54900
+Qatar,2006,62600
+Qatar,2007,62700
+Qatar,2008,62500
+Qatar,2009,59700
+Qatar,2010,63000
+Qatar,2011,65800
+Qatar,2012,64700
+Qatar,2013,64300
+Qatar,2014,64000
+Qatar,2015,65200
+Qatar,2016,
+Qatar,2017,
+Romania,1960,
+Romania,1961,
+Romania,1962,
+Romania,1963,
+Romania,1964,
+Romania,1965,
+Romania,1966,
+Romania,1967,
+Romania,1968,
+Romania,1969,
+Romania,1970,
+Romania,1971,
+Romania,1972,
+Romania,1973,
+Romania,1974,
+Romania,1975,
+Romania,1976,
+Romania,1977,
+Romania,1978,
+Romania,1979,
+Romania,1980,
+Romania,1981,
+Romania,1982,
+Romania,1983,
+Romania,1984,
+Romania,1985,
+Romania,1986,
+Romania,1987,
+Romania,1988,
+Romania,1989,
+Romania,1990,5350
+Romania,1991,4710
+Romania,1992,4330
+Romania,1993,4390
+Romania,1994,4570
+Romania,1995,4900
+Romania,1996,5100
+Romania,1997,4860
+Romania,1998,4760
+Romania,1999,4740
+Romania,2000,4890
+Romania,2001,5240
+Romania,2002,5590
+Romania,2003,5870
+Romania,2004,6270
+Romania,2005,6650
+Romania,2006,7190
+Romania,2007,7790
+Romania,2008,8640
+Romania,2009,8290
+Romania,2010,8110
+Romania,2011,8300
+Romania,2012,8430
+Romania,2013,8720
+Romania,2014,9110
+Romania,2015,9400
+Romania,2016,9870
+Romania,2017,10600
+Russia,1960,
+Russia,1961,
+Russia,1962,
+Russia,1963,
+Russia,1964,
+Russia,1965,
+Russia,1966,
+Russia,1967,
+Russia,1968,
+Russia,1969,
+Russia,1970,
+Russia,1971,
+Russia,1972,
+Russia,1973,
+Russia,1974,
+Russia,1975,
+Russia,1976,
+Russia,1977,
+Russia,1978,
+Russia,1979,
+Russia,1980,
+Russia,1981,
+Russia,1982,
+Russia,1983,
+Russia,1984,
+Russia,1985,
+Russia,1986,
+Russia,1987,
+Russia,1988,
+Russia,1989,
+Russia,1990,9500
+Russia,1991,9000
+Russia,1992,7630
+Russia,1993,6980
+Russia,1994,6140
+Russia,1995,5870
+Russia,1996,5640
+Russia,1997,5690
+Russia,1998,5280
+Russia,1999,5640
+Russia,2000,6310
+Russia,2001,6750
+Russia,2002,7070
+Russia,2003,7540
+Russia,2004,8180
+Russia,2005,8710
+Russia,2006,9400
+Russia,2007,10300
+Russia,2008,10800
+Russia,2009,9900
+Russia,2010,10300
+Russia,2011,10900
+Russia,2012,11200
+Russia,2013,11400
+Russia,2014,11300
+Russia,2015,11000
+Russia,2016,11000
+Russia,2017,11200
+Rwanda,1960,
+Rwanda,1961,
+Rwanda,1962,
+Rwanda,1963,
+Rwanda,1964,
+Rwanda,1965,
+Rwanda,1966,
+Rwanda,1967,
+Rwanda,1968,
+Rwanda,1969,
+Rwanda,1970,336
+Rwanda,1971,330
+Rwanda,1972,321
+Rwanda,1973,320
+Rwanda,1974,315
+Rwanda,1975,300
+Rwanda,1976,347
+Rwanda,1977,343
+Rwanda,1978,362
+Rwanda,1979,393
+Rwanda,1980,415
+Rwanda,1981,425
+Rwanda,1982,419
+Rwanda,1983,428
+Rwanda,1984,395
+Rwanda,1985,394
+Rwanda,1986,397
+Rwanda,1987,378
+Rwanda,1988,378
+Rwanda,1989,369
+Rwanda,1990,359
+Rwanda,1991,358
+Rwanda,1992,400
+Rwanda,1993,390
+Rwanda,1994,204
+Rwanda,1995,281
+Rwanda,1996,304
+Rwanda,1997,325
+Rwanda,1998,326
+Rwanda,1999,317
+Rwanda,2000,324
+Rwanda,2001,337
+Rwanda,2002,374
+Rwanda,2003,374
+Rwanda,2004,395
+Rwanda,2005,426
+Rwanda,2006,455
+Rwanda,2007,480
+Rwanda,2008,518
+Rwanda,2009,535
+Rwanda,2010,559
+Rwanda,2011,588
+Rwanda,2012,620
+Rwanda,2013,629
+Rwanda,2014,657
+Rwanda,2015,697
+Rwanda,2016,720
+Rwanda,2017,747
+Samoa,1960,
+Samoa,1961,
+Samoa,1962,
+Samoa,1963,
+Samoa,1964,
+Samoa,1965,
+Samoa,1966,
+Samoa,1967,
+Samoa,1968,
+Samoa,1969,
+Samoa,1970,
+Samoa,1971,
+Samoa,1972,
+Samoa,1973,
+Samoa,1974,
+Samoa,1975,
+Samoa,1976,
+Samoa,1977,
+Samoa,1978,
+Samoa,1979,
+Samoa,1980,
+Samoa,1981,
+Samoa,1982,
+Samoa,1983,
+Samoa,1984,
+Samoa,1985,
+Samoa,1986,
+Samoa,1987,
+Samoa,1988,
+Samoa,1989,
+Samoa,1990,
+Samoa,1991,
+Samoa,1992,
+Samoa,1993,
+Samoa,1994,
+Samoa,1995,
+Samoa,1996,
+Samoa,1997,
+Samoa,1998,
+Samoa,1999,
+Samoa,2000,
+Samoa,2001,
+Samoa,2002,
+Samoa,2003,
+Samoa,2004,
+Samoa,2005,
+Samoa,2006,
+Samoa,2007,
+Samoa,2008,
+Samoa,2009,
+Samoa,2010,3360
+Samoa,2011,
+Samoa,2012,
+Samoa,2013,
+Samoa,2014,
+Samoa,2015,
+Samoa,2016,
+Samoa,2017,
+Sao Tome and Principe,1960,
+Sao Tome and Principe,1961,
+Sao Tome and Principe,1962,
+Sao Tome and Principe,1963,
+Sao Tome and Principe,1964,
+Sao Tome and Principe,1965,
+Sao Tome and Principe,1966,
+Sao Tome and Principe,1967,
+Sao Tome and Principe,1968,
+Sao Tome and Principe,1969,
+Sao Tome and Principe,1970,
+Sao Tome and Principe,1971,
+Sao Tome and Principe,1972,
+Sao Tome and Principe,1973,
+Sao Tome and Principe,1974,
+Sao Tome and Principe,1975,
+Sao Tome and Principe,1976,
+Sao Tome and Principe,1977,
+Sao Tome and Principe,1978,
+Sao Tome and Principe,1979,
+Sao Tome and Principe,1980,
+Sao Tome and Principe,1981,
+Sao Tome and Principe,1982,
+Sao Tome and Principe,1983,
+Sao Tome and Principe,1984,
+Sao Tome and Principe,1985,
+Sao Tome and Principe,1986,
+Sao Tome and Principe,1987,
+Sao Tome and Principe,1988,
+Sao Tome and Principe,1989,
+Sao Tome and Principe,1990,
+Sao Tome and Principe,1991,
+Sao Tome and Principe,1992,
+Sao Tome and Principe,1993,
+Sao Tome and Principe,1994,
+Sao Tome and Principe,1995,
+Sao Tome and Principe,1996,
+Sao Tome and Principe,1997,
+Sao Tome and Principe,1998,
+Sao Tome and Principe,1999,
+Sao Tome and Principe,2000,
+Sao Tome and Principe,2001,
+Sao Tome and Principe,2002,
+Sao Tome and Principe,2003,
+Sao Tome and Principe,2004,
+Sao Tome and Principe,2005,
+Sao Tome and Principe,2006,
+Sao Tome and Principe,2007,
+Sao Tome and Principe,2008,
+Sao Tome and Principe,2009,
+Sao Tome and Principe,2010,1130
+Sao Tome and Principe,2011,
+Sao Tome and Principe,2012,
+Sao Tome and Principe,2013,
+Sao Tome and Principe,2014,
+Sao Tome and Principe,2015,
+Sao Tome and Principe,2016,
+Sao Tome and Principe,2017,
+Saudi Arabia,1960,
+Saudi Arabia,1961,
+Saudi Arabia,1962,
+Saudi Arabia,1963,
+Saudi Arabia,1964,
+Saudi Arabia,1965,
+Saudi Arabia,1966,
+Saudi Arabia,1967,
+Saudi Arabia,1968,
+Saudi Arabia,1969,
+Saudi Arabia,1970,
+Saudi Arabia,1971,
+Saudi Arabia,1972,
+Saudi Arabia,1973,
+Saudi Arabia,1974,
+Saudi Arabia,1975,
+Saudi Arabia,1976,
+Saudi Arabia,1977,
+Saudi Arabia,1978,
+Saudi Arabia,1979,
+Saudi Arabia,1980,
+Saudi Arabia,1981,
+Saudi Arabia,1982,
+Saudi Arabia,1983,
+Saudi Arabia,1984,
+Saudi Arabia,1985,
+Saudi Arabia,1986,
+Saudi Arabia,1987,
+Saudi Arabia,1988,
+Saudi Arabia,1989,
+Saudi Arabia,1990,
+Saudi Arabia,1991,
+Saudi Arabia,1992,
+Saudi Arabia,1993,
+Saudi Arabia,1994,
+Saudi Arabia,1995,
+Saudi Arabia,1996,
+Saudi Arabia,1997,
+Saudi Arabia,1998,
+Saudi Arabia,1999,
+Saudi Arabia,2000,18300
+Saudi Arabia,2001,17700
+Saudi Arabia,2002,16700
+Saudi Arabia,2003,18000
+Saudi Arabia,2004,18900
+Saudi Arabia,2005,19500
+Saudi Arabia,2006,19500
+Saudi Arabia,2007,19400
+Saudi Arabia,2008,20200
+Saudi Arabia,2009,19200
+Saudi Arabia,2010,19500
+Saudi Arabia,2011,20900
+Saudi Arabia,2012,21400
+Saudi Arabia,2013,21300
+Saudi Arabia,2014,21600
+Saudi Arabia,2015,22000
+Saudi Arabia,2016,21800
+Saudi Arabia,2017,21100
+Senegal,1960,
+Senegal,1961,
+Senegal,1962,
+Senegal,1963,
+Senegal,1964,
+Senegal,1965,
+Senegal,1966,
+Senegal,1967,
+Senegal,1968,1010
+Senegal,1969,923
+Senegal,1970,968
+Senegal,1971,938
+Senegal,1972,966
+Senegal,1973,876
+Senegal,1974,884
+Senegal,1975,921
+Senegal,1976,985
+Senegal,1977,938
+Senegal,1978,875
+Senegal,1979,917
+Senegal,1980,861
+Senegal,1981,876
+Senegal,1982,916
+Senegal,1983,842
+Senegal,1984,838
+Senegal,1985,840
+Senegal,1986,842
+Senegal,1987,867
+Senegal,1988,832
+Senegal,1989,842
+Senegal,1990,816
+Senegal,1991,812
+Senegal,1992,808
+Senegal,1993,784
+Senegal,1994,762
+Senegal,1995,785
+Senegal,1996,794
+Senegal,1997,798
+Senegal,1998,829
+Senegal,1999,855
+Senegal,2000,860
+Senegal,2001,880
+Senegal,2002,861
+Senegal,2003,899
+Senegal,2004,930
+Senegal,2005,957
+Senegal,2006,958
+Senegal,2007,979
+Senegal,2008,990
+Senegal,2009,977
+Senegal,2010,991
+Senegal,2011,972
+Senegal,2012,984
+Senegal,2013,987
+Senegal,2014,994
+Senegal,2015,1020
+Senegal,2016,1060
+Senegal,2017,1100
+Serbia,1960,
+Serbia,1961,
+Serbia,1962,
+Serbia,1963,
+Serbia,1964,
+Serbia,1965,
+Serbia,1966,
+Serbia,1967,
+Serbia,1968,
+Serbia,1969,
+Serbia,1970,
+Serbia,1971,
+Serbia,1972,
+Serbia,1973,
+Serbia,1974,
+Serbia,1975,
+Serbia,1976,
+Serbia,1977,
+Serbia,1978,
+Serbia,1979,
+Serbia,1980,
+Serbia,1981,
+Serbia,1982,
+Serbia,1983,
+Serbia,1984,
+Serbia,1985,
+Serbia,1986,
+Serbia,1987,
+Serbia,1988,
+Serbia,1989,
+Serbia,1990,
+Serbia,1991,
+Serbia,1992,
+Serbia,1993,
+Serbia,1994,
+Serbia,1995,
+Serbia,1996,
+Serbia,1997,3480
+Serbia,1998,3560
+Serbia,1999,3130
+Serbia,2000,3410
+Serbia,2001,3580
+Serbia,2002,3820
+Serbia,2003,3990
+Serbia,2004,4360
+Serbia,2005,4590
+Serbia,2006,4830
+Serbia,2007,5100
+Serbia,2008,5360
+Serbia,2009,5270
+Serbia,2010,5290
+Serbia,2011,5400
+Serbia,2012,5310
+Serbia,2013,5430
+Serbia,2014,5360
+Serbia,2015,5370
+Serbia,2016,5490
+Serbia,2017,5550
+Seychelles,1960,
+Seychelles,1961,
+Seychelles,1962,
+Seychelles,1963,
+Seychelles,1964,
+Seychelles,1965,
+Seychelles,1966,
+Seychelles,1967,
+Seychelles,1968,
+Seychelles,1969,
+Seychelles,1970,
+Seychelles,1971,
+Seychelles,1972,
+Seychelles,1973,
+Seychelles,1974,
+Seychelles,1975,
+Seychelles,1976,
+Seychelles,1977,
+Seychelles,1978,
+Seychelles,1979,
+Seychelles,1980,
+Seychelles,1981,
+Seychelles,1982,
+Seychelles,1983,
+Seychelles,1984,
+Seychelles,1985,
+Seychelles,1986,
+Seychelles,1987,
+Seychelles,1988,
+Seychelles,1989,
+Seychelles,1990,
+Seychelles,1991,
+Seychelles,1992,
+Seychelles,1993,
+Seychelles,1994,
+Seychelles,1995,
+Seychelles,1996,
+Seychelles,1997,
+Seychelles,1998,
+Seychelles,1999,
+Seychelles,2000,
+Seychelles,2001,
+Seychelles,2002,
+Seychelles,2003,
+Seychelles,2004,
+Seychelles,2005,
+Seychelles,2006,
+Seychelles,2007,
+Seychelles,2008,
+Seychelles,2009,
+Seychelles,2010,10200
+Seychelles,2011,
+Seychelles,2012,
+Seychelles,2013,
+Seychelles,2014,
+Seychelles,2015,
+Seychelles,2016,
+Seychelles,2017,
+Sierra Leone,1960,
+Sierra Leone,1961,
+Sierra Leone,1962,
+Sierra Leone,1963,
+Sierra Leone,1964,
+Sierra Leone,1965,
+Sierra Leone,1966,
+Sierra Leone,1967,
+Sierra Leone,1968,
+Sierra Leone,1969,
+Sierra Leone,1970,
+Sierra Leone,1971,
+Sierra Leone,1972,
+Sierra Leone,1973,
+Sierra Leone,1974,
+Sierra Leone,1975,
+Sierra Leone,1976,
+Sierra Leone,1977,
+Sierra Leone,1978,
+Sierra Leone,1979,
+Sierra Leone,1980,
+Sierra Leone,1981,
+Sierra Leone,1982,
+Sierra Leone,1983,
+Sierra Leone,1984,
+Sierra Leone,1985,
+Sierra Leone,1986,
+Sierra Leone,1987,
+Sierra Leone,1988,
+Sierra Leone,1989,
+Sierra Leone,1990,
+Sierra Leone,1991,
+Sierra Leone,1992,
+Sierra Leone,1993,
+Sierra Leone,1994,
+Sierra Leone,1995,
+Sierra Leone,1996,
+Sierra Leone,1997,
+Sierra Leone,1998,
+Sierra Leone,1999,
+Sierra Leone,2000,
+Sierra Leone,2001,267
+Sierra Leone,2002,323
+Sierra Leone,2003,338
+Sierra Leone,2004,344
+Sierra Leone,2005,345
+Sierra Leone,2006,349
+Sierra Leone,2007,392
+Sierra Leone,2008,414
+Sierra Leone,2009,421
+Sierra Leone,2010,404
+Sierra Leone,2011,409
+Sierra Leone,2012,482
+Sierra Leone,2013,548
+Sierra Leone,2014,551
+Sierra Leone,2015,431
+Sierra Leone,2016,404
+Sierra Leone,2017,
+Singapore,1960,3480
+Singapore,1961,3640
+Singapore,1962,3790
+Singapore,1963,4090
+Singapore,1964,3880
+Singapore,1965,4070
+Singapore,1966,4390
+Singapore,1967,4790
+Singapore,1968,5300
+Singapore,1969,5920
+Singapore,1970,6580
+Singapore,1971,7150
+Singapore,1972,7960
+Singapore,1973,8500
+Singapore,1974,8850
+Singapore,1975,9490
+Singapore,1976,9900
+Singapore,1977,10400
+Singapore,1978,11300
+Singapore,1979,12200
+Singapore,1980,12600
+Singapore,1981,13200
+Singapore,1982,13700
+Singapore,1983,15000
+Singapore,1984,16400
+Singapore,1985,16500
+Singapore,1986,16600
+Singapore,1987,17600
+Singapore,1988,19300
+Singapore,1989,20800
+Singapore,1990,22000
+Singapore,1991,22700
+Singapore,1992,23900
+Singapore,1993,25500
+Singapore,1994,28000
+Singapore,1995,29200
+Singapore,1996,29700
+Singapore,1997,32000
+Singapore,1998,30100
+Singapore,1999,31500
+Singapore,2000,33200
+Singapore,2001,31900
+Singapore,2002,32300
+Singapore,2003,34000
+Singapore,2004,35400
+Singapore,2005,37300
+Singapore,2006,40700
+Singapore,2007,42700
+Singapore,2008,40800
+Singapore,2009,39200
+Singapore,2010,46300
+Singapore,2011,47300
+Singapore,2012,47300
+Singapore,2013,49100
+Singapore,2014,51100
+Singapore,2015,50900
+Singapore,2016,50700
+Singapore,2017,53300
+Slovak Republic,1960,
+Slovak Republic,1961,
+Slovak Republic,1962,
+Slovak Republic,1963,
+Slovak Republic,1964,
+Slovak Republic,1965,
+Slovak Republic,1966,
+Slovak Republic,1967,
+Slovak Republic,1968,
+Slovak Republic,1969,
+Slovak Republic,1970,
+Slovak Republic,1971,
+Slovak Republic,1972,
+Slovak Republic,1973,
+Slovak Republic,1974,
+Slovak Republic,1975,
+Slovak Republic,1976,
+Slovak Republic,1977,
+Slovak Republic,1978,
+Slovak Republic,1979,
+Slovak Republic,1980,
+Slovak Republic,1981,
+Slovak Republic,1982,
+Slovak Republic,1983,
+Slovak Republic,1984,
+Slovak Republic,1985,
+Slovak Republic,1986,
+Slovak Republic,1987,
+Slovak Republic,1988,
+Slovak Republic,1989,
+Slovak Republic,1990,
+Slovak Republic,1991,
+Slovak Republic,1992,
+Slovak Republic,1993,
+Slovak Republic,1994,
+Slovak Republic,1995,
+Slovak Republic,1996,
+Slovak Republic,1997,
+Slovak Republic,1998,
+Slovak Republic,1999,
+Slovak Republic,2000,
+Slovak Republic,2001,
+Slovak Republic,2002,
+Slovak Republic,2003,
+Slovak Republic,2004,11900
+Slovak Republic,2005,12800
+Slovak Republic,2006,13900
+Slovak Republic,2007,15400
+Slovak Republic,2008,16400
+Slovak Republic,2009,15700
+Slovak Republic,2010,16200
+Slovak Republic,2011,16400
+Slovak Republic,2012,17000
+Slovak Republic,2013,17400
+Slovak Republic,2014,17700
+Slovak Republic,2015,18400
+Slovak Republic,2016,
+Slovak Republic,2017,
+Slovenia,1960,
+Slovenia,1961,
+Slovenia,1962,
+Slovenia,1963,
+Slovenia,1964,
+Slovenia,1965,
+Slovenia,1966,
+Slovenia,1967,
+Slovenia,1968,
+Slovenia,1969,
+Slovenia,1970,
+Slovenia,1971,
+Slovenia,1972,
+Slovenia,1973,
+Slovenia,1974,
+Slovenia,1975,
+Slovenia,1976,
+Slovenia,1977,
+Slovenia,1978,
+Slovenia,1979,
+Slovenia,1980,
+Slovenia,1981,
+Slovenia,1982,
+Slovenia,1983,
+Slovenia,1984,
+Slovenia,1985,
+Slovenia,1986,
+Slovenia,1987,
+Slovenia,1988,
+Slovenia,1989,
+Slovenia,1990,
+Slovenia,1991,
+Slovenia,1992,
+Slovenia,1993,
+Slovenia,1994,
+Slovenia,1995,
+Slovenia,1996,
+Slovenia,1997,
+Slovenia,1998,
+Slovenia,1999,
+Slovenia,2000,
+Slovenia,2001,
+Slovenia,2002,
+Slovenia,2003,
+Slovenia,2004,21000
+Slovenia,2005,21900
+Slovenia,2006,23000
+Slovenia,2007,24200
+Slovenia,2008,24900
+Slovenia,2009,22900
+Slovenia,2010,23200
+Slovenia,2011,23400
+Slovenia,2012,22700
+Slovenia,2013,22500
+Slovenia,2014,23200
+Slovenia,2015,23200
+Slovenia,2016,
+Slovenia,2017,
+Solomon Islands,1960,
+Solomon Islands,1961,
+Solomon Islands,1962,
+Solomon Islands,1963,
+Solomon Islands,1964,
+Solomon Islands,1965,
+Solomon Islands,1966,
+Solomon Islands,1967,
+Solomon Islands,1968,
+Solomon Islands,1969,
+Solomon Islands,1970,
+Solomon Islands,1971,
+Solomon Islands,1972,
+Solomon Islands,1973,
+Solomon Islands,1974,
+Solomon Islands,1975,
+Solomon Islands,1976,
+Solomon Islands,1977,
+Solomon Islands,1978,
+Solomon Islands,1979,
+Solomon Islands,1980,
+Solomon Islands,1981,
+Solomon Islands,1982,
+Solomon Islands,1983,
+Solomon Islands,1984,
+Solomon Islands,1985,
+Solomon Islands,1986,
+Solomon Islands,1987,
+Solomon Islands,1988,
+Solomon Islands,1989,
+Solomon Islands,1990,
+Solomon Islands,1991,
+Solomon Islands,1992,
+Solomon Islands,1993,
+Solomon Islands,1994,
+Solomon Islands,1995,
+Solomon Islands,1996,
+Solomon Islands,1997,
+Solomon Islands,1998,
+Solomon Islands,1999,
+Solomon Islands,2000,
+Solomon Islands,2001,
+Solomon Islands,2002,
+Solomon Islands,2003,
+Solomon Islands,2004,
+Solomon Islands,2005,
+Solomon Islands,2006,
+Solomon Islands,2007,
+Solomon Islands,2008,
+Solomon Islands,2009,
+Solomon Islands,2010,941
+Solomon Islands,2011,
+Solomon Islands,2012,
+Solomon Islands,2013,
+Solomon Islands,2014,
+Solomon Islands,2015,
+Solomon Islands,2016,
+Solomon Islands,2017,
+South Africa,1960,4370
+South Africa,1961,4410
+South Africa,1962,4600
+South Africa,1963,4820
+South Africa,1964,5060
+South Africa,1965,5220
+South Africa,1966,5320
+South Africa,1967,5560
+South Africa,1968,5630
+South Africa,1969,5720
+South Africa,1970,5860
+South Africa,1971,5970
+South Africa,1972,5890
+South Africa,1973,5980
+South Africa,1974,6160
+South Africa,1975,6080
+South Africa,1976,6050
+South Africa,1977,5890
+South Africa,1978,5920
+South Africa,1979,5990
+South Africa,1980,6220
+South Africa,1981,6390
+South Africa,1982,6210
+South Africa,1983,5940
+South Africa,1984,6090
+South Africa,1985,5850
+South Africa,1986,5730
+South Africa,1987,5770
+South Africa,1988,5900
+South Africa,1989,5910
+South Africa,1990,5740
+South Africa,1991,5610
+South Africa,1992,5380
+South Africa,1993,5330
+South Africa,1994,5390
+South Africa,1995,5440
+South Africa,1996,5550
+South Africa,1997,5600
+South Africa,1998,5530
+South Africa,1999,5570
+South Africa,2000,5710
+South Africa,2001,5750
+South Africa,2002,5910
+South Africa,2003,5990
+South Africa,2004,6230
+South Africa,2005,6480
+South Africa,2006,6760
+South Africa,2007,6950
+South Africa,2008,7110
+South Africa,2009,6990
+South Africa,2010,7120
+South Africa,2011,7220
+South Africa,2012,7270
+South Africa,2013,7350
+South Africa,2014,7380
+South Africa,2015,7390
+South Africa,2016,7310
+South Africa,2017,7290
+South Korea,1960,955
+South Korea,1961,995
+South Korea,1962,1000
+South Korea,1963,1060
+South Korea,1964,1140
+South Korea,1965,1190
+South Korea,1966,1310
+South Korea,1967,1410
+South Korea,1968,1560
+South Korea,1969,1740
+South Korea,1970,1850
+South Korea,1971,1980
+South Korea,1972,2070
+South Korea,1973,2330
+South Korea,1974,2520
+South Korea,1975,2630
+South Korea,1976,2940
+South Korea,1977,3260
+South Korea,1978,3580
+South Korea,1979,3810
+South Korea,1980,3660
+South Korea,1981,3840
+South Korea,1982,4120
+South Korea,1983,4580
+South Korea,1984,4980
+South Korea,1985,5270
+South Korea,1986,5800
+South Korea,1987,6530
+South Korea,1988,7270
+South Korea,1989,7750
+South Korea,1990,8450
+South Korea,1991,9230
+South Korea,1992,9700
+South Korea,1993,10300
+South Korea,1994,11100
+South Korea,1995,12000
+South Korea,1996,12800
+South Korea,1997,13400
+South Korea,1998,12500
+South Korea,1999,13800
+South Korea,2000,15000
+South Korea,2001,15600
+South Korea,2002,16700
+South Korea,2003,17100
+South Korea,2004,17900
+South Korea,2005,18400
+South Korea,2006,19400
+South Korea,2007,20300
+South Korea,2008,20800
+South Korea,2009,20800
+South Korea,2010,22100
+South Korea,2011,22900
+South Korea,2012,23400
+South Korea,2013,23900
+South Korea,2014,24400
+South Korea,2015,24900
+South Korea,2016,25600
+South Korea,2017,26200
+Spain,1960,
+Spain,1961,
+Spain,1962,
+Spain,1963,
+Spain,1964,
+Spain,1965,
+Spain,1966,
+Spain,1967,
+Spain,1968,
+Spain,1969,
+Spain,1970,13400
+Spain,1971,13900
+Spain,1972,14900
+Spain,1973,15900
+Spain,1974,16700
+Spain,1975,16600
+Spain,1976,16900
+Spain,1977,17100
+Spain,1978,17200
+Spain,1979,17100
+Spain,1980,17300
+Spain,1981,17000
+Spain,1982,17100
+Spain,1983,17300
+Spain,1984,17500
+Spain,1985,18000
+Spain,1986,18600
+Spain,1987,19600
+Spain,1988,20500
+Spain,1989,21500
+Spain,1990,22300
+Spain,1991,22800
+Spain,1992,22900
+Spain,1993,22700
+Spain,1994,22700
+Spain,1995,23600
+Spain,1996,24100
+Spain,1997,24900
+Spain,1998,25800
+Spain,1999,26900
+Spain,2000,28200
+Spain,2001,29000
+Spain,2002,29400
+Spain,2003,29800
+Spain,2004,30200
+Spain,2005,30700
+Spain,2006,31300
+Spain,2007,31700
+Spain,2008,31400
+Spain,2009,30300
+Spain,2010,30300
+Spain,2011,29800
+Spain,2012,29200
+Spain,2013,28900
+Spain,2014,29400
+Spain,2015,30500
+Spain,2016,31500
+Spain,2017,
+Sri Lanka,1960,
+Sri Lanka,1961,573
+Sri Lanka,1962,596
+Sri Lanka,1963,588
+Sri Lanka,1964,603
+Sri Lanka,1965,600
+Sri Lanka,1966,620
+Sri Lanka,1967,643
+Sri Lanka,1968,656
+Sri Lanka,1969,697
+Sri Lanka,1970,672
+Sri Lanka,1971,654
+Sri Lanka,1972,645
+Sri Lanka,1973,672
+Sri Lanka,1974,677
+Sri Lanka,1975,699
+Sri Lanka,1976,683
+Sri Lanka,1977,706
+Sri Lanka,1978,772
+Sri Lanka,1979,872
+Sri Lanka,1980,918
+Sri Lanka,1981,941
+Sri Lanka,1982,981
+Sri Lanka,1983,998
+Sri Lanka,1984,1010
+Sri Lanka,1985,1070
+Sri Lanka,1986,1100
+Sri Lanka,1987,1110
+Sri Lanka,1988,1120
+Sri Lanka,1989,1120
+Sri Lanka,1990,1180
+Sri Lanka,1991,1220
+Sri Lanka,1992,1270
+Sri Lanka,1993,1340
+Sri Lanka,1994,1400
+Sri Lanka,1995,1450
+Sri Lanka,1996,1490
+Sri Lanka,1997,1590
+Sri Lanka,1998,1640
+Sri Lanka,1999,1700
+Sri Lanka,2000,1790
+Sri Lanka,2001,1750
+Sri Lanka,2002,1810
+Sri Lanka,2003,1920
+Sri Lanka,2004,2000
+Sri Lanka,2005,2110
+Sri Lanka,2006,2250
+Sri Lanka,2007,2390
+Sri Lanka,2008,2490
+Sri Lanka,2009,2590
+Sri Lanka,2010,2780
+Sri Lanka,2011,3000
+Sri Lanka,2012,3230
+Sri Lanka,2013,3290
+Sri Lanka,2014,3430
+Sri Lanka,2015,3550
+Sri Lanka,2016,3660
+Sri Lanka,2017,3730
+St. Kitts and Nevis,1960,
+St. Kitts and Nevis,1961,
+St. Kitts and Nevis,1962,
+St. Kitts and Nevis,1963,
+St. Kitts and Nevis,1964,
+St. Kitts and Nevis,1965,
+St. Kitts and Nevis,1966,
+St. Kitts and Nevis,1967,
+St. Kitts and Nevis,1968,
+St. Kitts and Nevis,1969,
+St. Kitts and Nevis,1970,
+St. Kitts and Nevis,1971,
+St. Kitts and Nevis,1972,
+St. Kitts and Nevis,1973,
+St. Kitts and Nevis,1974,
+St. Kitts and Nevis,1975,
+St. Kitts and Nevis,1976,
+St. Kitts and Nevis,1977,
+St. Kitts and Nevis,1978,
+St. Kitts and Nevis,1979,
+St. Kitts and Nevis,1980,
+St. Kitts and Nevis,1981,
+St. Kitts and Nevis,1982,
+St. Kitts and Nevis,1983,
+St. Kitts and Nevis,1984,
+St. Kitts and Nevis,1985,
+St. Kitts and Nevis,1986,
+St. Kitts and Nevis,1987,
+St. Kitts and Nevis,1988,
+St. Kitts and Nevis,1989,
+St. Kitts and Nevis,1990,
+St. Kitts and Nevis,1991,
+St. Kitts and Nevis,1992,
+St. Kitts and Nevis,1993,
+St. Kitts and Nevis,1994,
+St. Kitts and Nevis,1995,
+St. Kitts and Nevis,1996,
+St. Kitts and Nevis,1997,
+St. Kitts and Nevis,1998,
+St. Kitts and Nevis,1999,
+St. Kitts and Nevis,2000,
+St. Kitts and Nevis,2001,
+St. Kitts and Nevis,2002,
+St. Kitts and Nevis,2003,
+St. Kitts and Nevis,2004,
+St. Kitts and Nevis,2005,
+St. Kitts and Nevis,2006,
+St. Kitts and Nevis,2007,
+St. Kitts and Nevis,2008,
+St. Kitts and Nevis,2009,
+St. Kitts and Nevis,2010,13100
+St. Kitts and Nevis,2011,
+St. Kitts and Nevis,2012,
+St. Kitts and Nevis,2013,
+St. Kitts and Nevis,2014,
+St. Kitts and Nevis,2015,
+St. Kitts and Nevis,2016,
+St. Kitts and Nevis,2017,
+St. Lucia,1960,
+St. Lucia,1961,
+St. Lucia,1962,
+St. Lucia,1963,
+St. Lucia,1964,
+St. Lucia,1965,
+St. Lucia,1966,
+St. Lucia,1967,
+St. Lucia,1968,
+St. Lucia,1969,
+St. Lucia,1970,
+St. Lucia,1971,
+St. Lucia,1972,
+St. Lucia,1973,
+St. Lucia,1974,
+St. Lucia,1975,
+St. Lucia,1976,
+St. Lucia,1977,
+St. Lucia,1978,
+St. Lucia,1979,
+St. Lucia,1980,
+St. Lucia,1981,
+St. Lucia,1982,
+St. Lucia,1983,
+St. Lucia,1984,
+St. Lucia,1985,
+St. Lucia,1986,
+St. Lucia,1987,
+St. Lucia,1988,
+St. Lucia,1989,
+St. Lucia,1990,
+St. Lucia,1991,
+St. Lucia,1992,
+St. Lucia,1993,
+St. Lucia,1994,
+St. Lucia,1995,
+St. Lucia,1996,
+St. Lucia,1997,
+St. Lucia,1998,
+St. Lucia,1999,
+St. Lucia,2000,
+St. Lucia,2001,
+St. Lucia,2002,
+St. Lucia,2003,
+St. Lucia,2004,
+St. Lucia,2005,
+St. Lucia,2006,
+St. Lucia,2007,
+St. Lucia,2008,
+St. Lucia,2009,
+St. Lucia,2010,7780
+St. Lucia,2011,
+St. Lucia,2012,
+St. Lucia,2013,
+St. Lucia,2014,
+St. Lucia,2015,
+St. Lucia,2016,
+St. Lucia,2017,
+St. Vincent and the Grenadines,1960,
+St. Vincent and the Grenadines,1961,
+St. Vincent and the Grenadines,1962,
+St. Vincent and the Grenadines,1963,
+St. Vincent and the Grenadines,1964,
+St. Vincent and the Grenadines,1965,
+St. Vincent and the Grenadines,1966,
+St. Vincent and the Grenadines,1967,
+St. Vincent and the Grenadines,1968,
+St. Vincent and the Grenadines,1969,
+St. Vincent and the Grenadines,1970,
+St. Vincent and the Grenadines,1971,
+St. Vincent and the Grenadines,1972,
+St. Vincent and the Grenadines,1973,
+St. Vincent and the Grenadines,1974,
+St. Vincent and the Grenadines,1975,
+St. Vincent and the Grenadines,1976,
+St. Vincent and the Grenadines,1977,
+St. Vincent and the Grenadines,1978,
+St. Vincent and the Grenadines,1979,
+St. Vincent and the Grenadines,1980,
+St. Vincent and the Grenadines,1981,
+St. Vincent and the Grenadines,1982,
+St. Vincent and the Grenadines,1983,
+St. Vincent and the Grenadines,1984,
+St. Vincent and the Grenadines,1985,
+St. Vincent and the Grenadines,1986,
+St. Vincent and the Grenadines,1987,
+St. Vincent and the Grenadines,1988,
+St. Vincent and the Grenadines,1989,
+St. Vincent and the Grenadines,1990,
+St. Vincent and the Grenadines,1991,
+St. Vincent and the Grenadines,1992,
+St. Vincent and the Grenadines,1993,
+St. Vincent and the Grenadines,1994,
+St. Vincent and the Grenadines,1995,
+St. Vincent and the Grenadines,1996,
+St. Vincent and the Grenadines,1997,
+St. Vincent and the Grenadines,1998,
+St. Vincent and the Grenadines,1999,
+St. Vincent and the Grenadines,2000,
+St. Vincent and the Grenadines,2001,
+St. Vincent and the Grenadines,2002,
+St. Vincent and the Grenadines,2003,
+St. Vincent and the Grenadines,2004,
+St. Vincent and the Grenadines,2005,
+St. Vincent and the Grenadines,2006,
+St. Vincent and the Grenadines,2007,
+St. Vincent and the Grenadines,2008,
+St. Vincent and the Grenadines,2009,
+St. Vincent and the Grenadines,2010,6120
+St. Vincent and the Grenadines,2011,
+St. Vincent and the Grenadines,2012,
+St. Vincent and the Grenadines,2013,
+St. Vincent and the Grenadines,2014,
+St. Vincent and the Grenadines,2015,
+St. Vincent and the Grenadines,2016,
+St. Vincent and the Grenadines,2017,
+Sudan,1960,
+Sudan,1961,
+Sudan,1962,
+Sudan,1963,
+Sudan,1964,
+Sudan,1965,846
+Sudan,1966,793
+Sudan,1967,777
+Sudan,1968,768
+Sudan,1969,756
+Sudan,1970,778
+Sudan,1971,771
+Sudan,1972,709
+Sudan,1973,693
+Sudan,1974,746
+Sudan,1975,836
+Sudan,1976,946
+Sudan,1977,973
+Sudan,1978,886
+Sudan,1979,812
+Sudan,1980,799
+Sudan,1981,804
+Sudan,1982,839
+Sudan,1983,824
+Sudan,1984,743
+Sudan,1985,681
+Sudan,1986,698
+Sudan,1987,778
+Sudan,1988,749
+Sudan,1989,784
+Sudan,1990,698
+Sudan,1991,686
+Sudan,1992,732
+Sudan,1993,758
+Sudan,1994,768
+Sudan,1995,800
+Sudan,1996,848
+Sudan,1997,921
+Sudan,1998,931
+Sudan,1999,927
+Sudan,2000,934
+Sudan,2001,961
+Sudan,2002,1000
+Sudan,2003,1030
+Sudan,2004,1040
+Sudan,2005,1100
+Sudan,2006,1190
+Sudan,2007,1290
+Sudan,2008,1350
+Sudan,2009,1360
+Sudan,2010,1360
+Sudan,2011,1520
+Sudan,2012,1670
+Sudan,2013,1230
+Sudan,2014,1670
+Sudan,2015,1720
+Sudan,2016,1760
+Sudan,2017,1800
+Suriname,1960,
+Suriname,1961,
+Suriname,1962,
+Suriname,1963,
+Suriname,1964,
+Suriname,1965,
+Suriname,1966,
+Suriname,1967,
+Suriname,1968,
+Suriname,1969,
+Suriname,1970,
+Suriname,1971,
+Suriname,1972,
+Suriname,1973,
+Suriname,1974,
+Suriname,1975,
+Suriname,1976,
+Suriname,1977,
+Suriname,1978,
+Suriname,1979,
+Suriname,1980,
+Suriname,1981,
+Suriname,1982,
+Suriname,1983,
+Suriname,1984,
+Suriname,1985,
+Suriname,1986,
+Suriname,1987,
+Suriname,1988,
+Suriname,1989,
+Suriname,1990,
+Suriname,1991,
+Suriname,1992,
+Suriname,1993,
+Suriname,1994,
+Suriname,1995,
+Suriname,1996,
+Suriname,1997,
+Suriname,1998,
+Suriname,1999,
+Suriname,2000,
+Suriname,2001,
+Suriname,2002,
+Suriname,2003,
+Suriname,2004,
+Suriname,2005,
+Suriname,2006,
+Suriname,2007,
+Suriname,2008,
+Suriname,2009,
+Suriname,2010,8110
+Suriname,2011,
+Suriname,2012,
+Suriname,2013,
+Suriname,2014,
+Suriname,2015,
+Suriname,2016,
+Suriname,2017,
+Swaziland,1960,
+Swaziland,1961,
+Swaziland,1962,
+Swaziland,1963,
+Swaziland,1964,
+Swaziland,1965,
+Swaziland,1966,
+Swaziland,1967,
+Swaziland,1968,
+Swaziland,1969,
+Swaziland,1970,
+Swaziland,1971,
+Swaziland,1972,
+Swaziland,1973,
+Swaziland,1974,
+Swaziland,1975,
+Swaziland,1976,
+Swaziland,1977,
+Swaziland,1978,
+Swaziland,1979,
+Swaziland,1980,
+Swaziland,1981,
+Swaziland,1982,
+Swaziland,1983,
+Swaziland,1984,
+Swaziland,1985,
+Swaziland,1986,
+Swaziland,1987,
+Swaziland,1988,
+Swaziland,1989,
+Swaziland,1990,2860
+Swaziland,1991,2860
+Swaziland,1992,2890
+Swaziland,1993,2850
+Swaziland,1994,2730
+Swaziland,1995,2970
+Swaziland,1996,3110
+Swaziland,1997,3140
+Swaziland,1998,3020
+Swaziland,1999,3110
+Swaziland,2000,3010
+Swaziland,2001,3150
+Swaziland,2002,3070
+Swaziland,2003,3100
+Swaziland,2004,3250
+Swaziland,2005,3610
+Swaziland,2006,3590
+Swaziland,2007,3710
+Swaziland,2008,3630
+Swaziland,2009,3550
+Swaziland,2010,3500
+Swaziland,2011,3680
+Swaziland,2012,3790
+Swaziland,2013,4020
+Swaziland,2014,3990
+Swaziland,2015,3960
+Swaziland,2016,3900
+Swaziland,2017,
+Sweden,1960,
+Sweden,1961,
+Sweden,1962,
+Sweden,1963,
+Sweden,1964,
+Sweden,1965,
+Sweden,1966,
+Sweden,1967,
+Sweden,1968,
+Sweden,1969,
+Sweden,1970,26500
+Sweden,1971,26600
+Sweden,1972,27200
+Sweden,1973,28300
+Sweden,1974,29100
+Sweden,1975,29700
+Sweden,1976,29900
+Sweden,1977,29300
+Sweden,1978,29700
+Sweden,1979,30800
+Sweden,1980,30900
+Sweden,1981,30800
+Sweden,1982,30900
+Sweden,1983,31400
+Sweden,1984,32700
+Sweden,1985,33400
+Sweden,1986,34400
+Sweden,1987,35700
+Sweden,1988,36400
+Sweden,1989,37000
+Sweden,1990,36700
+Sweden,1991,35700
+Sweden,1992,34400
+Sweden,1993,33200
+Sweden,1994,35100
+Sweden,1995,36400
+Sweden,1996,37000
+Sweden,1997,38100
+Sweden,1998,40100
+Sweden,1999,42600
+Sweden,2000,44700
+Sweden,2001,45300
+Sweden,2002,46200
+Sweden,2003,47900
+Sweden,2004,49200
+Sweden,2005,50700
+Sweden,2006,53500
+Sweden,2007,55100
+Sweden,2008,54600
+Sweden,2009,50800
+Sweden,2010,53600
+Sweden,2011,54200
+Sweden,2012,53800
+Sweden,2013,53900
+Sweden,2014,54700
+Sweden,2015,56200
+Sweden,2016,57400
+Sweden,2017,
+Switzerland,1960,
+Switzerland,1961,
+Switzerland,1962,
+Switzerland,1963,
+Switzerland,1964,
+Switzerland,1965,
+Switzerland,1966,
+Switzerland,1967,
+Switzerland,1968,
+Switzerland,1969,
+Switzerland,1970,
+Switzerland,1971,
+Switzerland,1972,
+Switzerland,1973,
+Switzerland,1974,
+Switzerland,1975,
+Switzerland,1976,
+Switzerland,1977,
+Switzerland,1978,
+Switzerland,1979,
+Switzerland,1980,55900
+Switzerland,1981,56700
+Switzerland,1982,55600
+Switzerland,1983,55900
+Switzerland,1984,57800
+Switzerland,1985,59600
+Switzerland,1986,60000
+Switzerland,1987,60400
+Switzerland,1988,62400
+Switzerland,1989,64200
+Switzerland,1990,65500
+Switzerland,1991,64200
+Switzerland,1992,63300
+Switzerland,1993,62900
+Switzerland,1994,62700
+Switzerland,1995,63100
+Switzerland,1996,63300
+Switzerland,1997,65700
+Switzerland,1998,67800
+Switzerland,1999,69100
+Switzerland,2000,72000
+Switzerland,2001,70700
+Switzerland,2002,69500
+Switzerland,2003,71600
+Switzerland,2004,72900
+Switzerland,2005,76100
+Switzerland,2006,78000
+Switzerland,2007,75400
+Switzerland,2008,70700
+Switzerland,2009,74400
+Switzerland,2010,78800
+Switzerland,2011,75400
+Switzerland,2012,76300
+Switzerland,2013,76900
+Switzerland,2014,76800
+Switzerland,2015,77900
+Switzerland,2016,
+Switzerland,2017,
+Tajikistan,1960,
+Tajikistan,1961,
+Tajikistan,1962,
+Tajikistan,1963,
+Tajikistan,1964,
+Tajikistan,1965,
+Tajikistan,1966,
+Tajikistan,1967,
+Tajikistan,1968,
+Tajikistan,1969,
+Tajikistan,1970,
+Tajikistan,1971,
+Tajikistan,1972,
+Tajikistan,1973,
+Tajikistan,1974,
+Tajikistan,1975,
+Tajikistan,1976,
+Tajikistan,1977,
+Tajikistan,1978,
+Tajikistan,1979,
+Tajikistan,1980,
+Tajikistan,1981,
+Tajikistan,1982,
+Tajikistan,1983,
+Tajikistan,1984,
+Tajikistan,1985,
+Tajikistan,1986,
+Tajikistan,1987,
+Tajikistan,1988,
+Tajikistan,1989,
+Tajikistan,1990,
+Tajikistan,1991,
+Tajikistan,1992,
+Tajikistan,1993,697
+Tajikistan,1994,529
+Tajikistan,1995,453
+Tajikistan,1996,360
+Tajikistan,1997,378
+Tajikistan,1998,392
+Tajikistan,1999,401
+Tajikistan,2000,422
+Tajikistan,2001,455
+Tajikistan,2002,494
+Tajikistan,2003,532
+Tajikistan,2004,588
+Tajikistan,2005,620
+Tajikistan,2006,649
+Tajikistan,2007,693
+Tajikistan,2008,739
+Tajikistan,2009,748
+Tajikistan,2010,912
+Tajikistan,2011,954
+Tajikistan,2012,1000
+Tajikistan,2013,1070
+Tajikistan,2014,
+Tajikistan,2015,
+Tajikistan,2016,
+Tajikistan,2017,
+Tanzania,1960,
+Tanzania,1961,
+Tanzania,1962,
+Tanzania,1963,
+Tanzania,1964,
+Tanzania,1965,
+Tanzania,1966,
+Tanzania,1967,
+Tanzania,1968,
+Tanzania,1969,
+Tanzania,1970,
+Tanzania,1971,
+Tanzania,1972,
+Tanzania,1973,
+Tanzania,1974,
+Tanzania,1975,
+Tanzania,1976,
+Tanzania,1977,
+Tanzania,1978,
+Tanzania,1979,
+Tanzania,1980,
+Tanzania,1981,
+Tanzania,1982,
+Tanzania,1983,
+Tanzania,1984,
+Tanzania,1985,
+Tanzania,1986,
+Tanzania,1987,
+Tanzania,1988,
+Tanzania,1989,
+Tanzania,1990,475
+Tanzania,1991,472
+Tanzania,1992,458
+Tanzania,1993,450
+Tanzania,1994,443
+Tanzania,1995,449
+Tanzania,1996,462
+Tanzania,1997,464
+Tanzania,1998,471
+Tanzania,1999,482
+Tanzania,2000,491
+Tanzania,2001,497
+Tanzania,2002,530
+Tanzania,2003,546
+Tanzania,2004,572
+Tanzania,2005,598
+Tanzania,2006,619
+Tanzania,2007,643
+Tanzania,2008,659
+Tanzania,2009,674
+Tanzania,2010,694
+Tanzania,2011,728
+Tanzania,2012,737
+Tanzania,2013,770
+Tanzania,2014,797
+Tanzania,2015,822
+Tanzania,2016,853
+Tanzania,2017,
+Thailand,1960,569
+Thailand,1961,582
+Thailand,1962,608
+Thailand,1963,637
+Thailand,1964,660
+Thailand,1965,695
+Thailand,1966,749
+Thailand,1967,792
+Thailand,1968,831
+Thailand,1969,860
+Thailand,1970,930
+Thailand,1971,946
+Thailand,1972,956
+Thailand,1973,1020
+Thailand,1974,1050
+Thailand,1975,1070
+Thailand,1976,1140
+Thailand,1977,1220
+Thailand,1978,1310
+Thailand,1979,1350
+Thailand,1980,1390
+Thailand,1981,1430
+Thailand,1982,1480
+Thailand,1983,1550
+Thailand,1984,1600
+Thailand,1985,1640
+Thailand,1986,1690
+Thailand,1987,1820
+Thailand,1988,2030
+Thailand,1989,2250
+Thailand,1990,2470
+Thailand,1991,2640
+Thailand,1992,2800
+Thailand,1993,3020
+Thailand,1994,3230
+Thailand,1995,3450
+Thailand,1996,3590
+Thailand,1997,3430
+Thailand,1998,3100
+Thailand,1999,3240
+Thailand,2000,3390
+Thailand,2001,3450
+Thailand,2002,3600
+Thailand,2003,3810
+Thailand,2004,4010
+Thailand,2005,4140
+Thailand,2006,4360
+Thailand,2007,4580
+Thailand,2008,4630
+Thailand,2009,4580
+Thailand,2010,4860
+Thailand,2011,4970
+Thailand,2012,5190
+Thailand,2013,5210
+Thailand,2014,5310
+Thailand,2015,5440
+Thailand,2016,5640
+Thailand,2017,
+Timor-Leste,1960,
+Timor-Leste,1961,
+Timor-Leste,1962,
+Timor-Leste,1963,
+Timor-Leste,1964,
+Timor-Leste,1965,
+Timor-Leste,1966,
+Timor-Leste,1967,
+Timor-Leste,1968,
+Timor-Leste,1969,
+Timor-Leste,1970,
+Timor-Leste,1971,
+Timor-Leste,1972,
+Timor-Leste,1973,
+Timor-Leste,1974,
+Timor-Leste,1975,
+Timor-Leste,1976,
+Timor-Leste,1977,
+Timor-Leste,1978,
+Timor-Leste,1979,
+Timor-Leste,1980,
+Timor-Leste,1981,
+Timor-Leste,1982,
+Timor-Leste,1983,
+Timor-Leste,1984,
+Timor-Leste,1985,
+Timor-Leste,1986,
+Timor-Leste,1987,
+Timor-Leste,1988,
+Timor-Leste,1989,
+Timor-Leste,1990,
+Timor-Leste,1991,
+Timor-Leste,1992,
+Timor-Leste,1993,
+Timor-Leste,1994,
+Timor-Leste,1995,
+Timor-Leste,1996,
+Timor-Leste,1997,
+Timor-Leste,1998,
+Timor-Leste,1999,
+Timor-Leste,2000,1890
+Timor-Leste,2001,1960
+Timor-Leste,2002,2100
+Timor-Leste,2003,1730
+Timor-Leste,2004,1240
+Timor-Leste,2005,661
+Timor-Leste,2006,1160
+Timor-Leste,2007,2420
+Timor-Leste,2008,2630
+Timor-Leste,2009,3000
+Timor-Leste,2010,3010
+Timor-Leste,2011,2950
+Timor-Leste,2012,1740
+Timor-Leste,2013,2290
+Timor-Leste,2014,2060
+Timor-Leste,2015,3010
+Timor-Leste,2016,3020
+Timor-Leste,2017,2570
+Togo,1960,
+Togo,1961,
+Togo,1962,
+Togo,1963,
+Togo,1964,
+Togo,1965,
+Togo,1966,
+Togo,1967,
+Togo,1968,
+Togo,1969,
+Togo,1970,
+Togo,1971,
+Togo,1972,
+Togo,1973,
+Togo,1974,
+Togo,1975,
+Togo,1976,
+Togo,1977,
+Togo,1978,
+Togo,1979,
+Togo,1980,
+Togo,1981,
+Togo,1982,
+Togo,1983,
+Togo,1984,
+Togo,1985,
+Togo,1986,
+Togo,1987,
+Togo,1988,
+Togo,1989,
+Togo,1990,
+Togo,1991,
+Togo,1992,
+Togo,1993,
+Togo,1994,
+Togo,1995,
+Togo,1996,
+Togo,1997,
+Togo,1998,
+Togo,1999,
+Togo,2000,
+Togo,2001,
+Togo,2002,
+Togo,2003,
+Togo,2004,
+Togo,2005,
+Togo,2006,
+Togo,2007,
+Togo,2008,
+Togo,2009,424
+Togo,2010,425
+Togo,2011,424
+Togo,2012,417
+Togo,2013,411
+Togo,2014,458
+Togo,2015,555
+Togo,2016,568
+Togo,2017,587
+Tonga,1960,
+Tonga,1961,
+Tonga,1962,
+Tonga,1963,
+Tonga,1964,
+Tonga,1965,
+Tonga,1966,
+Tonga,1967,
+Tonga,1968,
+Tonga,1969,
+Tonga,1970,
+Tonga,1971,
+Tonga,1972,
+Tonga,1973,
+Tonga,1974,
+Tonga,1975,
+Tonga,1976,
+Tonga,1977,
+Tonga,1978,
+Tonga,1979,
+Tonga,1980,
+Tonga,1981,
+Tonga,1982,
+Tonga,1983,
+Tonga,1984,
+Tonga,1985,
+Tonga,1986,
+Tonga,1987,
+Tonga,1988,
+Tonga,1989,
+Tonga,1990,
+Tonga,1991,
+Tonga,1992,
+Tonga,1993,
+Tonga,1994,
+Tonga,1995,
+Tonga,1996,
+Tonga,1997,
+Tonga,1998,
+Tonga,1999,
+Tonga,2000,
+Tonga,2001,
+Tonga,2002,
+Tonga,2003,
+Tonga,2004,
+Tonga,2005,
+Tonga,2006,
+Tonga,2007,
+Tonga,2008,
+Tonga,2009,
+Tonga,2010,3660
+Tonga,2011,
+Tonga,2012,
+Tonga,2013,
+Tonga,2014,
+Tonga,2015,
+Tonga,2016,
+Tonga,2017,
+Trinidad and Tobago,1960,
+Trinidad and Tobago,1961,
+Trinidad and Tobago,1962,
+Trinidad and Tobago,1963,
+Trinidad and Tobago,1964,
+Trinidad and Tobago,1965,
+Trinidad and Tobago,1966,
+Trinidad and Tobago,1967,
+Trinidad and Tobago,1968,
+Trinidad and Tobago,1969,
+Trinidad and Tobago,1970,
+Trinidad and Tobago,1971,
+Trinidad and Tobago,1972,
+Trinidad and Tobago,1973,
+Trinidad and Tobago,1974,
+Trinidad and Tobago,1975,
+Trinidad and Tobago,1976,
+Trinidad and Tobago,1977,
+Trinidad and Tobago,1978,
+Trinidad and Tobago,1979,
+Trinidad and Tobago,1980,
+Trinidad and Tobago,1981,
+Trinidad and Tobago,1982,
+Trinidad and Tobago,1983,
+Trinidad and Tobago,1984,
+Trinidad and Tobago,1985,
+Trinidad and Tobago,1986,
+Trinidad and Tobago,1987,
+Trinidad and Tobago,1988,
+Trinidad and Tobago,1989,
+Trinidad and Tobago,1990,
+Trinidad and Tobago,1991,
+Trinidad and Tobago,1992,
+Trinidad and Tobago,1993,
+Trinidad and Tobago,1994,
+Trinidad and Tobago,1995,
+Trinidad and Tobago,1996,
+Trinidad and Tobago,1997,
+Trinidad and Tobago,1998,
+Trinidad and Tobago,1999,
+Trinidad and Tobago,2000,
+Trinidad and Tobago,2001,
+Trinidad and Tobago,2002,
+Trinidad and Tobago,2003,
+Trinidad and Tobago,2004,
+Trinidad and Tobago,2005,
+Trinidad and Tobago,2006,
+Trinidad and Tobago,2007,
+Trinidad and Tobago,2008,
+Trinidad and Tobago,2009,
+Trinidad and Tobago,2010,15900
+Trinidad and Tobago,2011,
+Trinidad and Tobago,2012,
+Trinidad and Tobago,2013,
+Trinidad and Tobago,2014,
+Trinidad and Tobago,2015,
+Trinidad and Tobago,2016,
+Trinidad and Tobago,2017,
+Tunisia,1960,
+Tunisia,1961,
+Tunisia,1962,
+Tunisia,1963,
+Tunisia,1964,
+Tunisia,1965,1080
+Tunisia,1966,1100
+Tunisia,1967,1070
+Tunisia,1968,1150
+Tunisia,1969,1170
+Tunisia,1970,1210
+Tunisia,1971,1320
+Tunisia,1972,1520
+Tunisia,1973,1460
+Tunisia,1974,1550
+Tunisia,1975,1630
+Tunisia,1976,1710
+Tunisia,1977,1730
+Tunisia,1978,1800
+Tunisia,1979,1870
+Tunisia,1980,1970
+Tunisia,1981,2010
+Tunisia,1982,1950
+Tunisia,1983,1990
+Tunisia,1984,2050
+Tunisia,1985,2090
+Tunisia,1986,2000
+Tunisia,1987,2080
+Tunisia,1988,2030
+Tunisia,1989,2020
+Tunisia,1990,2160
+Tunisia,1991,2180
+Tunisia,1992,2290
+Tunisia,1993,2260
+Tunisia,1994,2300
+Tunisia,1995,2330
+Tunisia,1996,2450
+Tunisia,1997,2570
+Tunisia,1998,2670
+Tunisia,1999,2800
+Tunisia,2000,2890
+Tunisia,2001,2980
+Tunisia,2002,3000
+Tunisia,2003,3120
+Tunisia,2004,3290
+Tunisia,2005,3340
+Tunisia,2006,3500
+Tunisia,2007,3660
+Tunisia,2008,3760
+Tunisia,2009,3860
+Tunisia,2010,3950
+Tunisia,2011,3820
+Tunisia,2012,3940
+Tunisia,2013,3980
+Tunisia,2014,
+Tunisia,2015,
+Tunisia,2016,
+Tunisia,2017,
+Turkey,1960,
+Turkey,1961,
+Turkey,1962,
+Turkey,1963,
+Turkey,1964,
+Turkey,1965,
+Turkey,1966,
+Turkey,1967,
+Turkey,1968,
+Turkey,1969,
+Turkey,1970,
+Turkey,1971,
+Turkey,1972,
+Turkey,1973,
+Turkey,1974,
+Turkey,1975,
+Turkey,1976,
+Turkey,1977,
+Turkey,1978,
+Turkey,1979,
+Turkey,1980,
+Turkey,1981,
+Turkey,1982,
+Turkey,1983,
+Turkey,1984,
+Turkey,1985,
+Turkey,1986,
+Turkey,1987,6230
+Turkey,1988,6230
+Turkey,1989,6170
+Turkey,1990,6670
+Turkey,1991,6600
+Turkey,1992,6820
+Turkey,1993,7240
+Turkey,1994,6730
+Turkey,1995,7190
+Turkey,1996,7610
+Turkey,1997,8060
+Turkey,1998,8150
+Turkey,1999,7730
+Turkey,2000,8120
+Turkey,2001,7440
+Turkey,2002,7850
+Turkey,2003,8180
+Turkey,2004,8880
+Turkey,2005,9590
+Turkey,2006,10100
+Turkey,2007,10500
+Turkey,2008,10500
+Turkey,2009,9850
+Turkey,2010,10600
+Turkey,2011,11600
+Turkey,2012,12000
+Turkey,2013,12800
+Turkey,2014,13200
+Turkey,2015,13700
+Turkey,2016,14000
+Turkey,2017,14700
+Turkmenistan,1960,
+Turkmenistan,1961,
+Turkmenistan,1962,
+Turkmenistan,1963,
+Turkmenistan,1964,
+Turkmenistan,1965,
+Turkmenistan,1966,
+Turkmenistan,1967,
+Turkmenistan,1968,
+Turkmenistan,1969,
+Turkmenistan,1970,
+Turkmenistan,1971,
+Turkmenistan,1972,
+Turkmenistan,1973,
+Turkmenistan,1974,
+Turkmenistan,1975,
+Turkmenistan,1976,
+Turkmenistan,1977,
+Turkmenistan,1978,
+Turkmenistan,1979,
+Turkmenistan,1980,
+Turkmenistan,1981,
+Turkmenistan,1982,
+Turkmenistan,1983,
+Turkmenistan,1984,
+Turkmenistan,1985,
+Turkmenistan,1986,
+Turkmenistan,1987,
+Turkmenistan,1988,
+Turkmenistan,1989,
+Turkmenistan,1990,
+Turkmenistan,1991,
+Turkmenistan,1992,
+Turkmenistan,1993,
+Turkmenistan,1994,
+Turkmenistan,1995,
+Turkmenistan,1996,
+Turkmenistan,1997,
+Turkmenistan,1998,
+Turkmenistan,1999,
+Turkmenistan,2000,
+Turkmenistan,2001,
+Turkmenistan,2002,
+Turkmenistan,2003,
+Turkmenistan,2004,
+Turkmenistan,2005,
+Turkmenistan,2006,
+Turkmenistan,2007,
+Turkmenistan,2008,
+Turkmenistan,2009,
+Turkmenistan,2010,4070
+Turkmenistan,2011,
+Turkmenistan,2012,
+Turkmenistan,2013,
+Turkmenistan,2014,
+Turkmenistan,2015,
+Turkmenistan,2016,
+Turkmenistan,2017,
+Tuvalu,1960,
+Tuvalu,1961,
+Tuvalu,1962,
+Tuvalu,1963,
+Tuvalu,1964,
+Tuvalu,1965,
+Tuvalu,1966,
+Tuvalu,1967,
+Tuvalu,1968,
+Tuvalu,1969,
+Tuvalu,1970,
+Tuvalu,1971,
+Tuvalu,1972,
+Tuvalu,1973,
+Tuvalu,1974,
+Tuvalu,1975,
+Tuvalu,1976,
+Tuvalu,1977,
+Tuvalu,1978,
+Tuvalu,1979,
+Tuvalu,1980,
+Tuvalu,1981,
+Tuvalu,1982,
+Tuvalu,1983,
+Tuvalu,1984,
+Tuvalu,1985,
+Tuvalu,1986,
+Tuvalu,1987,
+Tuvalu,1988,
+Tuvalu,1989,
+Tuvalu,1990,
+Tuvalu,1991,
+Tuvalu,1992,
+Tuvalu,1993,
+Tuvalu,1994,
+Tuvalu,1995,
+Tuvalu,1996,
+Tuvalu,1997,
+Tuvalu,1998,
+Tuvalu,1999,
+Tuvalu,2000,
+Tuvalu,2001,
+Tuvalu,2002,
+Tuvalu,2003,
+Tuvalu,2004,
+Tuvalu,2005,
+Tuvalu,2006,
+Tuvalu,2007,
+Tuvalu,2008,
+Tuvalu,2009,
+Tuvalu,2010,4840
+Tuvalu,2011,
+Tuvalu,2012,
+Tuvalu,2013,
+Tuvalu,2014,
+Tuvalu,2015,
+Tuvalu,2016,
+Tuvalu,2017,
+Uganda,1960,
+Uganda,1961,
+Uganda,1962,
+Uganda,1963,
+Uganda,1964,
+Uganda,1965,
+Uganda,1966,
+Uganda,1967,
+Uganda,1968,
+Uganda,1969,
+Uganda,1970,
+Uganda,1971,
+Uganda,1972,
+Uganda,1973,
+Uganda,1974,
+Uganda,1975,
+Uganda,1976,
+Uganda,1977,
+Uganda,1978,
+Uganda,1979,
+Uganda,1980,
+Uganda,1981,
+Uganda,1982,299
+Uganda,1983,304
+Uganda,1984,296
+Uganda,1985,276
+Uganda,1986,269
+Uganda,1987,272
+Uganda,1988,283
+Uganda,1989,290
+Uganda,1990,296
+Uganda,1991,303
+Uganda,1992,299
+Uganda,1993,318
+Uganda,1994,328
+Uganda,1995,356
+Uganda,1996,377
+Uganda,1997,386
+Uganda,1998,394
+Uganda,1999,412
+Uganda,2000,405
+Uganda,2001,406
+Uganda,2002,431
+Uganda,2003,444
+Uganda,2004,455
+Uganda,2005,466
+Uganda,2006,501
+Uganda,2007,528
+Uganda,2008,555
+Uganda,2009,573
+Uganda,2010,585
+Uganda,2011,620
+Uganda,2012,619
+Uganda,2013,619
+Uganda,2014,629
+Uganda,2015,642
+Uganda,2016,650
+Uganda,2017,651
+Ukraine,1960,
+Ukraine,1961,
+Ukraine,1962,
+Ukraine,1963,
+Ukraine,1964,
+Ukraine,1965,
+Ukraine,1966,
+Ukraine,1967,
+Ukraine,1968,
+Ukraine,1969,
+Ukraine,1970,
+Ukraine,1971,
+Ukraine,1972,
+Ukraine,1973,
+Ukraine,1974,
+Ukraine,1975,
+Ukraine,1976,
+Ukraine,1977,
+Ukraine,1978,
+Ukraine,1979,
+Ukraine,1980,
+Ukraine,1981,
+Ukraine,1982,
+Ukraine,1983,
+Ukraine,1984,
+Ukraine,1985,
+Ukraine,1986,
+Ukraine,1987,
+Ukraine,1988,
+Ukraine,1989,
+Ukraine,1990,4070
+Ukraine,1991,3710
+Ukraine,1992,3260
+Ukraine,1993,2730
+Ukraine,1994,2150
+Ukraine,1995,1890
+Ukraine,1996,1720
+Ukraine,1997,1680
+Ukraine,1998,1650
+Ukraine,1999,1650
+Ukraine,2000,1760
+Ukraine,2001,1970
+Ukraine,2002,2100
+Ukraine,2003,2330
+Ukraine,2004,2620
+Ukraine,2005,2720
+Ukraine,2006,2920
+Ukraine,2007,3170
+Ukraine,2008,3280
+Ukraine,2009,2780
+Ukraine,2010,2920
+Ukraine,2011,3060
+Ukraine,2012,3100
+Ukraine,2013,3100
+Ukraine,2014,3090
+Ukraine,2015,2790
+Ukraine,2016,2880
+Ukraine,2017,3080
+United Arab Emirates,1960,
+United Arab Emirates,1961,
+United Arab Emirates,1962,
+United Arab Emirates,1963,
+United Arab Emirates,1964,
+United Arab Emirates,1965,
+United Arab Emirates,1966,
+United Arab Emirates,1967,
+United Arab Emirates,1968,
+United Arab Emirates,1969,
+United Arab Emirates,1970,
+United Arab Emirates,1971,
+United Arab Emirates,1972,
+United Arab Emirates,1973,
+United Arab Emirates,1974,
+United Arab Emirates,1975,
+United Arab Emirates,1976,
+United Arab Emirates,1977,
+United Arab Emirates,1978,
+United Arab Emirates,1979,
+United Arab Emirates,1980,
+United Arab Emirates,1981,
+United Arab Emirates,1982,
+United Arab Emirates,1983,
+United Arab Emirates,1984,
+United Arab Emirates,1985,
+United Arab Emirates,1986,
+United Arab Emirates,1987,
+United Arab Emirates,1988,
+United Arab Emirates,1989,
+United Arab Emirates,1990,
+United Arab Emirates,1991,
+United Arab Emirates,1992,
+United Arab Emirates,1993,
+United Arab Emirates,1994,
+United Arab Emirates,1995,
+United Arab Emirates,1996,
+United Arab Emirates,1997,
+United Arab Emirates,1998,
+United Arab Emirates,1999,
+United Arab Emirates,2000,
+United Arab Emirates,2001,63500
+United Arab Emirates,2002,59200
+United Arab Emirates,2003,59900
+United Arab Emirates,2004,60300
+United Arab Emirates,2005,57200
+United Arab Emirates,2006,55200
+United Arab Emirates,2007,50100
+United Arab Emirates,2008,44300
+United Arab Emirates,2009,37600
+United Arab Emirates,2010,35000
+United Arab Emirates,2011,35800
+United Arab Emirates,2012,36400
+United Arab Emirates,2013,37900
+United Arab Emirates,2014,39200
+United Arab Emirates,2015,41000
+United Arab Emirates,2016,41700
+United Arab Emirates,2017,41500
+United Kingdom,1960,
+United Kingdom,1961,
+United Kingdom,1962,
+United Kingdom,1963,
+United Kingdom,1964,
+United Kingdom,1965,
+United Kingdom,1966,
+United Kingdom,1967,
+United Kingdom,1968,
+United Kingdom,1969,
+United Kingdom,1970,17900
+United Kingdom,1971,18400
+United Kingdom,1972,19100
+United Kingdom,1973,20300
+United Kingdom,1974,19800
+United Kingdom,1975,19500
+United Kingdom,1976,20100
+United Kingdom,1977,20600
+United Kingdom,1978,21400
+United Kingdom,1979,22200
+United Kingdom,1980,21700
+United Kingdom,1981,21600
+United Kingdom,1982,22000
+United Kingdom,1983,22900
+United Kingdom,1984,23400
+United Kingdom,1985,24300
+United Kingdom,1986,25100
+United Kingdom,1987,26300
+United Kingdom,1988,27800
+United Kingdom,1989,28400
+United Kingdom,1990,28500
+United Kingdom,1991,28100
+United Kingdom,1992,28200
+United Kingdom,1993,28800
+United Kingdom,1994,29900
+United Kingdom,1995,30500
+United Kingdom,1996,31200
+United Kingdom,1997,32400
+United Kingdom,1998,33300
+United Kingdom,1999,34300
+United Kingdom,2000,35600
+United Kingdom,2001,36500
+United Kingdom,2002,37500
+United Kingdom,2003,38600
+United Kingdom,2004,39300
+United Kingdom,2005,40500
+United Kingdom,2006,40700
+United Kingdom,2007,41300
+United Kingdom,2008,40500
+United Kingdom,2009,38500
+United Kingdom,2010,39200
+United Kingdom,2011,39400
+United Kingdom,2012,39200
+United Kingdom,2013,39600
+United Kingdom,2014,40200
+United Kingdom,2015,40800
+United Kingdom,2016,41300
+United Kingdom,2017,
+United States,1960,
+United States,1961,
+United States,1962,
+United States,1963,
+United States,1964,
+United States,1965,
+United States,1966,
+United States,1967,
+United States,1968,
+United States,1969,
+United States,1970,23400
+United States,1971,23900
+United States,1972,24800
+United States,1973,26100
+United States,1974,25700
+United States,1975,25400
+United States,1976,26500
+United States,1977,27500
+United States,1978,28700
+United States,1979,29300
+United States,1980,29000
+United States,1981,29400
+United States,1982,28600
+United States,1983,29600
+United States,1984,31400
+United States,1985,32400
+United States,1986,33100
+United States,1987,34000
+United States,1988,35100
+United States,1989,36100
+United States,1990,36400
+United States,1991,35900
+United States,1992,36600
+United States,1993,37100
+United States,1994,38100
+United States,1995,38700
+United States,1996,39700
+United States,1997,40900
+United States,1998,42200
+United States,1999,43800
+United States,2000,45100
+United States,2001,45100
+United States,2002,45500
+United States,2003,46400
+United States,2004,47800
+United States,2005,48900
+United States,2006,49700
+United States,2007,50300
+United States,2008,49800
+United States,2009,47900
+United States,2010,48900
+United States,2011,49400
+United States,2012,50100
+United States,2013,50500
+United States,2014,51400
+United States,2015,52400
+United States,2016,52700
+United States,2017,
+Uruguay,1960,
+Uruguay,1961,
+Uruguay,1962,
+Uruguay,1963,
+Uruguay,1964,
+Uruguay,1965,5340
+Uruguay,1966,5440
+Uruguay,1967,5160
+Uruguay,1968,5220
+Uruguay,1969,5510
+Uruguay,1970,6370
+Uruguay,1971,5600
+Uruguay,1972,5460
+Uruguay,1973,5130
+Uruguay,1974,5650
+Uruguay,1975,5930
+Uruguay,1976,6160
+Uruguay,1977,6240
+Uruguay,1978,6530
+Uruguay,1979,6950
+Uruguay,1980,7070
+Uruguay,1981,7380
+Uruguay,1982,6520
+Uruguay,1983,5600
+Uruguay,1984,5400
+Uruguay,1985,5460
+Uruguay,1986,6050
+Uruguay,1987,6540
+Uruguay,1988,6600
+Uruguay,1989,6600
+Uruguay,1990,6640
+Uruguay,1991,6910
+Uruguay,1992,7450
+Uruguay,1993,7600
+Uruguay,1994,8070
+Uruguay,1995,7920
+Uruguay,1996,8320
+Uruguay,1997,9030
+Uruguay,1998,9370
+Uruguay,1999,9200
+Uruguay,2000,8990
+Uruguay,2001,8620
+Uruguay,2002,8020
+Uruguay,2003,7730
+Uruguay,2004,8080
+Uruguay,2005,8820
+Uruguay,2006,9230
+Uruguay,2007,9810
+Uruguay,2008,10400
+Uruguay,2009,10800
+Uruguay,2010,11500
+Uruguay,2011,12100
+Uruguay,2012,12500
+Uruguay,2013,13000
+Uruguay,2014,13400
+Uruguay,2015,13500
+Uruguay,2016,13600
+Uruguay,2017,13900
+Uzbekistan,1960,
+Uzbekistan,1961,
+Uzbekistan,1962,
+Uzbekistan,1963,
+Uzbekistan,1964,
+Uzbekistan,1965,
+Uzbekistan,1966,
+Uzbekistan,1967,
+Uzbekistan,1968,
+Uzbekistan,1969,
+Uzbekistan,1970,
+Uzbekistan,1971,
+Uzbekistan,1972,
+Uzbekistan,1973,
+Uzbekistan,1974,
+Uzbekistan,1975,
+Uzbekistan,1976,
+Uzbekistan,1977,
+Uzbekistan,1978,
+Uzbekistan,1979,
+Uzbekistan,1980,
+Uzbekistan,1981,
+Uzbekistan,1982,
+Uzbekistan,1983,
+Uzbekistan,1984,
+Uzbekistan,1985,
+Uzbekistan,1986,
+Uzbekistan,1987,
+Uzbekistan,1988,
+Uzbekistan,1989,
+Uzbekistan,1990,
+Uzbekistan,1991,
+Uzbekistan,1992,
+Uzbekistan,1993,
+Uzbekistan,1994,
+Uzbekistan,1995,725
+Uzbekistan,1996,721
+Uzbekistan,1997,740
+Uzbekistan,1998,763
+Uzbekistan,1999,785
+Uzbekistan,2000,798
+Uzbekistan,2001,820
+Uzbekistan,2002,845
+Uzbekistan,2003,873
+Uzbekistan,2004,936
+Uzbekistan,2005,993
+Uzbekistan,2006,1050
+Uzbekistan,2007,1200
+Uzbekistan,2008,1310
+Uzbekistan,2009,1340
+Uzbekistan,2010,1420
+Uzbekistan,2011,1510
+Uzbekistan,2012,1630
+Uzbekistan,2013,1750
+Uzbekistan,2014,1830
+Uzbekistan,2015,1890
+Uzbekistan,2016,2000
+Uzbekistan,2017,2110
+Vanuatu,1960,
+Vanuatu,1961,
+Vanuatu,1962,
+Vanuatu,1963,
+Vanuatu,1964,
+Vanuatu,1965,
+Vanuatu,1966,
+Vanuatu,1967,
+Vanuatu,1968,
+Vanuatu,1969,
+Vanuatu,1970,
+Vanuatu,1971,
+Vanuatu,1972,
+Vanuatu,1973,
+Vanuatu,1974,
+Vanuatu,1975,
+Vanuatu,1976,
+Vanuatu,1977,
+Vanuatu,1978,
+Vanuatu,1979,
+Vanuatu,1980,
+Vanuatu,1981,
+Vanuatu,1982,
+Vanuatu,1983,
+Vanuatu,1984,
+Vanuatu,1985,
+Vanuatu,1986,
+Vanuatu,1987,
+Vanuatu,1988,
+Vanuatu,1989,
+Vanuatu,1990,
+Vanuatu,1991,
+Vanuatu,1992,
+Vanuatu,1993,
+Vanuatu,1994,
+Vanuatu,1995,
+Vanuatu,1996,
+Vanuatu,1997,
+Vanuatu,1998,
+Vanuatu,1999,
+Vanuatu,2000,
+Vanuatu,2001,
+Vanuatu,2002,
+Vanuatu,2003,
+Vanuatu,2004,2420
+Vanuatu,2005,2450
+Vanuatu,2006,2650
+Vanuatu,2007,2700
+Vanuatu,2008,2960
+Vanuatu,2009,2900
+Vanuatu,2010,2860
+Vanuatu,2011,2840
+Vanuatu,2012,2740
+Vanuatu,2013,2890
+Vanuatu,2014,2910
+Vanuatu,2015,
+Vanuatu,2016,
+Vanuatu,2017,
+Venezuela,1960,
+Venezuela,1961,11900
+Venezuela,1962,12400
+Venezuela,1963,12500
+Venezuela,1964,13200
+Venezuela,1965,13300
+Venezuela,1966,13100
+Venezuela,1967,13000
+Venezuela,1968,13500
+Venezuela,1969,13300
+Venezuela,1970,13900
+Venezuela,1971,13700
+Venezuela,1972,13700
+Venezuela,1973,14100
+Venezuela,1974,14200
+Venezuela,1975,14500
+Venezuela,1976,15200
+Venezuela,1977,15700
+Venezuela,1978,15600
+Venezuela,1979,15300
+Venezuela,1980,14300
+Venezuela,1981,13900
+Venezuela,1982,12900
+Venezuela,1983,12000
+Venezuela,1984,11700
+Venezuela,1985,11400
+Venezuela,1986,12000
+Venezuela,1987,12000
+Venezuela,1988,12500
+Venezuela,1989,10800
+Venezuela,1990,11700
+Venezuela,1991,12600
+Venezuela,1992,12900
+Venezuela,1993,12600
+Venezuela,1994,12000
+Venezuela,1995,12300
+Venezuela,1996,12000
+Venezuela,1997,12500
+Venezuela,1998,12300
+Venezuela,1999,11500
+Venezuela,2000,11700
+Venezuela,2001,11800
+Venezuela,2002,10400
+Venezuela,2003,9460
+Venezuela,2004,10900
+Venezuela,2005,12100
+Venezuela,2006,13200
+Venezuela,2007,14400
+Venezuela,2008,14800
+Venezuela,2009,13900
+Venezuela,2010,13400
+Venezuela,2011,13500
+Venezuela,2012,14000
+Venezuela,2013,14000
+Venezuela,2014,13600
+Venezuela,2015,
+Venezuela,2016,
+Venezuela,2017,
+Vietnam,1960,
+Vietnam,1961,
+Vietnam,1962,
+Vietnam,1963,
+Vietnam,1964,
+Vietnam,1965,
+Vietnam,1966,
+Vietnam,1967,
+Vietnam,1968,
+Vietnam,1969,
+Vietnam,1970,
+Vietnam,1971,
+Vietnam,1972,
+Vietnam,1973,
+Vietnam,1974,
+Vietnam,1975,
+Vietnam,1976,
+Vietnam,1977,
+Vietnam,1978,
+Vietnam,1979,
+Vietnam,1980,
+Vietnam,1981,
+Vietnam,1982,
+Vietnam,1983,
+Vietnam,1984,
+Vietnam,1985,
+Vietnam,1986,
+Vietnam,1987,
+Vietnam,1988,
+Vietnam,1989,
+Vietnam,1990,
+Vietnam,1991,
+Vietnam,1992,
+Vietnam,1993,
+Vietnam,1994,527
+Vietnam,1995,575
+Vietnam,1996,617
+Vietnam,1997,656
+Vietnam,1998,685
+Vietnam,1999,712
+Vietnam,2000,806
+Vietnam,2001,848
+Vietnam,2002,893
+Vietnam,2003,943
+Vietnam,2004,1010
+Vietnam,2005,995
+Vietnam,2006,1050
+Vietnam,2007,1110
+Vietnam,2008,1160
+Vietnam,2009,1190
+Vietnam,2010,1260
+Vietnam,2011,1320
+Vietnam,2012,1370
+Vietnam,2013,1430
+Vietnam,2014,1490
+Vietnam,2015,1560
+Vietnam,2016,1660
+Vietnam,2017,1740
+Yemen,1960,
+Yemen,1961,
+Yemen,1962,
+Yemen,1963,
+Yemen,1964,
+Yemen,1965,
+Yemen,1966,
+Yemen,1967,
+Yemen,1968,
+Yemen,1969,
+Yemen,1970,
+Yemen,1971,
+Yemen,1972,
+Yemen,1973,
+Yemen,1974,
+Yemen,1975,
+Yemen,1976,
+Yemen,1977,
+Yemen,1978,
+Yemen,1979,
+Yemen,1980,
+Yemen,1981,
+Yemen,1982,
+Yemen,1983,
+Yemen,1984,
+Yemen,1985,
+Yemen,1986,
+Yemen,1987,
+Yemen,1988,
+Yemen,1989,
+Yemen,1990,
+Yemen,1991,
+Yemen,1992,
+Yemen,1993,
+Yemen,1994,
+Yemen,1995,
+Yemen,1996,
+Yemen,1997,
+Yemen,1998,
+Yemen,1999,
+Yemen,2000,1040
+Yemen,2001,1070
+Yemen,2002,1070
+Yemen,2003,1060
+Yemen,2004,1060
+Yemen,2005,1090
+Yemen,2006,1140
+Yemen,2007,1150
+Yemen,2008,1140
+Yemen,2009,1190
+Yemen,2010,1230
+Yemen,2011,1030
+Yemen,2012,1060
+Yemen,2013,1080
+Yemen,2014,1030
+Yemen,2015,650
+Yemen,2016,431
+Yemen,2017,
+Zambia,1960,
+Zambia,1961,
+Zambia,1962,
+Zambia,1963,
+Zambia,1964,
+Zambia,1965,
+Zambia,1966,
+Zambia,1967,
+Zambia,1968,
+Zambia,1969,
+Zambia,1970,
+Zambia,1971,
+Zambia,1972,
+Zambia,1973,
+Zambia,1974,
+Zambia,1975,
+Zambia,1976,
+Zambia,1977,
+Zambia,1978,
+Zambia,1979,
+Zambia,1980,
+Zambia,1981,
+Zambia,1982,
+Zambia,1983,
+Zambia,1984,
+Zambia,1985,
+Zambia,1986,
+Zambia,1987,
+Zambia,1988,
+Zambia,1989,
+Zambia,1990,
+Zambia,1991,
+Zambia,1992,
+Zambia,1993,
+Zambia,1994,
+Zambia,1995,
+Zambia,1996,
+Zambia,1997,
+Zambia,1998,
+Zambia,1999,
+Zambia,2000,
+Zambia,2001,
+Zambia,2002,
+Zambia,2003,
+Zambia,2004,
+Zambia,2005,
+Zambia,2006,
+Zambia,2007,
+Zambia,2008,
+Zambia,2009,
+Zambia,2010,1360
+Zambia,2011,
+Zambia,2012,
+Zambia,2013,
+Zambia,2014,
+Zambia,2015,
+Zambia,2016,
+Zambia,2017,
+Zimbabwe,1960,
+Zimbabwe,1961,
+Zimbabwe,1962,
+Zimbabwe,1963,
+Zimbabwe,1964,
+Zimbabwe,1965,
+Zimbabwe,1966,
+Zimbabwe,1967,
+Zimbabwe,1968,
+Zimbabwe,1969,
+Zimbabwe,1970,
+Zimbabwe,1971,
+Zimbabwe,1972,
+Zimbabwe,1973,
+Zimbabwe,1974,
+Zimbabwe,1975,
+Zimbabwe,1976,
+Zimbabwe,1977,
+Zimbabwe,1978,
+Zimbabwe,1979,
+Zimbabwe,1980,
+Zimbabwe,1981,
+Zimbabwe,1982,
+Zimbabwe,1983,
+Zimbabwe,1984,
+Zimbabwe,1985,
+Zimbabwe,1986,
+Zimbabwe,1987,
+Zimbabwe,1988,
+Zimbabwe,1989,
+Zimbabwe,1990,
+Zimbabwe,1991,
+Zimbabwe,1992,
+Zimbabwe,1993,
+Zimbabwe,1994,
+Zimbabwe,1995,
+Zimbabwe,1996,
+Zimbabwe,1997,
+Zimbabwe,1998,
+Zimbabwe,1999,
+Zimbabwe,2000,
+Zimbabwe,2001,
+Zimbabwe,2002,
+Zimbabwe,2003,
+Zimbabwe,2004,
+Zimbabwe,2005,786
+Zimbabwe,2006,743
+Zimbabwe,2007,700
+Zimbabwe,2008,555
+Zimbabwe,2009,557
+Zimbabwe,2010,619
+Zimbabwe,2011,679
+Zimbabwe,2012,772
+Zimbabwe,2013,828
+Zimbabwe,2014,830
+Zimbabwe,2015,819
+Zimbabwe,2016,819
+Zimbabwe,2017,822

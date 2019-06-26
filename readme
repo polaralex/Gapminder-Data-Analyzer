@@ -1,0 +1,4 @@
+1. This is a Java app to analyze Gapminder data from a MySQL database, using charts shown by D3 and C3 in a Webview.
+2. The folder 'Database Backup' contains a dump of all the database tables.
+3. The Gapminder folder contains both the raw downloaded data and the Unpivoted ones.
+4. To use it with your own database, change the hard-coded connection data in the Model/DatabaseHandler class.
